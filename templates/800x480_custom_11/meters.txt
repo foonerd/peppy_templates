@@ -1,0 +1,56 @@
+# --- Template author - Wheaten -------
+[vertical-turntable-blue]
+meter.type = linear
+channels = 2
+ui.refresh.period = 0.05
+bgr.filename = vertical-turntable-blue-2024_dark-bgr.png
+indicator.filename = vertical-turntable-blue-2024_dark-indicator.png
+fgr.filename = vertical-turntable-blue-2024_dark-fgr.png
+left.x = 46
+left.y = 402
+right.x = 675
+right.y = 402     
+position.regular = 10
+position.overload = 2
+step.width.regular = 7
+step.width.overload = 7
+direction = left-right
+meter.x = 0
+meter.y = 0
+screen.bgr =
+# --- volumio optional entries -------
+config.extend = True
+albumart.pos = 247,78
+albumart.dimension =310,310
+albumart.rotation = True
+albumart.rotation.speed = 13
+
+playinfo.title.pos = 20,5,bold
+playinfo.title.color = 119,83,69
+playinfo.title.maxwidth = 760
+
+playinfo.artist.pos = 20,45,regular
+playinfo.artist.color = 119,83,69
+playinfo.artist.maxwidth = 760
+
+#playinfo.album.pos = 20,70,regular
+#playinfo.album.color = 0,207,0
+#playinfo.album.maxwidth = 760
+
+playinfo.center = True
+#font.color = 207,0,0
+font.color = 255,255,255
+
+playinfo.type.pos = 10,200
+playinfo.type.dimension = 60,60
+playinfo.samplerate.pos = 40,280,light
+playinfo.type.color = 0,1,10
+playinfo.samplerate.maxwidth = 130
+
+time.remaining.pos = 615,230
+time.remaining.color = 0,1,10
+
+font.size.digi = 50
+font.size.light = 26
+font.size.regular = 30
+font.size.bold = 36
