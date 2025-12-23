@@ -42,11 +42,11 @@
 
 | Property | Value |
 |----------|-------|
-| Meter Name | unknown |
-| Meter Type | unknown |
-| Extended Config | No |
+| Meter Name | Bang-Olufsen |
+| Meter Type | circular |
+| Extended Config | Yes |
 | Spectrum | No |
-| Album Art | No |
+| Album Art | Yes |
 
 **[Download 800x480_custom_03.zip](800x480_custom_03.zip)**
 
@@ -58,11 +58,11 @@
 
 | Property | Value |
 |----------|-------|
-| Meter Name | unknown |
-| Meter Type | unknown |
-| Extended Config | No |
+| Meter Name | black-grey-square |
+| Meter Type | circular |
+| Extended Config | Yes |
 | Spectrum | No |
-| Album Art | No |
+| Album Art | Yes |
 
 **[Download 800x480_custom_04.zip](800x480_custom_04.zip)**
 
@@ -74,11 +74,11 @@
 
 | Property | Value |
 |----------|-------|
-| Meter Name | unknown |
-| Meter Type | unknown |
-| Extended Config | No |
+| Meter Name | black-blue-square |
+| Meter Type | circular |
+| Extended Config | Yes |
 | Spectrum | No |
-| Album Art | No |
+| Album Art | Yes |
 
 **[Download 800x480_custom_05.zip](800x480_custom_05.zip)**
 
