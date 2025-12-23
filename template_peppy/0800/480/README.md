@@ -1,6 +1,6 @@
 # VU Meters - 800x480
 
-5 template(s) available for 800x480 resolution.
+6 template(s) available for 800x480 resolution.
 
 ---
 
@@ -81,6 +81,22 @@
 | Album Art | Yes |
 
 **[Download 800x480_custom_05.zip](800x480_custom_05.zip)**
+
+---
+
+## 800x480_custom_06
+
+![800x480_custom_06](previews/800x480_custom_06.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | RecordPlayer |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**[Download 800x480_custom_06.zip](800x480_custom_06.zip)**
 
 ---
 
