@@ -1,6 +1,6 @@
 # VU Meters - 800x480
 
-3 template(s) available for 800x480 resolution.
+5 template(s) available for 800x480 resolution.
 
 ---
 
@@ -38,17 +38,49 @@
 
 ## 800x480_custom_03
 
-![800x480_custom_03](previews/800x480_custom_03.png)
+![800x480_custom_03](previews/800x480_custom_03.svg)
 
 | Property | Value |
 |----------|-------|
-| Meter Name | Bang & Olufsen |
-| Meter Type | linear |
-| Extended Config | Yes |
+| Meter Name | unknown |
+| Meter Type | unknown |
+| Extended Config | No |
 | Spectrum | No |
-| Album Art | Yes |
+| Album Art | No |
 
 **[Download 800x480_custom_03.zip](800x480_custom_03.zip)**
+
+---
+
+## 800x480_custom_04
+
+![800x480_custom_04](previews/800x480_custom_04.svg)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | unknown |
+| Meter Type | unknown |
+| Extended Config | No |
+| Spectrum | No |
+| Album Art | No |
+
+**[Download 800x480_custom_04.zip](800x480_custom_04.zip)**
+
+---
+
+## 800x480_custom_05
+
+![800x480_custom_05](previews/800x480_custom_05.svg)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | unknown |
+| Meter Type | unknown |
+| Extended Config | No |
+| Spectrum | No |
+| Album Art | No |
+
+**[Download 800x480_custom_05.zip](800x480_custom_05.zip)**
 
 ---
 
