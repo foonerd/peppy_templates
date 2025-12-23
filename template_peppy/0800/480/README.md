@@ -38,7 +38,7 @@
 
 ## 800x480_custom_03
 
-![800x480_custom_03](previews/800x480_custom_03.svg)
+![800x480_custom_03](previews/800x480_custom_03.png)
 
 | Property | Value |
 |----------|-------|
@@ -54,7 +54,7 @@
 
 ## 800x480_custom_04
 
-![800x480_custom_04](previews/800x480_custom_04.svg)
+![800x480_custom_04](previews/800x480_custom_04.png)
 
 | Property | Value |
 |----------|-------|
@@ -70,7 +70,7 @@
 
 ## 800x480_custom_05
 
-![800x480_custom_05](previews/800x480_custom_05.svg)
+![800x480_custom_05](previews/800x480_custom_05.png)
 
 | Property | Value |
 |----------|-------|
