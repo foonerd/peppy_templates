@@ -14,6 +14,7 @@ find_resolution_folders() {
 }
 
 # Extract preview from zip
+# Handles: subfolder/preview.png, preview.png at root, art.png as fallback
 extract_preview() {
     local zip_file="$1"
     local output_dir="$2"
@@ -22,8 +23,20 @@ extract_preview() {
     # Create previews directory
     mkdir -p "$output_dir/previews"
     
-    # Find preview file in zip
-    local preview_file=$(unzip -l "$zip_file" 2>/dev/null | grep -oE '[^ ]+preview\.(png|jpg|jpeg)' | head -1)
+    # List all files in zip
+    local zip_contents=$(unzip -l "$zip_file" 2>/dev/null)
+    
+    # Try to find preview file (in order of preference)
+    local preview_file=""
+    local patterns=("preview.png" "preview.jpg" "preview.jpeg" "art.png" "art.jpg")
+    
+    for pattern in "${patterns[@]}"; do
+        # Match both subfolder/pattern and pattern at root
+        preview_file=$(echo "$zip_contents" | grep -oE "[^ ]*${pattern}" | head -1)
+        if [[ -n "$preview_file" ]]; then
+            break
+        fi
+    done
     
     if [[ -n "$preview_file" ]]; then
         # Extract preview (suppress all output)
@@ -56,12 +69,16 @@ extract_preview() {
 }
 
 # Extract meter info from zip
+# Handles both subfolder/meters.txt and meters.txt at root
 get_meter_info() {
     local zip_file="$1"
     local field="$2"
     
-    # Extract meters.txt content
+    # Extract meters.txt content - try subfolder first, then root
     local meters_content=$(unzip -p "$zip_file" "*/meters.txt" 2>/dev/null)
+    if [[ -z "$meters_content" ]]; then
+        meters_content=$(unzip -p "$zip_file" "meters.txt" 2>/dev/null)
+    fi
     
     case "$field" in
         "name")
