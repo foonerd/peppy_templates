@@ -132,6 +132,38 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 800x480_custom_09
+
+![800x480_custom_09](previews/800x480_custom_09.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | cassettedeck-2 |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+[Download 800x480_custom_09.zip](800x480_custom_09.zip)
+
+---
+
+## 800x480_custom_10
+
+![800x480_custom_10](previews/800x480_custom_10.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | cassettedeck-3 |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+[Download 800x480_custom_10.zip](800x480_custom_10.zip)
+
+---
+
 
 ## Installation
 
