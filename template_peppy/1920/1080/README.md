@@ -10,7 +10,7 @@
 
 | Property | Value |
 |----------|-------|
-| Meter Name | 140G5_Full Cassette Rotary |
+| Meter Name | 140G5_Full_Cassette_Rotary |
 | Meter Type | linear |
 | Extended Config | Yes |
 | Spectrum | No |
