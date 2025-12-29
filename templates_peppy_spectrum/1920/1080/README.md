@@ -4,9 +4,9 @@ VU Meter with Spectrum overlay templates.
 
 ---
 
-## 1920x1080_20G5_spectrum
+## 1920x1080_20g5_spectr
 
-![1920x1080_20G5_spectrum](previews/1920x1080_20G5_spectrum.jpg)
+![1920x1080_20g5_spectr](previews/1920x1080_20g5_spectr.jpg)
 
 | Property | Value |
 |----------|-------|
@@ -16,7 +16,7 @@ VU Meter with Spectrum overlay templates.
 | Spectrum | No |
 | Album Art | No |
 
-[Download 1920x1080_20G5_spectrum.zip](1920x1080_20G5_spectrum.zip)
+[Download 1920x1080_20g5_spectr.zip](1920x1080_20g5_spectr.zip)
 
 ---
 
