@@ -1,6 +1,6 @@
-# VU Meters - 1920x1080
+# 1080 Templates
 
-1 template(s) available for 1920x1080 resolution.
+VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
@@ -10,15 +10,16 @@
 
 | Property | Value |
 |----------|-------|
-| Meter Name | 140G5_Full_Cassette_Rotary |
-| Meter Type | linear |
+| Meter Name | 140G5_Full_Cassette_Rotary |
+| Meter Type | linear |
 | Extended Config | Yes |
 | Spectrum | No |
 | Album Art | Yes |
 
-**[Download 1920x1080_140g5_casette_780.zip](1920x1080_140g5_casette_780.zip)**
+[Download 1920x1080_140g5_casette_780.zip](1920x1080_140g5_casette_780.zip)
 
 ---
+
 
 ## Installation
 

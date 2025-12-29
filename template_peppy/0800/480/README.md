@@ -1,6 +1,6 @@
-# VU Meters - 800x480
+# 480 Templates
 
-8 template(s) available for 800x480 resolution.
+VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
@@ -16,7 +16,7 @@
 | Spectrum | No |
 | Album Art | Yes |
 
-**[Download 800x480_custom_01.zip](800x480_custom_01.zip)**
+[Download 800x480_custom_01.zip](800x480_custom_01.zip)
 
 ---
 
@@ -32,7 +32,7 @@
 | Spectrum | No |
 | Album Art | Yes |
 
-**[Download 800x480_custom_02.zip](800x480_custom_02.zip)**
+[Download 800x480_custom_02.zip](800x480_custom_02.zip)
 
 ---
 
@@ -48,7 +48,7 @@
 | Spectrum | No |
 | Album Art | Yes |
 
-**[Download 800x480_custom_03.zip](800x480_custom_03.zip)**
+[Download 800x480_custom_03.zip](800x480_custom_03.zip)
 
 ---
 
@@ -64,7 +64,7 @@
 | Spectrum | No |
 | Album Art | Yes |
 
-**[Download 800x480_custom_04.zip](800x480_custom_04.zip)**
+[Download 800x480_custom_04.zip](800x480_custom_04.zip)
 
 ---
 
@@ -80,7 +80,7 @@
 | Spectrum | No |
 | Album Art | Yes |
 
-**[Download 800x480_custom_05.zip](800x480_custom_05.zip)**
+[Download 800x480_custom_05.zip](800x480_custom_05.zip)
 
 ---
 
@@ -96,7 +96,7 @@
 | Spectrum | No |
 | Album Art | Yes |
 
-**[Download 800x480_custom_06.zip](800x480_custom_06.zip)**
+[Download 800x480_custom_06.zip](800x480_custom_06.zip)
 
 ---
 
@@ -112,7 +112,7 @@
 | Spectrum | No |
 | Album Art | Yes |
 
-**[Download 800x480_custom_07.zip](800x480_custom_07.zip)**
+[Download 800x480_custom_07.zip](800x480_custom_07.zip)
 
 ---
 
@@ -128,9 +128,10 @@
 | Spectrum | No |
 | Album Art | Yes |
 
-**[Download 800x480_custom_08.zip](800x480_custom_08.zip)**
+[Download 800x480_custom_08.zip](800x480_custom_08.zip)
 
 ---
+
 
 ## Installation
 

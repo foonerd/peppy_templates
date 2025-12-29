@@ -1,6 +1,6 @@
-# VU Meters - 1280x720
+# 720 Templates
 
-3 template(s) available for 1280x720 resolution.
+VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
@@ -16,7 +16,7 @@
 | Spectrum | No |
 | Album Art | Yes |
 
-**[Download 1280x720_custom_01.zip](1280x720_custom_01.zip)**
+[Download 1280x720_custom_01.zip](1280x720_custom_01.zip)
 
 ---
 
@@ -32,7 +32,7 @@
 | Spectrum | No |
 | Album Art | Yes |
 
-**[Download 1280x720_custom_02.zip](1280x720_custom_02.zip)**
+[Download 1280x720_custom_02.zip](1280x720_custom_02.zip)
 
 ---
 
@@ -48,9 +48,10 @@
 | Spectrum | No |
 | Album Art | Yes |
 
-**[Download 1280x720_custom_06.zip](1280x720_custom_06.zip)**
+[Download 1280x720_custom_06.zip](1280x720_custom_06.zip)
 
 ---
+
 
 ## Installation
 
