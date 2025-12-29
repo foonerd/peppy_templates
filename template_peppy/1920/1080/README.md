@@ -16,7 +16,8 @@ VU Meter templates for PeppyMeter Screensaver.
 | Spectrum | No |
 | Album Art | Yes |
 
-[Download 1920x1080_140g5_casette_780.zip](1920x1080_140g5_casette_780.zip)
+**Download:** [1920x1080_140g5_casette_780.zip](1920x1080_140g5_casette_780.zip)
+**Install to:** `/data/INTERNAL/peppy_screensaver/templates/`
 
 ---
 
@@ -55,15 +56,20 @@ VU Meter templates for PeppyMeter Screensaver.
 - 119G5_Sansui TU S7
 - 120G5_OldPipe Spectrum
 
-[Download 1920x1080_20g5_meter.zip](1920x1080_20g5_meter.zip)
+> **Important:** This template is part of a set. Both parts must be installed for the meters to work correctly.
+
+**Complete Set (both required):**
+
+- VU Meter: [1920x1080_20g5_meter.zip](1920x1080_20g5_meter.zip) -> `/data/INTERNAL/peppy_screensaver/templates/`
+- VU Meter + Spectrum: [1920x1080_20g5_spectr.zip](../../../templates_peppy_spectrum/1920/1080/1920x1080_20g5_spectr.zip) -> `/data/INTERNAL/peppy_screensaver/templates_spectrum/`
 
 ---
 
 
 ## Installation
 
-1. Download the desired template zip
-2. Extract to `/data/INTERNAL/peppy_screensaver/templates/`
+1. Download the desired template zip(s)
+2. Extract each to the path shown next to its download link
 3. Select in plugin settings
 
 ---
