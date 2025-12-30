@@ -9,6 +9,7 @@ Browse templates by screen resolution.
 | [0800x480](0800x480.md) | 14 | Combined,VU, |
 | [1280x720](1280x720.md) | 3 | VU, |
 | [1920x1080](1920x1080.md) | 2 | Combined,VU, |
+| [1920x480](1920x480.md) | 1 | VU, |
 | [3840x2160](3840x2160.md) | 1 | VU, |
 
 ---
