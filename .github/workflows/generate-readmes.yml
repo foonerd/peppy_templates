@@ -34,6 +34,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Auto-generate template READMEs"
+            git commit -m "Auto-generate template READMEs and catalog"
             git push
           fi

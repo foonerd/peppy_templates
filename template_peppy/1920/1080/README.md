@@ -16,31 +16,17 @@ VU Meter templates for PeppyMeter Screensaver.
 | Spectrum | No |
 | Album Art | Yes |
 
-[Download 1920x1080_140g5_casette_780.zip](1920x1080_140g5_casette_780.zip)
+**Download:** [1920x1080_140g5_casette_780.zip](1920x1080_140g5_casette_780.zip)
 
----
-
-## 1920x1080_20G5_meters
-
-![1920x1080_20G5_meters](previews/1920x1080_20G5_meters.jpg)
-
-| Property | Value |
-|----------|-------|
-| Meter Name | 101G5_Free S+M |
-| Meter Type | circular |
-| Extended Config | Yes |
-| Spectrum | Yes |
-| Album Art | Yes |
-
-[Download 1920x1080_20G5_meters.zip](1920x1080_20G5_meters.zip)
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
 
 ---
 
 
 ## Installation
 
-1. Download the desired template zip
-2. Extract to `/data/INTERNAL/peppy_screensaver/templates/`
+1. Download the desired template zip(s)
+2. Extract each to the path shown next to its download link
 3. Select in plugin settings
 
 ---
