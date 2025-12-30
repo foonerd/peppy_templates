@@ -4,9 +4,9 @@ Combined VU Meter + Spectrum templates (self-contained with both parts).
 
 ---
 
-## 3840x2160_g5_ sm
+## 3840x2160_g5_sm
 
-![3840x2160_g5_ sm](previews/3840x2160_g5_ sm.svg)
+![3840x2160_g5_sm](previews/3840x2160_g5_sm.svg)
 
 | Property | Value |
 |----------|-------|
@@ -39,7 +39,7 @@ Combined VU Meter + Spectrum templates (self-contained with both parts).
 - 119G5_Old2 braun
 - 120G5_TURN Vinyl Black
 
-**Download:** [3840x2160_g5_ sm.zip](3840x2160_g5_ sm.zip)
+**Download:** [3840x2160_g5_sm.zip](3840x2160_g5_sm.zip)
 
 **Install (both required):**
 1. Extract the zip file
