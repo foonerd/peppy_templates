@@ -204,7 +204,7 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ## 1280x400_rose_rs150
 
-![1280x400_rose_rs150](previews/1280x400_rose_rs150.svg)
+![1280x400_rose_rs150](previews/1280x400_rose_rs150.png)
 
 | Property | Value |
 |----------|-------|
