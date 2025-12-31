@@ -202,6 +202,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x400_rose_rs150
+
+![1280x400_rose_rs150](previews/1280x400_rose_rs150.svg)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | rose-rs150 |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [1280x400_rose_rs150.zip](1280x400_rose_rs150.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 
 ## Installation
 
