@@ -10,6 +10,127 @@ RAW_URL="https://raw.githubusercontent.com/foonerd/peppy_templates/main"
 ASSETS_DIR="assets"
 NO_PREVIEW="no-preview.svg"
 
+# ========================================
+# Normalization Functions
+# ========================================
+
+# Clean a name - replace spaces and special chars
+clean_name() {
+    echo "$1" | \
+        sed 's/ /_/g' | \
+        sed 's/&/and/g' | \
+        sed 's/+/_/g' | \
+        sed 's/__*/_/g' | \
+        sed 's/_$//' | \
+        sed 's/^_//'
+}
+
+# Check if name contains invalid characters
+name_needs_cleaning() {
+    local name="$1"
+    # Returns 0 (true) if name has spaces, &, or +
+    [[ "$name" =~ [\ \&\+] ]]
+}
+
+# Normalize a single zip file
+# - Renames zip if filename has invalid chars
+# - Repackages if internal folders have invalid chars
+# - NEVER touches files inside (preserves config references)
+normalize_zip() {
+    local zip_file="$1"
+    local zip_dir=$(dirname "$zip_file")
+    local zip_name=$(basename "$zip_file")
+    local base_name="${zip_name%.zip}"
+    local changed=false
+    
+    # Check if zip filename needs cleaning
+    if name_needs_cleaning "$base_name"; then
+        local new_base=$(clean_name "$base_name")
+        local new_zip="${zip_dir}/${new_base}.zip"
+        echo "  Rename zip: $zip_name -> ${new_base}.zip"
+        mv "$zip_file" "$new_zip"
+        zip_file="$new_zip"
+        zip_name="${new_base}.zip"
+        base_name="$new_base"
+        changed=true
+    fi
+    
+    # Check if internal folders need cleaning
+    local folder_list=$(unzip -l "$zip_file" 2>/dev/null | awk '{print $4}' | grep '/$' | sort -u)
+    local needs_repack=false
+    
+    while IFS= read -r folder; do
+        [[ -z "$folder" ]] && continue
+        if name_needs_cleaning "$folder"; then
+            needs_repack=true
+            break
+        fi
+    done <<< "$folder_list"
+    
+    if [[ "$needs_repack" == true ]]; then
+        echo "  Repackaging: $zip_name (fixing folder names)"
+        
+        local work_dir=$(mktemp -d)
+        
+        # Extract
+        unzip -q "$zip_file" -d "$work_dir"
+        
+        # Rename folders only (deepest first) - NOT files
+        find "$work_dir" -depth -type d | while read -r dir; do
+            local dir_base=$(basename "$dir")
+            local dir_parent=$(dirname "$dir")
+            local dir_cleaned=$(clean_name "$dir_base")
+            
+            if [[ "$dir_base" != "$dir_cleaned" ]]; then
+                echo "    Folder: $dir_base -> $dir_cleaned"
+                mv "$dir" "$dir_parent/$dir_cleaned"
+            fi
+        done
+        
+        # Get root folder name
+        local root_folder=$(ls "$work_dir")
+        
+        # Create new zip
+        (cd "$work_dir" && zip -rq "../repack.zip" "$root_folder")
+        
+        # Replace original
+        mv "$work_dir/../repack.zip" "$zip_file"
+        
+        # Cleanup
+        rm -rf "$work_dir"
+        
+        changed=true
+    fi
+    
+    if [[ "$changed" == true ]]; then
+        return 0
+    else
+        return 1
+    fi
+}
+
+# Normalize all templates in repository
+# Scans all zips and fixes naming issues
+normalize_templates() {
+    echo "========================================"
+    echo "Normalizing Templates"
+    echo "========================================"
+    
+    local any_changes=false
+    
+    for zip_file in $(find template_peppy templates_peppy_spectrum templates_spectrum -name "*.zip" 2>/dev/null | sort); do
+        if normalize_zip "$zip_file"; then
+            any_changes=true
+        fi
+    done
+    
+    if [[ "$any_changes" == false ]]; then
+        echo "  All templates OK - no normalization needed"
+    fi
+    
+    echo ""
+}
+
 # Extract template prefix by stripping known suffixes
 get_template_prefix() {
     local name="$1"
@@ -258,10 +379,10 @@ EOF
     echo "---" >> "$dir/README.md"
     echo "" >> "$dir/README.md"
 
-    # Process each zip file
+    # Process each zip file (sorted alphabetically)
     local res_path=$(echo "$dir" | grep -oE '[0-9]+/[0-9]+')
     
-    for zip_file in "$dir"/*.zip; do
+    for zip_file in $(ls -1 "$dir"/*.zip 2>/dev/null | sort); do
         [[ -f "$zip_file" ]] || continue
         
         local template_name=$(basename "$zip_file" .zip)
@@ -563,8 +684,8 @@ All templates available for ${res} resolution.
 
 EOF
 
-    # Process each template
-    echo -e "$templates" | grep '.zip' | while read -r zip_file; do
+    # Process each template (sorted alphabetically)
+    echo -e "$templates" | grep '.zip' | sort | while read -r zip_file; do
         [[ -z "$zip_file" ]] && continue
         [[ ! -f "$zip_file" ]] && continue
         
@@ -663,6 +784,10 @@ EOF
 }
 
 # Main
+
+# First normalize any templates with invalid names
+normalize_templates
+
 echo "========================================"
 echo "PeppyMeter Template README Generator"
 echo "========================================"
