@@ -184,6 +184,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x400_nad_m33_1
+
+![1280x400_nad_m33_1](previews/1280x400_nad_m33_1.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | nad-m33-1 |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [1280x400_nad_m33_1.zip](1280x400_nad_m33_1.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 
 ## Installation
 
