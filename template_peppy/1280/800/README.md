@@ -45,6 +45,47 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x800_g5_421_meters
+
+![1280x800_g5_421_meters](previews/1280x800_g5_421_meters.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (20 templates) |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 21G5_BlackBlur
+- 22G5_Dark Spotify
+- 23G5_Hitachi HMA7500 Black
+- 24G5_Hitachi HCA7500 Silver
+- 25G5_Marantz Silver
+- 26G5_Marantz Black
+- 27G5_MarantzCD
+- 28G5_Technisc_Black
+- 29G5_Technisc_Silver
+- 30G5_Round yellow
+- 31G5_Rehringer
+- 32G5_Akai Reverse
+- 33G5_ClasseM
+- 34G5_BMC
+- 35G5_Hartman
+- 36G5_Klanghelm
+- 37G5_TURN Vinyl Green
+- 38G5_TURN Vinyl Green 2
+- 39G5_TURN Vinyl Silver
+- 40G5_TURN Vinyl Black
+
+**Download:** [1280x800_g5_421_meters.zip](1280x800_g5_421_meters.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 
 ## Installation
 
