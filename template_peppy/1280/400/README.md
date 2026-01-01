@@ -238,6 +238,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x400_technics_SUR1000
+
+![1280x400_technics_SUR1000](previews/1280x400_technics_SUR1000.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | technics |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [1280x400_technics_SUR1000.zip](1280x400_technics_SUR1000.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 
 ## Installation
 
