@@ -58,6 +58,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x400_bo_beosound9000
+
+![1280x400_bo_beosound9000](previews/1280x400_bo_beosound9000.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | bo_beosound9000 |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [1280x400_bo_beosound9000.zip](1280x400_bo_beosound9000.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 1280x400_dan_dagostimo_mlife
 
 ![1280x400_dan_dagostimo_mlife](previews/1280x400_dan_dagostimo_mlife.png)
