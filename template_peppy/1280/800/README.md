@@ -86,6 +86,47 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x800_g5_422_meters
+
+![1280x800_g5_422_meters](previews/1280x800_g5_422_meters.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (20 templates) |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 41G5_Yellowkidney
+- 42G5_OLD Meter
+- 43G5_Old2 braun
+- 44G5_T+A
+- 45G5_Triplett
+- 46G5_Leben
+- 47G5_Luxman Gold
+- 48G5_Vertical blue
+- 49G5_MarkLev
+- 50G5_Teac Cassette
+- 51G5_Optonica
+- 52G5_PioneerCT
+- 53G5_Abrahamsen
+- 54G5_Dorrough
+- 55G5_Dorrough Vertical
+- 56G5_Advence
+- 57G5_Unison Research
+- 58G5_TAPE orange
+- 59G5_Yamaha M85
+- 60G5_Sound90
+
+**Download:** [1280x800_g5_422_meters.zip](1280x800_g5_422_meters.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 
 ## Installation
 
