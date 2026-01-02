@@ -127,6 +127,37 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x800_g5_423_meters
+
+![1280x800_g5_423_meters](previews/1280x800_g5_423_meters.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (10 templates) |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 61G5_Burmaster
+- 62G5_Violin
+- 63G5_Struder
+- 64G5_J37 Tape
+- 65G5_HelixOne
+- 66G5_DAgostini
+- 67G5_Reher Tube
+- 68G5_Boombox
+- 69G5_Nixi Pipe
+- 70G5_Nixi Spectrum
+
+**Download:** [1280x800_g5_423_meters.zip](1280x800_g5_423_meters.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 
 ## Installation
 
