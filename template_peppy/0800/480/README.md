@@ -220,6 +220,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 800x480_dandagostino_1
+
+![800x480_dandagostino_1](previews/800x480_dandagostino_1.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | dan-dagostino |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [800x480_dandagostino_1.zip](800x480_dandagostino_1.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 
 ## Installation
 
