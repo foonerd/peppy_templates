@@ -86,6 +86,47 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1920x515_g5_903_meters
+
+![1920x515_g5_903_meters](previews/1920x515_g5_903_meters.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (20 templates) |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 41G5_Electrocompanient
+- 42G5_Casette Full
+- 43G5_Cayin
+- 44G5_Dorrough Border Braun
+- 45G5_Dorrough Vertical
+- 46G5_Eversolo
+- 47G5_Led Strips
+- 48G5_Marantz CD
+- 49G5_Marshall
+- 50G5_Modern
+- 51G5_Mytek
+- 52G5_PioneerCT LED
+- 53G5_Radmor 5412
+- 54G5_Rose IN
+- 55G5_Rose OUT
+- 56G5_Rose3 Line
+- 57G5_Sansui Horizontal
+- 58G5_Sansui Vertical
+- 59G5_Teac Cassette
+- 60G5_Telefunken Line
+
+**Download:** [1920x515_g5_903_meters.zip](1920x515_g5_903_meters.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 
 ## Installation
 
