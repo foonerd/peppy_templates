@@ -127,6 +127,47 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1920x515_g5_904_meters
+
+![1920x515_g5_904_meters](previews/1920x515_g5_904_meters.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (20 templates) |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 61G5_Alvin
+- 62G5_Angstrom Black
+- 63G5_Audio Research 160S
+- 64G5_BlackBlur
+- 65G5_EAM
+- 66G5_Kruger&Matz Rev
+- 67G5_Leben
+- 68G5_Luxman
+- 69G5_Magnetcord
+- 70G5_NAD M10
+- 71G5_NAD C3050
+- 72G5_Namson
+- 73G5_T+A 3100HV Silver
+- 74G5_T+A 3000HV
+- 75G5_Technics Black
+- 76G5_Technics Silver
+- 77G5_Technics Gold
+- 78G5_Simens
+- 79G5_Sleepy
+- 80G5_Weston
+
+**Download:** [1920x515_g5_904_meters.zip](1920x515_g5_904_meters.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 
 ## Installation
 
