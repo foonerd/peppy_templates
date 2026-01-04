@@ -22,6 +22,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x800_esoteric-grandioso-t1
+
+![1280x800_esoteric-grandioso-t1](previews/1280x800_esoteric-grandioso-t1.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | esoteric-grandioso-t1 |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [1280x800_esoteric-grandioso-t1.zip](1280x800_esoteric-grandioso-t1.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 1280x800_g5_420_meters
 
 ![1280x800_g5_420_meters](previews/1280x800_g5_420_meters.png)
