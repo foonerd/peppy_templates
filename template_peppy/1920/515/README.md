@@ -168,6 +168,46 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1920x515_g5_905_meters
+
+![1920x515_g5_905_meters](previews/1920x515_g5_905_meters.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (19 templates) |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 81G5_Sony TAN777
+- 82G5_Sony Cassette
+- 83G5_Old Meter
+- 84G5_Tonnica
+- 85G5_Kenwood Deck
+- 86G5_Vintage Line
+- 87G5_Onkyo 5570
+- 88G5_Mono Blue
+- 89G5_Mono Green
+- 90G5_Radmor Rev
+- 91G5_Eher
+- 92G5_Nixie 1
+- 93G5_Nixie 2
+- 94G5_Sound90
+- 95G5_SG
+- 96G5_Gemonti
+- 97G5_Philmore
+- 98G5_VU Single
+- 99G5_Sound90 BIG
+
+**Download:** [1920x515_g5_905_meters.zip](1920x515_g5_905_meters.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 
 ## Installation
 
