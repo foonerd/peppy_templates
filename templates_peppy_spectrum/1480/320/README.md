@@ -48,6 +48,46 @@ Combined VU Meter + Spectrum templates (self-contained with both parts).
 
 ---
 
+## 1480x320_g5_521_ms
+
+![1480x320_g5_521_ms](previews/1480x320_g5_521_ms.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (16 templates) |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | Yes |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 121G5_Sony_U909ES S+M
+- 122G5_Ampex S+M
+- 123G5_Accuphase DG68 S+M
+- 124G5_Magnetocord S+M
+- 125G5_Kenwood KA S+M
+- 126G5_McIntosh S+M
+- 127G5_CoctailAudio S+M
+- 128G5_Sharp SA606 S+M
+- 129G5_AudioRL S+M
+- 130G5_Replika S+M
+- 131G5_Emotiva S+M
+- 132G5_Denon S+M
+- 133G5_SPL S+M
+- 134G5_Bose S+M
+- 135G5_Hitachi8500 S+M
+- 136G5_Sharp1000 S+M
+
+**Download:** [1480x320_g5_521_ms.zip](1480x320_g5_521_ms.zip)
+
+**Install (both required):**
+1. Extract the zip file
+2. Copy `templates/` contents to `/data/INTERNAL/peppy_screensaver/templates/`
+3. Copy `templates_spectrum/` contents to `/data/INTERNAL/peppy_screensaver/templates_spectrum/`
+
+---
+
 
 ## Installation
 

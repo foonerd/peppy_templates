@@ -212,6 +212,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x800_naim_set
+
+![1280x800_naim_set](previews/1280x800_naim_set.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | Naim_Set |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [1280x800_naim_set.zip](1280x800_naim_set.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 1280x800_vertical_blue
 
 ![1280x800_vertical_blue](previews/1280x800_vertical_blue.png)
