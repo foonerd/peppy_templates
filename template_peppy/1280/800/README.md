@@ -4,6 +4,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x800_dagostino_pendulum
+
+![1280x800_dagostino_pendulum](previews/1280x800_dagostino_pendulum.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | dan_dagostimo_mlife |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [1280x800_dagostino_pendulum.zip](1280x800_dagostino_pendulum.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 1280x800_dan_dagostimo_momentum_c2
 
 ![1280x800_dan_dagostimo_momentum_c2](previews/1280x800_dan_dagostimo_momentum_c2.png)
