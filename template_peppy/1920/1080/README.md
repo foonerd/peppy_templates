@@ -227,6 +227,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1920x1080_reel_tape
+
+![1920x1080_reel_tape](previews/1920x1080_reel_tape.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | 1920x1080_t1800_ReelTape |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [1920x1080_reel_tape.zip](1920x1080_reel_tape.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 
 ## Installation
 
