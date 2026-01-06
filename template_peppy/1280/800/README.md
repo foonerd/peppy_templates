@@ -230,6 +230,34 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x800_t1800_pack7
+
+![1280x800_t1800_pack7](previews/1280x800_t1800_pack7.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (7 templates) |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- t1800_tubes
+- t1800_Fisher
+- t1800_Tascam
+- t1800_TubeHeadPhone
+- t1800_Sansui9090
+- t1800_ReelTape
+- t1800_StarWars
+
+**Download:** [1280x800_t1800_pack7.zip](1280x800_t1800_pack7.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 1280x800_vertical_blue
 
 ![1280x800_vertical_blue](previews/1280x800_vertical_blue.png)
