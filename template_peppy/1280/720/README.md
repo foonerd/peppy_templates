@@ -110,6 +110,33 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x720_g5_442_meters
+
+![1280x720_g5_442_meters](previews/1280x720_g5_442_meters.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (6 templates) |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 11G5_Kenwood Rev
+- 12G5_T+A
+- 13G5_Accuphase monoblock
+- 14G5_Old2 braun
+- 15G5_Hartman
+- 16G5_Rehringer
+
+**Download:** [1280x720_g5_442_meters.zip](1280x720_g5_442_meters.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 
 ## Installation
 
