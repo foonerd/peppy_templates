@@ -76,6 +76,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x400_cyrus_40_st
+
+![1280x400_cyrus_40_st](previews/1280x400_cyrus_40_st.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | Cyrus_40_st |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [1280x400_cyrus_40_st.zip](1280x400_cyrus_40_st.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 1280x400_dan_dagostimo_mlife
 
 ![1280x400_dan_dagostimo_mlife](previews/1280x400_dan_dagostimo_mlife.png)
