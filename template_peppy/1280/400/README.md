@@ -294,6 +294,45 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x400_g5_205_meters
+
+![1280x400_g5_205_meters](previews/1280x400_g5_205_meters.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (18 templates) |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 81G5_SG Only meters
+- 82G5_Weston ONLY meters
+- 83G5_Realistic
+- 84G5_Rudeer Only
+- 85G5_R55 Only
+- 86G5_Round 180
+- 87G5_Yamaha S3000 Only
+- 88G5_WestonHouse Only
+- 89G5_OnkyoM508
+- 90G5_Yamaha MX2000
+- 91G5_Teac
+- 92G5_SG
+- 93G5_BOSS Orange
+- 94G5_Tascam
+- 95G5_LED Out ONLY
+- 96G5_Bose Rev
+- 97G5_Sharp
+- 98G5_TCD Deck
+
+**Download:** [1280x400_g5_205_meters.zip](1280x400_g5_205_meters.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 1280x400_mcintosh_mx100
 
 ![1280x400_mcintosh_mx100](previews/1280x400_mcintosh_mx100.png)
