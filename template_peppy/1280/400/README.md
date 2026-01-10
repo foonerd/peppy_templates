@@ -253,6 +253,47 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x400_g5_204_meters
+
+![1280x400_g5_204_meters](previews/1280x400_g5_204_meters.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (20 templates) |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | No |
+
+**Included Meters:**
+
+- 61G5_Old Accuphase Only
+- 62G5_Caltec Blue
+- 63G5_Caltec Red
+- 64G5_Berlant Only
+- 65G5_BlackBlur only meters
+- 66G5_Dark Spotify Only
+- 67G5_Denon Only
+- 68G5_Deviation Only
+- 69G5_DF202 Only meters
+- 70G5_Gemonti ONLY meters
+- 71G5_Hartman Only
+- 72G5_Hitachi7500 ONLY meters
+- 73G5_Hitachi7500 Purple
+- 74G5_Kenwood Rev only meters
+- 75G5_Line Magnetic
+- 76G5_NAD M10 only
+- 77G5_Namson Only meters
+- 78G5_Philmore Only
+- 79G5_Teletronix Only
+- 80G5_VU Peak Only
+
+**Download:** [1280x400_g5_204_meters.zip](1280x400_g5_204_meters.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 1280x400_mcintosh_mx100
 
 ![1280x400_mcintosh_mx100](previews/1280x400_mcintosh_mx100.png)
