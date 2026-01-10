@@ -4,6 +4,30 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x400_PMN_LedStrypes
+
+![1280x400_PMN_LedStrypes](previews/1280x400_PMN_LedStrypes.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (3 templates) |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 01PMN_Led Strypes (With Meters-Calibrated)
+- 02PMN_Led Strypes (With Meters-Calibrated-Metadata Rotation)
+- 03PMN_Led Strypes (With Meters-Calibrated-Metadata)
+
+**Download:** [1280x400_PMN_LedStrypes.zip](1280x400_PMN_LedStrypes.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 1280x400_black_blue_square
 
 ![1280x400_black_blue_square](previews/1280x400_black_blue_square.png)
