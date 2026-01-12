@@ -6,7 +6,7 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ## 1280x720_PMN_LedStrypes
 
-![1280x720_PMN_LedStrypes](previews/1280x720_PMN_LedStrypes.svg)
+![1280x720_PMN_LedStrypes](previews/1280x720_PMN_LedStrypes.png)
 
 | Property | Value |
 |----------|-------|
