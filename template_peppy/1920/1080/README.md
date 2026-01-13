@@ -227,6 +227,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1920x1080_g5_706_meters
+
+![1920x1080_g5_706_meters](previews/1920x1080_g5_706_meters.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | 122G5_Technics Reel |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [1920x1080_g5_706_meters.zip](1920x1080_g5_706_meters.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 1920x1080_reel_tape
 
 ![1920x1080_reel_tape](previews/1920x1080_reel_tape.png)
