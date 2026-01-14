@@ -6,7 +6,7 @@ Browse templates by screen resolution.
 
 | Resolution | Templates | Types |
 |------------|-----------|-------|
-| [0800x480](0800x480.md) | 20 | Combined,VU, |
+| [0800x480](0800x480.md) | 21 | Combined,VU, |
 | [1024x600](1024x600.md) | 4 | Combined,VU, |
 | [1280x400](1280x400.md) | 26 | Combined,VU, |
 | [1280x720](1280x720.md) | 9 | Combined,VU, |

@@ -4,6 +4,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 800x480_crab_01
+
+![800x480_crab_01](previews/800x480_crab_01.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | crab_01 |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [800x480_crab_01.zip](800x480_crab_01.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 800x480_custom_01
 
 ![800x480_custom_01](previews/800x480_custom_01.png)
