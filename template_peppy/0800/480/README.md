@@ -4,24 +4,6 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
-## 1280x400_MomentumMxV
-
-![1280x400_MomentumMxV](previews/1280x400_MomentumMxV.png)
-
-| Property | Value |
-|----------|-------|
-| Meter Name | Dan-Dagostino-MomentumMxV |
-| Meter Type | circular |
-| Extended Config | Yes |
-| Spectrum | No |
-| Album Art | Yes |
-
-**Download:** [1280x400_MomentumMxV.zip](1280x400_MomentumMxV.zip)
-
-**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
-
----
-
 ## 800x480_RB18_01
 
 ![800x480_RB18_01](previews/800x480_RB18_01.png)
