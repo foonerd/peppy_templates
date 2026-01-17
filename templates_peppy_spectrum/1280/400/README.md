@@ -25,6 +25,27 @@ Combined VU Meter + Spectrum templates (self-contained with both parts).
 
 ---
 
+## 1280x400_Aluminium_spec_green_06
+
+![1280x400_Aluminium_spec_green_06](previews/1280x400_Aluminium_spec_green_06.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | Aluminium_frame_green_spec |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | Yes |
+| Album Art | Yes |
+
+**Download:** [1280x400_Aluminium_spec_green_06.zip](1280x400_Aluminium_spec_green_06.zip)
+
+**Install (both required):**
+1. Extract the zip file
+2. Copy `templates/` contents to `/data/INTERNAL/peppy_screensaver/templates/`
+3. Copy `templates_spectrum/` contents to `/data/INTERNAL/peppy_screensaver/templates_spectrum/`
+
+---
+
 ## 1280x400_Aluminium_spec_orange_05
 
 ![1280x400_Aluminium_spec_orange_05](previews/1280x400_Aluminium_spec_orange_05.png)
