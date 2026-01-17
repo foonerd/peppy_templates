@@ -4,6 +4,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x400_Aluminium_frame_01
+
+![1280x400_Aluminium_frame_01](previews/1280x400_Aluminium_frame_01.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | Aluminium_frame |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [1280x400_Aluminium_frame_01.zip](1280x400_Aluminium_frame_01.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 1280x400_MomentumMxV
 
 ![1280x400_MomentumMxV](previews/1280x400_MomentumMxV.png)
