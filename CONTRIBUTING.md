@@ -81,7 +81,7 @@ Users can browse all templates in the [Template Catalog](catalog/README.md) orga
 **Example:**
 ```
 templates_peppy_spectrum/0800/480/800x480_retro_wood.zip
-template_peppy/1920/1080/1920x1080_casette.zip
+template_peppy/1920/1080/1920x1080_cassette.zip
 ```
 
 ## Required Files
@@ -179,6 +179,8 @@ Before submitting:
 | Background | PNG or JPG | Match template resolution |
 | Foreground | PNG | Requires transparency |
 | Needle/Bar | PNG | Requires transparency |
+| Vinyl/Reel | PNG | Requires transparency |
+| Tonearm | PNG | Requires transparency |
 | Album art mask | PNG | Requires transparency |
 | Preview | PNG or JPG | For gallery display |
 
@@ -187,6 +189,19 @@ Before submitting:
 See documentation:
 - [METERS.md](docs/METERS.md) - VU meter configuration
 - [SPECTRUM.md](docs/SPECTRUM.md) - Spectrum analyzer configuration
+
+## Animation Features
+
+Templates can include animated elements:
+
+| Feature | Use Case |
+|---------|----------|
+| Album art rotation | Spinning record label effect |
+| Vinyl turntable | Spinning disc under album art |
+| Cassette reels | Rotating tape spools |
+| Tonearm | Arm tracking playback progress |
+
+See METERS.md for configuration details.
 
 ## Questions
 

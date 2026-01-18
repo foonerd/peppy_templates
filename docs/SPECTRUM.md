@@ -98,18 +98,27 @@ peak.color = 255,0,0
 
 ## Integration with Meters
 
-Reference from meters.txt:
+Reference spectrum from meters.txt:
 
 ```ini
 spectrum.visible = True
 spectrum.name = s.1
 spectrum.size = 800,150
+spectrum.pos = 0,300
 ```
+
+| Key | Description |
+|-----|-------------|
+| spectrum.visible | Enable spectrum: True/False |
+| spectrum.name | Name of spectrum in spectrum.txt |
+| spectrum.size | Width,height override |
+| spectrum.pos | Position x,y override |
 
 ## Performance Tips
 
 | Setting | Recommendation |
 |---------|----------------|
-| bars | 20-40 for Pi |
+| bars | 20-40 for Pi 3/4 |
 | ui.refresh.period | 0.033 or 0.05 |
 | reflection | Disable if CPU constrained |
+| size | Smaller = less CPU |
