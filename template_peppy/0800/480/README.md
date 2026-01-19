@@ -328,6 +328,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 800x480_quad_platina
+
+![800x480_quad_platina](previews/800x480_quad_platina.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | quad_platina |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [800x480_quad_platina.zip](800x480_quad_platina.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 800x480_south_park
 
 ![800x480_south_park](previews/800x480_south_park.png)
