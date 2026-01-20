@@ -48,6 +48,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x720_Pioneer_PLX-500L
+
+![1280x720_Pioneer_PLX-500L](previews/1280x720_Pioneer_PLX-500L.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | Pioneer PLX-500 Lite |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [1280x720_Pioneer_PLX-500L.zip](1280x720_Pioneer_PLX-500L.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 1280x720_custom_01
 
 ![1280x720_custom_01](previews/1280x720_custom_01.png)
