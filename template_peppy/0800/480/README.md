@@ -22,6 +22,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 800x480_Pro-Ject_DarkSideOfTheMoon
+
+![800x480_Pro-Ject_DarkSideOfTheMoon](previews/800x480_Pro-Ject_DarkSideOfTheMoon.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | Pro-Ject_DarkSideOfTheMoon |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [800x480_Pro-Ject_DarkSideOfTheMoon.zip](800x480_Pro-Ject_DarkSideOfTheMoon.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 800x480_Pro-Ject_Metallica
 
 ![800x480_Pro-Ject_Metallica](previews/800x480_Pro-Ject_Metallica.png)
