@@ -4,6 +4,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 800x480_Pro-Ject_ACDC
+
+![800x480_Pro-Ject_ACDC](previews/800x480_Pro-Ject_ACDC.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | Pro-Ject_ACDC |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [800x480_Pro-Ject_ACDC.zip](800x480_Pro-Ject_ACDC.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 800x480_Pro-Ject_Metallica
 
 ![800x480_Pro-Ject_Metallica](previews/800x480_Pro-Ject_Metallica.png)
