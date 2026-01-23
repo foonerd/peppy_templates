@@ -200,6 +200,7 @@ Templates can include animated elements:
 | Vinyl turntable | Spinning disc under album art |
 | Cassette reels | Rotating tape spools |
 | Tonearm | Arm tracking playback progress |
+| Playback indicators | Volume, mute, shuffle, repeat, play/pause, progress |
 
 See METERS.md for configuration details.
 

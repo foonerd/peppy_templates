@@ -271,6 +271,206 @@ spectrum.size = 800,150
 spectrum.pos = 0,300
 ```
 
+## Playback Indicators
+
+Display Volumio playback control states. Requires `config.extend = True`.
+
+### Indicator Types
+
+| Indicator | States | Source |
+|-----------|--------|--------|
+| Volume | 0-100 | `pushState.volume` |
+| Mute | on/off | `pushState.mute` |
+| Shuffle | off/shuffle/infinity | `pushState.random` + infinity event |
+| Repeat | off/all/single | `pushState.repeat` + `repeatSingle` |
+| Play/Pause/Stop | play/pause/stop | `pushState.status` |
+| Progress | 0-100% | `pushState.seek` / `duration` |
+
+### Display Modes
+
+- **LED mode**: Colored shapes (circle/rectangle) with optional glow
+- **Icon mode**: PNG images per state with optional glow
+
+### Mute Indicator
+
+LED mode:
+
+```ini
+mute.pos = 50,680
+mute.led = 16,16
+mute.led.shape = circle
+mute.led.color = 255,0,0,64,64,64
+mute.led.glow = 8
+mute.led.glow.intensity = 0.7
+mute.led.glow.color = 255,100,100,32,32,32
+```
+
+Icon mode:
+
+```ini
+mute.pos = 50,680
+mute.icon = mute_on.png,mute_off.png
+mute.icon.glow = 6
+mute.icon.glow.intensity = 0.6
+mute.icon.glow.color = 255,0,0,64,64,64
+```
+
+| Key | Description |
+|-----|-------------|
+| mute.pos | Position x,y |
+| mute.led | LED size width,height (enables LED mode) |
+| mute.led.shape | Shape: circle or rect |
+| mute.led.color | Colors: on_r,on_g,on_b,off_r,off_g,off_b |
+| mute.led.glow | Glow radius pixels (0 = no glow) |
+| mute.led.glow.intensity | Glow opacity 0.0-1.0 |
+| mute.led.glow.color | Glow colors (optional) |
+| mute.icon | Icon files: on.png,off.png (enables icon mode) |
+| mute.icon.glow | Icon glow radius |
+| mute.icon.glow.intensity | Icon glow opacity |
+| mute.icon.glow.color | Icon glow colors |
+
+### Shuffle Indicator (3 states)
+
+```ini
+shuffle.pos = 50,720
+shuffle.led = 16,16
+shuffle.led.shape = circle
+shuffle.led.color = 64,64,64,0,200,255,200,0,200
+```
+
+| Key | Description |
+|-----|-------------|
+| shuffle.led.color | 9 values: off_rgb, shuffle_rgb, infinity_rgb |
+| shuffle.icon | 3 files: off.png,on.png,infinity.png |
+
+### Repeat Indicator (3 states)
+
+```ini
+repeat.pos = 50,760
+repeat.led = 16,16
+repeat.led.shape = circle
+repeat.led.color = 64,64,64,0,255,0,255,200,0
+```
+
+| Key | Description |
+|-----|-------------|
+| repeat.led.color | 9 values: off_rgb, all_rgb, single_rgb |
+| repeat.icon | 3 files: off.png,all.png,single.png |
+
+### Play/Pause/Stop Indicator (3 states)
+
+```ini
+playstate.pos = 50,640
+playstate.led = 16,16
+playstate.led.shape = circle
+playstate.led.color = 64,64,64,255,200,0,0,255,0
+```
+
+| Key | Description |
+|-----|-------------|
+| playstate.led.color | 9 values: stop_rgb, pause_rgb, play_rgb |
+| playstate.icon | 3 files: stop.png,pause.png,play.png |
+
+### Volume Indicator
+
+#### Numeric Style
+
+```ini
+volume.pos = 100,50
+volume.style = numeric
+volume.color = 255,255,255
+volume.font.size = 32
+```
+
+#### Procedural Slider
+
+```ini
+volume.pos = 100,50
+volume.dim = 200,20
+volume.style = slider
+volume.color = 0,200,255
+volume.bg.color = 40,40,40
+```
+
+#### Image-Based Slider (Fader)
+
+```ini
+volume.pos = 580,150
+volume.dim = 50,350
+volume.style = slider
+volume.slider.track = fader_track.png
+volume.slider.tip = fader_tip.png
+volume.slider.orientation = vertical
+volume.slider.travel = 20,310
+volume.slider.tip.offset = 0,0
+```
+
+| Key | Description |
+|-----|-------------|
+| volume.slider.track | Track/groove image (optional if in background) |
+| volume.slider.tip | Tip/handle image (required for image mode) |
+| volume.slider.orientation | vertical or horizontal |
+| volume.slider.travel | Pixel range start,end for tip |
+| volume.slider.tip.offset | Tip anchor offset x,y |
+
+Travel: vertical 100%=top, 0%=bottom; horizontal 0%=left, 100%=right
+
+#### Knob Style
+
+```ini
+volume.pos = 100,100
+volume.dim = 80,80
+volume.style = knob
+volume.knob.image = volume_knob.png
+volume.knob.angle.start = 225
+volume.knob.angle.end = -45
+```
+
+| Key | Description |
+|-----|-------------|
+| volume.knob.image | Knob image filename |
+| volume.knob.angle.start | Angle at volume 0% (degrees) |
+| volume.knob.angle.end | Angle at volume 100% (degrees) |
+
+#### Arc Style
+
+```ini
+volume.pos = 100,100
+volume.dim = 80,80
+volume.style = arc
+volume.color = 0,255,100
+volume.bg.color = 50,50,50
+volume.arc.width = 8
+volume.arc.angle.start = 225
+volume.arc.angle.end = -45
+```
+
+| Key | Description |
+|-----|-------------|
+| volume.arc.width | Arc stroke width pixels |
+| volume.arc.angle.start | Angle at volume 0% |
+| volume.arc.angle.end | Angle at volume 100% |
+
+### Progress Bar
+
+```ini
+progress.pos = 50,700
+progress.dim = 400,6
+progress.color = 0,200,255
+progress.bg.color = 40,40,40
+progress.border = 1
+progress.border.color = 100,100,100
+```
+
+| Key | Description |
+|-----|-------------|
+| progress.pos | Position x,y |
+| progress.dim | Width,height |
+| progress.color | Fill color r,g,b |
+| progress.bg.color | Background color r,g,b |
+| progress.border | Border width (0 = none) |
+| progress.border.color | Border color r,g,b |
+
 ## Render Z-Order
 
 Bottom to top:
@@ -280,8 +480,9 @@ Bottom to top:
 4. Vinyl
 5. Album Art
 6. Tonearm
-7. Text/Metadata
-8. Foreground (fgr.filename)
+7. Playback Indicators
+8. Text/Metadata
+9. Foreground (fgr.filename)
 
 ## Deprecated Settings
 

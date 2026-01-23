@@ -4,6 +4,78 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 800x480_Linn_LP12
+
+![800x480_Linn_LP12](previews/800x480_Linn_LP12.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | Linn-LP12 |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [800x480_Linn_LP12.zip](800x480_Linn_LP12.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
+## 800x480_Pro-Ject_ACDC
+
+![800x480_Pro-Ject_ACDC](previews/800x480_Pro-Ject_ACDC.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | Pro-Ject_ACDC |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [800x480_Pro-Ject_ACDC.zip](800x480_Pro-Ject_ACDC.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
+## 800x480_Pro-Ject_DarkSideOfTheMoon
+
+![800x480_Pro-Ject_DarkSideOfTheMoon](previews/800x480_Pro-Ject_DarkSideOfTheMoon.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | Pro-Ject_DarkSideOfTheMoon |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [800x480_Pro-Ject_DarkSideOfTheMoon.zip](800x480_Pro-Ject_DarkSideOfTheMoon.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
+## 800x480_Pro-Ject_Metallica
+
+![800x480_Pro-Ject_Metallica](previews/800x480_Pro-Ject_Metallica.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | Project-Metallica |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [800x480_Pro-Ject_Metallica.zip](800x480_Pro-Ject_Metallica.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 800x480_RB18_01
 
 ![800x480_RB18_01](previews/800x480_RB18_01.png)
