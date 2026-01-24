@@ -235,6 +235,29 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x720_g5_445_rotate
+
+![1280x720_g5_445_rotate](previews/1280x720_g5_445_rotate.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (2 templates) |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 19G5_Cassette_Circular
+- 20G5_Cassette_Linear
+
+**Download:** [1280x720_g5_445_rotate.zip](1280x720_g5_445_rotate.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 
 ## Installation
 
