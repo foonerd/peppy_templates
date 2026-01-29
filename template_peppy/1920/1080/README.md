@@ -291,6 +291,31 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1920x1080_g5_709_meters
+
+![1920x1080_g5_709_meters](previews/1920x1080_g5_709_meters.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (4 templates) |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 127G5_Akai 77
+- 128G5_Thorens
+- 129G5_Studer A810
+- 130G5_Denon DP400
+
+**Download:** [1920x1080_g5_709_meters.zip](1920x1080_g5_709_meters.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 1920x1080_reel_tape
 
 ![1920x1080_reel_tape](previews/1920x1080_reel_tape.png)
