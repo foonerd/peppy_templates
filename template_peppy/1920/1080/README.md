@@ -4,24 +4,6 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
-## 1920x1080_140g5_casette_780
-
-![1920x1080_140g5_casette_780](previews/1920x1080_140g5_casette_780.png)
-
-| Property | Value |
-|----------|-------|
-| Meter Name | 140G5_Full_Cassette_Rotary |
-| Meter Type | linear |
-| Extended Config | Yes |
-| Spectrum | No |
-| Album Art | Yes |
-
-**Download:** [1920x1080_140g5_casette_780.zip](1920x1080_140g5_casette_780.zip)
-
-**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
-
----
-
 ## 1920x1080_g5_701_meters
 
 ![1920x1080_g5_701_meters](previews/1920x1080_g5_701_meters.png)
