@@ -400,6 +400,24 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 800x480_pro-ject_VTEBT
+
+![800x480_pro-ject_VTEBT](previews/800x480_pro-ject_VTEBT.png)
+
+| Property | Value |
+|----------|-------|
+| Meter Name | Pro-ject_VTEBT |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Download:** [800x480_pro-ject_VTEBT.zip](800x480_pro-ject_VTEBT.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 800x480_quad_platina
 
 ![800x480_quad_platina](previews/800x480_quad_platina.png)
