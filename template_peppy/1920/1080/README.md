@@ -215,7 +215,7 @@ VU Meter templates for PeppyMeter Screensaver.
 
 | Property | Value |
 |----------|-------|
-| Template Pack | Yes (18 templates) |
+| Template Pack | Yes (20 templates) |
 | Meter Type | circular |
 | Extended Config | Yes |
 | Spectrum | No |
@@ -241,6 +241,8 @@ VU Meter templates for PeppyMeter Screensaver.
 - 136G5_CD Player Full
 - 137G5_Otari Reel
 - 138G5_McIntosh MTI100
+- 139G5_Naim Turntable
+- 140G5_TURN Vinyl Black
 
 **Download:** [1920x1080_g5_709_meters.zip](1920x1080_g5_709_meters.zip)
 
