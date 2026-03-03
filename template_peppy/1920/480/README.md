@@ -61,7 +61,7 @@ VU Meter templates for PeppyMeter Screensaver.
 
 | Property | Value |
 |----------|-------|
-| Template Pack | Yes (3 templates) |
+| Template Pack | Yes (6 templates) |
 | Meter Type | circular |
 | Extended Config | Yes |
 | Spectrum | No |
@@ -72,6 +72,9 @@ VU Meter templates for PeppyMeter Screensaver.
 - 101G5_Turntable Black
 - 102G5_Ampex Reel
 - 103G5_Pioneer Gold
+- 104G5_CD Player Full
+- 105G5_Yamaha Cassette
+- 106G5_Otari Reel
 
 **Download:** [1920x480_g5_811_meters.zip](1920x480_g5_811_meters.zip)
 
