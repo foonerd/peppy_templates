@@ -256,7 +256,7 @@ VU Meter templates for PeppyMeter Screensaver.
 
 | Property | Value |
 |----------|-------|
-| Template Pack | Yes (27 templates) |
+| Template Pack | Yes (30 templates) |
 | Meter Type | linear |
 | Extended Config | Yes |
 | Spectrum | No |
@@ -291,6 +291,9 @@ VU Meter templates for PeppyMeter Screensaver.
 - 149G5_03_Thorens
 - 150G5_02_AMG Turntable
 - 150G5_03_AMG Turntable
+- 151G5_01_Technics Silver
+- 151G5_02_Technics Silver
+- 151G5_03_Technics Silver
 
 **Download:** [1920x1080_g5_710_turntables.zip](1920x1080_g5_710_turntables.zip)
 
