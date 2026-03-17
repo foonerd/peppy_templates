@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240">
-  <rect width="400" height="240" fill="#2a2a2a"/>
-  <rect x="10" y="10" width="380" height="220" fill="none" stroke="#555" stroke-width="2" stroke-dasharray="10,5"/>
-  <text x="200" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#888">Preview</text>
-  <text x="200" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#888">Not Available</text>
-  <path d="M180 60 L220 60 L220 80 L230 80 L200 100 L170 80 L180 80 Z" fill="#555"/>
-</svg>
