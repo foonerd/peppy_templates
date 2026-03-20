@@ -332,6 +332,37 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1920x1080_g5_712_Cassette
+
+![1920x1080_g5_712_Cassette](previews/1920x1080_g5_712_Cassette.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (10 templates) |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 161G5_Pioneer Cassette
+- 162G5_TDK cassette
+- 163G5_TEAC cassette
+- 164G5_Maxell Cassette
+- 165G5_BASF Free
+- 166G5_Cassette_Circular
+- 167G5_Cassette_Linear
+- 168G5_Philips Cassette
+- 169G5_Denon DR650
+- 170G5_SonyK770 cassette
+
+**Download:** [1920x1080_g5_712_Cassette.zip](1920x1080_g5_712_Cassette.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 1920x1080_reel_tape
 
 ![1920x1080_reel_tape](previews/1920x1080_reel_tape.png)
