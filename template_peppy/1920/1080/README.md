@@ -250,57 +250,6 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
-## 1920x1080_g5_710_turntables
-
-![1920x1080_g5_710_turntables](previews/1920x1080_g5_710_turntables.png)
-
-| Property | Value |
-|----------|-------|
-| Template Pack | Yes (30 templates) |
-| Meter Type | linear |
-| Extended Config | Yes |
-| Spectrum | No |
-| Album Art | Yes |
-
-**Included Meters:**
-
-- 141G5_01_Vertere Turn
-- 141G5_02_Vertere Turn
-- 141G5_03_Vertere Turn
-- 142G5_01_Pioneer Gold
-- 142G5_02_Pioneer Gold
-- 142G5_03_Pioneer Gold
-- 143G5_TURN Vinyl Black
-- 144G5_01_Naim Turntable
-- 144G5_02_Naim Turntable
-- 144G5_03_Naim Turntable
-- 145G5_01_McIntosh MTI100
-- 145G5_02_McIntosh MTI100
-- 145G5_03_McIntosh MTI100
-- 146G5_01_Denon DP62
-- 146G5_02_Denon DP62
-- 146G5_03_Denon DP62
-- 147G5_01_Denon DP400
-- 147G5_02_Denon DP400
-- 147G5_03_Denon DP400
-- 148G5_01_Reloop RL7000
-- 148G5_02_Reloop RL7000
-- 148G5_03_Reloop RL7000
-- 149G5_01_Thorens
-- 149G5_02_Thorens
-- 149G5_03_Thorens
-- 150G5_02_AMG Turntable
-- 150G5_03_AMG Turntable
-- 151G5_01_Technics Silver
-- 151G5_02_Technics Silver
-- 151G5_03_Technics Silver
-
-**Download:** [1920x1080_g5_710_turntables.zip](1920x1080_g5_710_turntables.zip)
-
-**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
-
----
-
 ## 1920x1080_g5_711_TapeRecorder
 
 ![1920x1080_g5_711_TapeRecorder](previews/1920x1080_g5_711_TapeRecorder.svg)
