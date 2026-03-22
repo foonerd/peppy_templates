@@ -14,10 +14,10 @@ NO_PREVIEW="no-preview.svg"
 # Normalization Functions
 # ========================================
 
-# Clean a single path segment (directory or zip basename only — never theme files)
+# Clean a name - replace spaces and special chars
 clean_name() {
     echo "$1" | \
-        sed 's/[[:space:]]/_/g' | \
+        sed 's/ /_/g' | \
         sed 's/&/and/g' | \
         sed 's/+/_/g' | \
         sed 's/__*/_/g' | \
@@ -25,73 +25,17 @@ clean_name() {
         sed 's/^_//'
 }
 
-# Check if a directory name segment needs normalization
+# Check if name contains invalid characters
 name_needs_cleaning() {
     local name="$1"
-    [[ -z "$name" ]] && return 1
-    [[ "$name" == "." || "$name" == ".." ]] && return 1
-    # Whitespace, &, or +
-    [[ "$name" =~ [[:space:]] ]] || [[ "$name" =~ [\&\+] ]]
-}
-
-# List archive member paths (one per line). Used only to discover directory segments — never rewrites files.
-_zip_list_members() {
-    local z="$1"
-    if command -v zipinfo >/dev/null 2>&1; then
-        zipinfo -1 "$z" 2>/dev/null && return 0
-    fi
-    if unzip -Z1 "$z" 2>/dev/null; then
-        return 0
-    fi
-    # Fallback: unzip -l (name is everything after length + date + time)
-    unzip -l "$z" 2>/dev/null | awk '
-        NR < 4 { next }
-        /^[[:space:]]*---/ { next }
-        /^[[:space:]]*Archive:/ { next }
-        /^[[:space:]]*Total/ { exit }
-        NF < 4 { next }
-        { $1=$2=$3=""; sub(/^[[:space:]]+/,""); print }
-    '
-}
-
-# True if any directory segment in the zip path needs cleaning (files are not examined)
-zip_has_invalid_folder_segments() {
-    local zip_file="$1"
-    local path seg p
-    
-    while IFS= read -r path || [[ -n "$path" ]]; do
-        [[ -z "$path" ]] && continue
-        # Normalise backslashes from some archives
-        path="${path//\\//}"
-        
-        if [[ "$path" == */ ]]; then
-            # Explicit directory entry: every slash-separated part is a folder name
-            p="${path%/}"
-            while [[ -n "$p" ]]; do
-                seg="${p##*/}"
-                p="${p%/*}"
-                [[ -z "$seg" ]] && continue
-                name_needs_cleaning "$seg" && return 0
-            done
-        else
-            # File entry: only parent path segments are folders (basename is a file — do not validate)
-            p="${path%/*}"
-            [[ "$p" == "$path" ]] && continue
-            while [[ -n "$p" ]]; do
-                seg="${p##*/}"
-                p="${p%/*}"
-                [[ -z "$seg" ]] && continue
-                name_needs_cleaning "$seg" && return 0
-            done
-        fi
-    done < <(_zip_list_members "$zip_file")
-    return 1
+    # Returns 0 (true) if name has spaces, &, or +
+    [[ "$name" =~ [\ \&\+] ]]
 }
 
 # Normalize a single zip file
 # - Renames zip if filename has invalid chars
-# - Repackages if any directory path segment inside the archive needs cleaning
-# - Only directories are renamed on disk after extract; files are never renamed or edited
+# - Repackages if internal folders have invalid chars
+# - NEVER touches files inside (preserves config references)
 normalize_zip() {
     local zip_file="$1"
     local zip_dir=$(dirname "$zip_file")
@@ -111,26 +55,31 @@ normalize_zip() {
         changed=true
     fi
     
-    # Check directory path segments (implicit folders from file paths + explicit dir entries)
+    # Check if internal folders need cleaning
+    local folder_list=$(unzip -l "$zip_file" 2>/dev/null | awk '{print $4}' | grep '/$' | sort -u)
     local needs_repack=false
-    if zip_has_invalid_folder_segments "$zip_file"; then
-        needs_repack=true
-    fi
+    
+    while IFS= read -r folder; do
+        [[ -z "$folder" ]] && continue
+        if name_needs_cleaning "$folder"; then
+            needs_repack=true
+            break
+        fi
+    done <<< "$folder_list"
     
     if [[ "$needs_repack" == true ]]; then
-        echo "  Repackaging: $zip_name (fixing folder names only)"
+        echo "  Repackaging: $zip_name (fixing folder names)"
         
         local work_dir=$(mktemp -d)
         
         # Extract
         unzip -q "$zip_file" -d "$work_dir"
         
-        # Rename directories only, deepest first (never touches regular files)
-        find "$work_dir" -mindepth 1 -depth -type d | while IFS= read -r dir; do
-            local dir_base dir_parent dir_cleaned
-            dir_base=$(basename "$dir")
-            dir_parent=$(dirname "$dir")
-            dir_cleaned=$(clean_name "$dir_base")
+        # Rename folders only (deepest first) - NOT files
+        find "$work_dir" -depth -type d | while read -r dir; do
+            local dir_base=$(basename "$dir")
+            local dir_parent=$(dirname "$dir")
+            local dir_cleaned=$(clean_name "$dir_base")
             
             if [[ "$dir_base" != "$dir_cleaned" ]]; then
                 echo "    Folder: $dir_base -> $dir_cleaned"
@@ -138,8 +87,11 @@ normalize_zip() {
             fi
         done
         
-        # Repack full tree (preserves multi-root layouts; file bytes unchanged)
-        (cd "$work_dir" && zip -rq "../repack.zip" .)
+        # Get root folder name
+        local root_folder=$(ls "$work_dir")
+        
+        # Create new zip
+        (cd "$work_dir" && zip -rq "../repack.zip" "$root_folder")
         
         # Replace original
         mv "$work_dir/../repack.zip" "$zip_file"

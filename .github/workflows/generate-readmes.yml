@@ -6,38 +6,28 @@ on:
       - 'template_peppy/**'
       - 'templates_peppy_spectrum/**'
       - 'templates_spectrum/**'
-      - 'scripts/generate-readmes.sh'
-      - '.github/workflows/generate-readmes.yml'
   workflow_dispatch:
 
 permissions:
   contents: write
 
-concurrency:
-  group: generate-readmes-${{ github.ref }}
-  cancel-in-progress: true
-
 jobs:
   generate-readmes:
     runs-on: ubuntu-latest
-
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
+        
       - name: Generate READMEs
-        shell: bash
         run: |
-          set -euo pipefail
           chmod +x ./scripts/generate-readmes.sh
           ./scripts/generate-readmes.sh
-
-      - name: Commit and push
-        shell: bash
+          
+      - name: Commit changes
         run: |
-          set -euo pipefail
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
@@ -45,5 +35,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Auto-generate template READMEs and catalog"
-            git push origin "HEAD:${GITHUB_REF_NAME}"
+            git push
           fi
