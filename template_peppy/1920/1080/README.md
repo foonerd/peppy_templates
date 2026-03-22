@@ -262,7 +262,7 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ## 1920x1080_g5_711_Tape_Recorder
 
-![1920x1080_g5_711_Tape_Recorder](previews/1920x1080_g5_711_Tape_Recorder.svg)
+![1920x1080_g5_711_Tape_Recorder](previews/1920x1080_g5_711_Tape_Recorder.png)
 
 | Property | Value |
 |----------|-------|
