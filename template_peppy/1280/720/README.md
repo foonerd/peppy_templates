@@ -199,24 +199,6 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
-## 1280x720_g5_443_rotate
-
-![1280x720_g5_443_rotate](previews/1280x720_g5_443_rotate.png)
-
-| Property | Value |
-|----------|-------|
-| Meter Name | 17G5_TURN Vinyl Black |
-| Meter Type | circular |
-| Extended Config | Yes |
-| Spectrum | No |
-| Album Art | Yes |
-
-**Download:** [1280x720_g5_443_rotate.zip](1280x720_g5_443_rotate.zip)
-
-**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
-
----
-
 ## 1280x720_g5_444_rotate
 
 ![1280x720_g5_444_rotate](previews/1280x720_g5_444_rotate.png)
@@ -230,75 +212,6 @@ VU Meter templates for PeppyMeter Screensaver.
 | Album Art | Yes |
 
 **Download:** [1280x720_g5_444_rotate.zip](1280x720_g5_444_rotate.zip)
-
-**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
-
----
-
-## 1280x720_g5_445_rotate
-
-![1280x720_g5_445_rotate](previews/1280x720_g5_445_rotate.png)
-
-| Property | Value |
-|----------|-------|
-| Template Pack | Yes (2 templates) |
-| Meter Type | circular |
-| Extended Config | Yes |
-| Spectrum | No |
-| Album Art | Yes |
-
-**Included Meters:**
-
-- 19G5_Cassette_Circular
-- 20G5_Cassette_Linear
-
-**Download:** [1280x720_g5_445_rotate.zip](1280x720_g5_445_rotate.zip)
-
-**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
-
----
-
-## 1280x720_g5_707_meters
-
-![1280x720_g5_707_meters](previews/1280x720_g5_707_meters.png)
-
-| Property | Value |
-|----------|-------|
-| Template Pack | Yes (2 templates) |
-| Meter Type | circular |
-| Extended Config | Yes |
-| Spectrum | No |
-| Album Art | Yes |
-
-**Included Meters:**
-
-- 123G5_Cassette_Circular
-- 124G5_Cassette_Linear
-
-**Download:** [1280x720_g5_707_meters.zip](1280x720_g5_707_meters.zip)
-
-**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
-
----
-
-## 1280x720_g5_708_meters
-
-![1280x720_g5_708_meters](previews/1280x720_g5_708_meters.png)
-
-| Property | Value |
-|----------|-------|
-| Template Pack | Yes (2 templates) |
-| Meter Type | circular |
-| Extended Config | Yes |
-| Spectrum | No |
-| Album Art | Yes |
-
-**Included Meters:**
-
-- 125G5_Denon DP62
-- 126G5_Reloop RL7000
-
-**Download:** [1280x720_g5_708_meters.zip](1280x720_g5_708_meters.zip)
 
 **Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
 
