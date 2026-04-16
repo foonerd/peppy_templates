@@ -215,7 +215,7 @@ VU Meter templates for PeppyMeter Screensaver.
 
 | Property | Value |
 |----------|-------|
-| Template Pack | Yes (42 templates) |
+| Template Pack | Yes (48 templates) |
 | Meter Type | linear |
 | Extended Config | Yes |
 | Spectrum | No |
@@ -265,6 +265,12 @@ VU Meter templates for PeppyMeter Screensaver.
 - 193G5_03_TechDas
 - 194G5_02_PioneerNew
 - 194G5_03_PioneerNew
+- 195G5_01_Gramovox
+- 195G5_02_Gramovox
+- 195G5_03_Gramovox
+- 196G5_01_SME60
+- 196G5_02_SME60
+- 196G5_03_SME60
 
 **Download:** [1920x1080_g5_710_Turntables.zip](1920x1080_g5_710_Turntables.zip)
 
