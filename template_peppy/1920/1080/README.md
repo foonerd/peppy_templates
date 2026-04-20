@@ -280,11 +280,11 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ## 1920x1080_g5_711_Tape_Recorder
 
-![1920x1080_g5_711_Tape_Recorder](previews/1920x1080_g5_711_Tape_Recorder.png)
+![1920x1080_g5_711_Tape_Recorder](previews/1920x1080_g5_711_Tape_Recorder.svg)
 
 | Property | Value |
 |----------|-------|
-| Template Pack | Yes (10 templates) |
+| Template Pack | Yes (15 templates) |
 | Meter Type | linear |
 | Extended Config | Yes |
 | Spectrum | No |
@@ -301,7 +301,12 @@ VU Meter templates for PeppyMeter Screensaver.
 - 157G5_Revox B77
 - 158G5_Tascam Rec
 - 159G5_Technics Rec
-- 160G5_Metaxas Rec
+- 159G5_Metaxas Rec
+- 210G5_Sony TC730
+- 211G5_Akai GX635
+- 212G5_TapeAK
+- 213G5_Fostex Rec
+- 214G5_TapeAMP
 
 **Download:** [1920x1080_g5_711_Tape_Recorder.zip](1920x1080_g5_711_Tape_Recorder.zip)
 
