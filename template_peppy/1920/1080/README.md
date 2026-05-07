@@ -284,7 +284,7 @@ VU Meter templates for PeppyMeter Screensaver.
 
 | Property | Value |
 |----------|-------|
-| Template Pack | Yes (15 templates) |
+| Template Pack | Yes (20 templates) |
 | Meter Type | linear |
 | Extended Config | Yes |
 | Spectrum | No |
@@ -307,6 +307,11 @@ VU Meter templates for PeppyMeter Screensaver.
 - 212G5_TapeAK
 - 213G5_Fostex Rec
 - 214G5_TapeAMP
+- 215G5_Koncert M3401
+- 216G5_Akai PRO1000
+- 217G5_MION24
+- 218G5_Teac X2000
+- 219G5_Tandberg OLD
 
 **Download:** [1920x1080_g5_711_Tape_Recorder.zip](1920x1080_g5_711_Tape_Recorder.zip)
 
