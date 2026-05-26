@@ -366,8 +366,8 @@ VU Meter templates for PeppyMeter Screensaver.
 - 193G5_Syitren Cust
 - 193G5_02_Syitren
 - 194G5_Thinkya Cust
-- 105G5_CD Black
-- 105G5_02_CD Black
+- 195G5_CD Black
+- 195G5_02_CD Black
 - 196G5_Emerson MS3
 
 **Download:** [1920x515_g5_917_CD.zip](1920x515_g5_917_CD.zip)
