@@ -345,6 +345,37 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1920x515_g5_917_CD
+
+![1920x515_g5_917_CD](previews/1920x515_g5_917_CD.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (10 templates) |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 190G5_CD Player Full
+- 190G5_02_CD Player Full
+- 191G5_DUNU
+- 192G5_Shanling Cust
+- 193G5_Syitren Cust
+- 193G5_02_Syitren
+- 194G5_Thinkya Cust
+- 105G5_CD Black
+- 105G5_02_CD Black
+- 196G5_Emerson MS3
+
+**Download:** [1920x515_g5_917_CD.zip](1920x515_g5_917_CD.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 
 ## Installation
 
