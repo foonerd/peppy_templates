@@ -104,6 +104,99 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1920x550_g5_913_Cassette
+
+![1920x550_g5_913_Cassette](previews/1920x550_g5_913_Cassette.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (10 templates) |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 130G5_Cassette_Linear
+- 131G5_Cassette Pioneer
+- 132G5_Fisher cassette
+- 133G5_Yamaha
+- 134G5_TEAC cassette
+- 135G5_BASF Free
+- 136G5_Sansui Cassette
+- 137G5_TDK cassette
+- 138G5_TEAC Full
+- 139G5_Denon DR650
+
+**Download:** [1920x550_g5_913_Cassette.zip](1920x550_g5_913_Cassette.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
+## 1920x550_g5_915_Tape_Recorder
+
+![1920x550_g5_915_Tape_Recorder](previews/1920x550_g5_915_Tape_Recorder.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (10 templates) |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 150G5_Studer A810
+- 151G5_Ampex Reel
+- 152G5_Otari Reel
+- 153G5_TDK Reel
+- 154G5_Akai 77
+- 155G5_Akai77_silver
+- 156G5_TapeAK
+- 157G5_Fostex Rec
+- 158G5_Revox B77
+- 159G5_MION24
+
+**Download:** [1920x550_g5_915_Tape_Recorder.zip](1920x550_g5_915_Tape_Recorder.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
+## 1920x550_g5_917_CD
+
+![1920x550_g5_917_CD](previews/1920x550_g5_917_CD.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (10 templates) |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 190G5_CD Player Full
+- 190G5_02_CD Player Full
+- 191G5_DUNU
+- 192G5_Shanling Cust
+- 193G5_Syitren Cust
+- 193G5_02_Syitren
+- 194G5_Thinkya Cust
+- 195G5_CD Black
+- 195G5_02_CD Black
+- 196G5_Emerson MS3
+
+**Download:** [1920x550_g5_917_CD.zip](1920x550_g5_917_CD.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 
 ## Installation
 
