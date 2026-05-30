@@ -274,7 +274,7 @@ VU Meter templates for PeppyMeter Screensaver.
 
 | Property | Value |
 |----------|-------|
-| Template Pack | Yes (10 templates) |
+| Template Pack | Yes (20 templates) |
 | Meter Type | linear |
 | Extended Config | Yes |
 | Spectrum | No |
@@ -291,7 +291,17 @@ VU Meter templates for PeppyMeter Screensaver.
 - 157G5_Revox B77
 - 158G5_Tascam Rec
 - 159G5_Technics Rec
-- 160G5_Metaxas Rec
+- 159G5_Metaxas Rec
+- 210G5_Sony TC730
+- 211G5_Akai GX635
+- 212G5_TapeAK
+- 213G5_Fostex Rec
+- 214G5_TapeAMP
+- 215G5_Koncert M3401
+- 216G5_Akai PRO1000
+- 217G5_MION24
+- 218G5_Teac X2000
+- 219G5_Tandberg OLD
 
 **Download:** [1280x720_g5_711_Tape_Recorder.zip](1280x720_g5_711_Tape_Recorder.zip)
 
@@ -305,7 +315,7 @@ VU Meter templates for PeppyMeter Screensaver.
 
 | Property | Value |
 |----------|-------|
-| Template Pack | Yes (10 templates) |
+| Template Pack | Yes (15 templates) |
 | Meter Type | linear |
 | Extended Config | Yes |
 | Spectrum | No |
@@ -323,6 +333,11 @@ VU Meter templates for PeppyMeter Screensaver.
 - 168G5_Philips Cassette
 - 169G5_Denon DR650
 - 170G5_SonyK770 cassette
+- 240G5_MION24C
+- 241G5_Kenwood cassette
+- 242G5_Sharp
+- 243G5_Sansui Cassette
+- 244G5_Pioneer CT_F1250
 
 **Download:** [1280x720_g5_712_Cassette.zip](1280x720_g5_712_Cassette.zip)
 
@@ -336,7 +351,7 @@ VU Meter templates for PeppyMeter Screensaver.
 
 | Property | Value |
 |----------|-------|
-| Template Pack | Yes (4 templates) |
+| Template Pack | Yes (16 templates) |
 | Meter Type | linear |
 | Extended Config | Yes |
 | Spectrum | No |
@@ -348,6 +363,18 @@ VU Meter templates for PeppyMeter Screensaver.
 - 172G5_Sony557 Cust
 - 173G5_CD Player Full
 - 174G5_CD Player Cust
+- 175G5_Emerson Full
+- 176G5_Emerson Cust
+- 177G5_Dunu Cust
+- 178G5_Thinkya Cust
+- 179G5_Shanling Cust
+- 180G5_Syitren Cust
+- 260G5_CD Black
+- 261G5_CD HOTT
+- 262G5_Jadis
+- 262G5_02_Jadis
+- 263G5_Emerson MS3
+- 263G5_02_Emerson MS3
 
 **Download:** [1280x720_g5_713_CD.zip](1280x720_g5_713_CD.zip)
 
