@@ -302,6 +302,47 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1280x720_g5_705_meters
+
+![1280x720_g5_705_meters](previews/1280x720_g5_705_meters.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (20 templates) |
+| Meter Type | circular |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 81G5_Struder Tape
+- 82G5_Unison Research
+- 83G5_Jericho
+- 84G5_Radio Tann
+- 85G5_Gryphon
+- 86G5_Onkyo M508
+- 87G5_Sound90
+- 88G5_Sony TAN77
+- 89G5_Rotel
+- 90G5_Vert_Kidney
+- 91G5_BlackBlur
+- 92G5_BlackBlur Big-Bang
+- 93G5_BlackBlur LED
+- 94G5_MNN8
+- 95G5_NeonLight
+- 96G5_NIxI Pipe
+- 97G5_Optonica
+- 98G5_Pioneer Deck
+- 99G5_Merc
+- 100G5_McIntosh Hybrid
+
+**Download:** [1280x720_g5_705_meters.zip](1280x720_g5_705_meters.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 1280x720_g5_710_Turntables
 
 ![1280x720_g5_710_Turntables](previews/1280x720_g5_710_Turntables.png)
