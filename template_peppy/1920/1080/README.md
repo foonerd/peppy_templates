@@ -528,6 +528,43 @@ VU Meter templates for PeppyMeter Screensaver.
 
 ---
 
+## 1920x1080_g5_RADIO
+
+![1920x1080_g5_RADIO](previews/1920x1080_g5_RADIO.png)
+
+| Property | Value |
+|----------|-------|
+| Template Pack | Yes (16 templates) |
+| Meter Type | linear |
+| Extended Config | Yes |
+| Spectrum | No |
+| Album Art | Yes |
+
+**Included Meters:**
+
+- 500G5_Meier
+- 501G5_McIntosh FM
+- 502G5_Retro
+- 503G5_Albrecht
+- 504G5_Marantz FM
+- 505G5_Technisat
+- 506G5_Audizio FM
+- 507G5_Teufel
+- 508G5_Hyundai
+- 509G5_Technisat Silver
+- 510G5_Blaupunkt FM
+- 511G5_Pure DAB
+- 512G5_Imperial YT
+- 513G5_Roadstar
+- 514G5_Auna FM
+- 515G5_Denver
+
+**Download:** [1920x1080_g5_RADIO.zip](1920x1080_g5_RADIO.zip)
+
+**Install:** Extract and copy folder to `/data/INTERNAL/peppy_screensaver/templates/`
+
+---
+
 ## 1920x1080_reel_tape
 
 ![1920x1080_reel_tape](previews/1920x1080_reel_tape.png)
