@@ -1,0 +1,5990 @@
+{
+ "version": 1,
+ "updated": "2026-09-23T17:16:57+02:00",
+ "base": "https://raw.githubusercontent.com/foonerd/peppy_templates/main/",
+ "templates": [
+  {
+   "name": "800x480_Linn_LP12",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_Linn_LP12.zip",
+   "bytes": 766192,
+   "sha256": "f61804e450e50446dea8935cb9135eb50044a38f49daeda536d2006f20776a21",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_Linn_LP12/",
+     "folder": "800x480_Linn_LP12",
+     "names": [
+      "Linn-LP12"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_Linn_LP12.png",
+   "thumb": "catalog/thumbs/800x480_Linn_LP12.jpg"
+  },
+  {
+   "name": "800x480_Pro-Ject_ACDC",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_Pro-Ject_ACDC.zip",
+   "bytes": 1109805,
+   "sha256": "c02f4bc9a3a8fd1c0b9f8994d1610ae9be55642f7ab518b379f2dd1d1f772ae5",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_Pro-Ject_ACDC/",
+     "folder": "800x480_Pro-Ject_ACDC",
+     "names": [
+      "Pro-Ject_ACDC"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_Pro-Ject_ACDC.png",
+   "thumb": "catalog/thumbs/800x480_Pro-Ject_ACDC.jpg"
+  },
+  {
+   "name": "800x480_Pro-Ject_DarkSideOfTheMoon",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_Pro-Ject_DarkSideOfTheMoon.zip",
+   "bytes": 705431,
+   "sha256": "a22aeb3f80c15e8b8248716c679a99ca2f4a1489adb0fd13a04c762764be28af",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_Pro-Ject_DarkSideOfTheMoon/",
+     "folder": "800x480_Pro-Ject_DarkSideOfTheMoon",
+     "names": [
+      "Pro-Ject_DarkSideOfTheMoon"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_Pro-Ject_DarkSideOfTheMoon.png",
+   "thumb": "catalog/thumbs/800x480_Pro-Ject_DarkSideOfTheMoon.jpg"
+  },
+  {
+   "name": "800x480_Pro-Ject_Metallica",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_Pro-Ject_Metallica.zip",
+   "bytes": 787430,
+   "sha256": "9cf0e0080c839735dc4953cfa086713c7829851ded60ce2643a88f5f6067f98e",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_Pro-Ject_Metallica/",
+     "folder": "800x480_Pro-Ject_Metallica",
+     "names": [
+      "Project-Metallica"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_Pro-Ject_Metallica.png",
+   "thumb": "catalog/thumbs/800x480_Pro-Ject_Metallica.jpg"
+  },
+  {
+   "name": "800x480_RB18_01",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_RB18_01.zip",
+   "bytes": 557938,
+   "sha256": "5ad4ffbd4e8387095b7035f5f41f12217c13dd5d6944fe9cab68627a903124aa",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_RB18_01/",
+     "folder": "800x480_RB18_01",
+     "names": [
+      "Redbull"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_RB18_01.png",
+   "thumb": "catalog/thumbs/800x480_RB18_01.jpg"
+  },
+  {
+   "name": "800x480_crab_01",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_crab_01.zip",
+   "bytes": 975540,
+   "sha256": "d722c07a1e6bd89da372a1818252a2997e4a18a49bebc6707312b04850f14cb2",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_crab_01/",
+     "folder": "800x480_crab_01",
+     "names": [
+      "crab_01"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_crab_01.png",
+   "thumb": "catalog/thumbs/800x480_crab_01.jpg"
+  },
+  {
+   "name": "800x480_custom_01",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_custom_01.zip",
+   "bytes": 470070,
+   "sha256": "824af91d8da35a2b40b151ff7b680307f8505fff46d1db653c6b14e10384e3f0",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_custom_01/",
+     "folder": "800x480_custom_01",
+     "names": [
+      "vertical-turntable-blue"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_custom_01.png",
+   "thumb": "catalog/thumbs/800x480_custom_01.jpg"
+  },
+  {
+   "name": "800x480_custom_02",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_custom_02.zip",
+   "bytes": 843934,
+   "sha256": "86fa3405d897a6b7f80b8fe900186e43738892e43b270b8b47d2845f6d81e091",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_custom_02/",
+     "folder": "800x480_custom_02",
+     "names": [
+      "VTEBT-RecordPlayer"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_custom_02.png",
+   "thumb": "catalog/thumbs/800x480_custom_02.jpg"
+  },
+  {
+   "name": "800x480_custom_03",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_custom_03.zip",
+   "bytes": 523216,
+   "sha256": "c6585c80f1bc54ea80dcd84dbc317868e92261e22963f3350e544d5ce522f710",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_custom_03/",
+     "folder": "800x480_custom_03",
+     "names": [
+      "Bang-Olufsen"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_custom_03.png",
+   "thumb": "catalog/thumbs/800x480_custom_03.jpg"
+  },
+  {
+   "name": "800x480_custom_04",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_custom_04.zip",
+   "bytes": 380050,
+   "sha256": "96661041ffa659b3e7f92c37e5282b76a02c568f25987a8559bcaf52981940de",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_custom_04/",
+     "folder": "800x480_custom_04",
+     "names": [
+      "black-grey-square"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_custom_04.png",
+   "thumb": "catalog/thumbs/800x480_custom_04.jpg"
+  },
+  {
+   "name": "800x480_custom_05",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_custom_05.zip",
+   "bytes": 304049,
+   "sha256": "9638864d588810eb998e8c5791c2c5cda80b0786eb52a58532deba122648a024",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_custom_05/",
+     "folder": "800x480_custom_05",
+     "names": [
+      "black-blue-square"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_custom_05.png",
+   "thumb": "catalog/thumbs/800x480_custom_05.jpg"
+  },
+  {
+   "name": "800x480_custom_06",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_custom_06.zip",
+   "bytes": 1163129,
+   "sha256": "e931a1f65acb1923f905c54bde94b6cf1b17ecef4b3532b59ded7259a82eb6ef",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_custom_06/",
+     "folder": "800x480_custom_06",
+     "names": [
+      "RecordPlayer"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_custom_06.png",
+   "thumb": "catalog/thumbs/800x480_custom_06.jpg"
+  },
+  {
+   "name": "800x480_custom_07",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_custom_07.zip",
+   "bytes": 603544,
+   "sha256": "c24398aa8f130f878cb83cf65aa7d3c0e8458670f0b685d00ef248d595ce4b5c",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_custom_07/",
+     "folder": "800x480_custom_07",
+     "names": [
+      "Esoteric-T1"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_custom_07.png",
+   "thumb": "catalog/thumbs/800x480_custom_07.jpg"
+  },
+  {
+   "name": "800x480_custom_08",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_custom_08.zip",
+   "bytes": 323734,
+   "sha256": "0fdb9ac93f9941766cb6e1b60072cd7cc4d8b96c7405e1e4feab4a399bb4a489",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_custom_08/",
+     "folder": "800x480_custom_08",
+     "names": [
+      "BrystonBI200"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_custom_08.png",
+   "thumb": "catalog/thumbs/800x480_custom_08.jpg"
+  },
+  {
+   "name": "800x480_custom_09",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_custom_09.zip",
+   "bytes": 681769,
+   "sha256": "3a6fe80bfbe2f2393f1f564b8aa7b136c8ab89ff498398d4eb8c7fb6739d93f7",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_custom_09/",
+     "folder": "800x480_custom_09",
+     "names": [
+      "cassettedeck-2"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_custom_09.png",
+   "thumb": "catalog/thumbs/800x480_custom_09.jpg"
+  },
+  {
+   "name": "800x480_custom_10",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_custom_10.zip",
+   "bytes": 1571243,
+   "sha256": "96dec79646ad76d62f37299e9317374a99b96e7b7c004e9591a3ac607e6715d5",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_custom_10/",
+     "folder": "800x480_custom_10",
+     "names": [
+      "cassettedeck-3"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_custom_10.png",
+   "thumb": "catalog/thumbs/800x480_custom_10.jpg"
+  },
+  {
+   "name": "800x480_custom_13",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_custom_13.zip",
+   "bytes": 825595,
+   "sha256": "9fc39d1e84b34cbe51505de9dfd4f96d6af6fc08f423bee41ac33167d6ebef82",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_custom_13/",
+     "folder": "800x480_custom_13",
+     "names": [
+      "Volumio"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_custom_13.png",
+   "thumb": "catalog/thumbs/800x480_custom_13.jpg"
+  },
+  {
+   "name": "800x480_custom_14",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_custom_14.zip",
+   "bytes": 1265606,
+   "sha256": "8310f50f9145ecb6e7109f10818eab7eeb532c45a5ea3e343e31c44699119485",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_custom_14/",
+     "folder": "800x480_custom_14",
+     "names": [
+      "BandRecorder-1"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_custom_14.png",
+   "thumb": "catalog/thumbs/800x480_custom_14.jpg"
+  },
+  {
+   "name": "800x480_dan_dagostimo_mlife",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_dan_dagostimo_mlife.zip",
+   "bytes": 857054,
+   "sha256": "0524f00af38fa6f8c714a4e76dbd336747ca6dc37fe83b7e186db375ada55f4e",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_dan_dagostimo_mlife/",
+     "folder": "800x480_dan_dagostimo_mlife",
+     "names": [
+      "dan_dagostino_mlife"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_dan_dagostimo_mlife.png",
+   "thumb": "catalog/thumbs/800x480_dan_dagostimo_mlife.jpg"
+  },
+  {
+   "name": "800x480_dandagostino_1",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_dandagostino_1.zip",
+   "bytes": 818188,
+   "sha256": "ae48a4daf736903d929acfbe82f3ef1ef109c9f306a48263f7609ffba9a2050a",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_dandagostino_1/",
+     "folder": "800x480_dandagostino_1",
+     "names": [
+      "dan-dagostino"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_dandagostino_1.png",
+   "thumb": "catalog/thumbs/800x480_dandagostino_1.jpg"
+  },
+  {
+   "name": "800x480_g5_711_Tape_Recorder",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_g5_711_Tape_Recorder.zip",
+   "bytes": 13221747,
+   "sha256": "b618c6acbe9f8e45810355980421f6c993db317ee171d8638ca6b93d5380e266",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_g5_711_Tape_Recorder/",
+     "folder": "800x480_g5_711_Tape_Recorder",
+     "names": [
+      "151G5_Akai77 black",
+      "152G5_Akai77_silver",
+      "153G5_Studer A810",
+      "154G5_PioneerRT707_silver",
+      "155G5_Antelope Reel",
+      "156G5_Otari Reel",
+      "157G5_Revox B77",
+      "158G5_Tascam Rec",
+      "159G5_Technics Rec",
+      "159G5_Metaxas Rec",
+      "210G5_Sony TC730",
+      "211G5_Akai GX635",
+      "212G5_TapeAK",
+      "213G5_Fostex Rec",
+      "214G5_TapeAMP",
+      "215G5_Koncert M3401",
+      "216G5_Akai PRO1000",
+      "217G5_MION24",
+      "218G5_Teac X2000",
+      "219G5_Tandberg OLD"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_g5_711_Tape_Recorder.png",
+   "thumb": "catalog/thumbs/800x480_g5_711_Tape_Recorder.jpg"
+  },
+  {
+   "name": "800x480_g5_712_Cassette",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_g5_712_Cassette.zip",
+   "bytes": 12347605,
+   "sha256": "9e4e693a08387fa80027666c469d1db49ef6e820fa30b2183604558af6d7bcaf",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_g5_712_Cassette/",
+     "folder": "800x480_g5_712_Cassette",
+     "names": [
+      "161G5_Pioneer Cassette",
+      "162G5_TDK cassette",
+      "163G5_TEAC cassette",
+      "164G5_Maxell Cassette",
+      "165G5_BASF Free",
+      "166G5_Cassette_Circular",
+      "167G5_Cassette_Linear",
+      "168G5_Philips Cassette",
+      "169G5_Denon DR650",
+      "170G5_SonyK770 cassette",
+      "240G5_MION24C",
+      "241G5_Kenwood cassette",
+      "242G5_Sharp",
+      "243G5_Sansui Cassette",
+      "244G5_Pioneer CT_F1250"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_g5_712_Cassette.png",
+   "thumb": "catalog/thumbs/800x480_g5_712_Cassette.jpg"
+  },
+  {
+   "name": "800x480_g5_713_CD",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_g5_713_CD.zip",
+   "bytes": 7439694,
+   "sha256": "2844d6ea5167e4cb129207256b90fa619faddbf7ce33658194762450c413fc81",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_g5_713_CD/",
+     "folder": "800x480_g5_713_CD",
+     "names": [
+      "171G5_Sony557 Full",
+      "172G5_Sony557 Cust",
+      "173G5_CD Player Full",
+      "174G5_CD Player Cust",
+      "175G5_Emerson Full",
+      "176G5_Emerson Cust",
+      "177G5_Dunu Cust",
+      "178G5_Thinkya Cust",
+      "179G5_Shanling Cust",
+      "180G5_Syitren Cust",
+      "260G5_CD Black",
+      "261G5_CD HOTT",
+      "262G5_Jadis",
+      "262G5_02_Jadis",
+      "263G5_Emerson MS3",
+      "263G5_02_Emerson MS3"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_g5_713_CD.png",
+   "thumb": "catalog/thumbs/800x480_g5_713_CD.jpg"
+  },
+  {
+   "name": "800x480_go_fishing_01",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_go_fishing_01.zip",
+   "bytes": 480887,
+   "sha256": "658d91409b54fb7365e9d55d8819a23400730a79ce02c92e09e7723159a59e54",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_go_fishing_01/",
+     "folder": "800x480_go_fishing_01",
+     "names": [
+      "go_fishing"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_go_fishing_01.png",
+   "thumb": "catalog/thumbs/800x480_go_fishing_01.jpg"
+  },
+  {
+   "name": "800x480_minions_01",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_minions_01.zip",
+   "bytes": 875154,
+   "sha256": "434c20acc7a32f78ae1e6eb5586ff023bfe3395a095e929b8e60a05ae477a5db",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_minions_01/",
+     "folder": "800x480_minions_01",
+     "names": [
+      "minions_01"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_minions_01.png",
+   "thumb": "catalog/thumbs/800x480_minions_01.jpg"
+  },
+  {
+   "name": "800x480_pro-ject_VTEBT",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_pro-ject_VTEBT.zip",
+   "bytes": 1077304,
+   "sha256": "d96eec1e7becf4bc571251cec036ff73f2406c626f28f0ae13cb3dd9fef12ae1",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_pro-ject_VTEBT/",
+     "folder": "800x480_pro-ject_VTEBT",
+     "names": [
+      "Pro-ject_VTEBT"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_pro-ject_VTEBT.png",
+   "thumb": "catalog/thumbs/800x480_pro-ject_VTEBT.jpg"
+  },
+  {
+   "name": "800x480_quad_platina",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_quad_platina.zip",
+   "bytes": 427504,
+   "sha256": "6e1dc144aad7bd7b8b2646e975ba13ef3d54b3fdbada0c7399b0c5a1936e9fa4",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_quad_platina/",
+     "folder": "800x480_quad_platina",
+     "names": [
+      "quad_platina"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_quad_platina.png",
+   "thumb": "catalog/thumbs/800x480_quad_platina.jpg"
+  },
+  {
+   "name": "800x480_south_park",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_south_park.zip",
+   "bytes": 1270356,
+   "sha256": "3986db80dccb566a045cc8e4f692f508ea5ec6b69e4b054915c8655625f82b82",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_south_park/",
+     "folder": "800x480_south_park",
+     "names": [
+      "southpark"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_south_park.png",
+   "thumb": "catalog/thumbs/800x480_south_park.jpg"
+  },
+  {
+   "name": "800x480_south_park_2",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 800,
+   "height": 480,
+   "zip": "template_peppy/0800/480/800x480_south_park_2.zip",
+   "bytes": 265984,
+   "sha256": "12accd6f14a9a3855564d560e524b886be2551803391aca7eea9b0a40d54195f",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_south_park_2/",
+     "folder": "800x480_south_park_2",
+     "names": [
+      "southpark2"
+     ]
+    }
+   ],
+   "preview": "template_peppy/0800/480/previews/800x480_south_park_2.png",
+   "thumb": "catalog/thumbs/800x480_south_park_2.jpg"
+  },
+  {
+   "name": "1024x600_g5_111_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1024,
+   "height": 600,
+   "zip": "template_peppy/1024/600/1024x600_g5_111_meters.zip",
+   "bytes": 11587735,
+   "sha256": "6be7f710337f9b4617422a367b630142a676b2ed0e900f7ccd08cb8ddc9108ab",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1024x600_g5_111_0020/",
+     "folder": "1024x600_g5_111_0020",
+     "names": [
+      "01G5_Accuphase",
+      "02G5_Accuphase monoblock",
+      "03G5_McIntosh Hybrid",
+      "04G5_McIntosh",
+      "05G5_McIntosh monoblock",
+      "06G5_Fire Rock",
+      "07G5_Marantz Silver",
+      "08G5_Marantz Black",
+      "09G5_Dorrough",
+      "10G5_Sansui",
+      "11G5_Klanghelm",
+      "12G5_Teac Cassette",
+      "13G5_Full Cassette",
+      "14G5_Violin",
+      "15G5_Optonica",
+      "16G5_Pioneer Deck",
+      "17G5_PioneerCT",
+      "18G5_Advence",
+      "19G5_Abrahamsen",
+      "20G5_J37 Tape"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1024/600/previews/1024x600_g5_111_meters.png",
+   "thumb": "catalog/thumbs/1024x600_g5_111_meters.jpg"
+  },
+  {
+   "name": "1024x600_g5_112_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1024,
+   "height": 600,
+   "zip": "template_peppy/1024/600/1024x600_g5_112_meters.zip",
+   "bytes": 9445682,
+   "sha256": "7f8be1c25822e9da64a1ca9b7edbbc31cd4089318837ed1ed925b903d5d24fd1",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1024x600_g5_112_2040/",
+     "folder": "1024x600_g5_112_2040",
+     "names": [
+      "21G5_TURTNABLE Orange",
+      "22G5_TURNTABLE Black",
+      "23G5_TURNTABLE Blue",
+      "24G5_TURNTABLE Green",
+      "25G5_OLD Meter",
+      "26G5_ClasseM",
+      "27G5_Old2 braun",
+      "28G5_Audio Research",
+      "29G5_Naim green",
+      "30G5_Naim 2",
+      "31G5_Wadax",
+      "32G5_NAD",
+      "33G5_MarantzCD",
+      "34G5_MarkLev",
+      "35G5_MNN8"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1024/600/previews/1024x600_g5_112_meters.png",
+   "thumb": "catalog/thumbs/1024x600_g5_112_meters.jpg"
+  },
+  {
+   "name": "1024x600_g5_711_Tape_Recorder",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1024,
+   "height": 600,
+   "zip": "template_peppy/1024/600/1024x600_g5_711_Tape_Recorder.zip",
+   "bytes": 24543165,
+   "sha256": "850279ab5d709adf6533b12d8f3bb359f26a72b36c6f2e2c60a47e8b88259ab7",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1024x600_g5_711_Tape_Recorder/",
+     "folder": "1024x600_g5_711_Tape_Recorder",
+     "names": [
+      "151G5_Akai77 black",
+      "152G5_Akai77_silver",
+      "153G5_Studer A810",
+      "154G5_PioneerRT707_silver",
+      "155G5_Antelope Reel",
+      "156G5_Otari Reel",
+      "157G5_Revox B77",
+      "158G5_Tascam Rec",
+      "159G5_Technics Rec",
+      "159G5_Metaxas Rec",
+      "210G5_Sony TC730",
+      "211G5_Akai GX635",
+      "212G5_TapeAK",
+      "213G5_Fostex Rec",
+      "214G5_TapeAMP",
+      "215G5_Koncert M3401",
+      "216G5_Akai PRO1000",
+      "217G5_MION24",
+      "218G5_Teac X2000",
+      "219G5_Tandberg OLD"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1024/600/previews/1024x600_g5_711_Tape_Recorder.png",
+   "thumb": "catalog/thumbs/1024x600_g5_711_Tape_Recorder.jpg"
+  },
+  {
+   "name": "1024x600_g5_712_Cassette",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1024,
+   "height": 600,
+   "zip": "template_peppy/1024/600/1024x600_g5_712_Cassette.zip",
+   "bytes": 17174342,
+   "sha256": "b63c70a4fe921588a73cd620baf57c589586dd791fee0f8e8fb08efc8b792721",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1024x600_g5_712_Cassette/",
+     "folder": "1024x600_g5_712_Cassette",
+     "names": [
+      "161G5_Pioneer Cassette",
+      "162G5_TDK cassette",
+      "163G5_TEAC cassette",
+      "164G5_Maxell Cassette",
+      "165G5_BASF Free",
+      "166G5_Cassette_Circular",
+      "167G5_Cassette_Linear",
+      "168G5_Philips Cassette",
+      "169G5_Denon DR650",
+      "170G5_SonyK770 cassette",
+      "240G5_MION24C",
+      "241G5_Kenwood cassette",
+      "242G5_Sharp",
+      "243G5_Sansui Cassette",
+      "244G5_Pioneer CT_F1250"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1024/600/previews/1024x600_g5_712_Cassette.png",
+   "thumb": "catalog/thumbs/1024x600_g5_712_Cassette.jpg"
+  },
+  {
+   "name": "1024x600_g5_713_CD",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1024,
+   "height": 600,
+   "zip": "template_peppy/1024/600/1024x600_g5_713_CD.zip",
+   "bytes": 13612586,
+   "sha256": "cabda5619a4187994f9e4024b2988f7ed9d48d3aafa2949547ec5ff7956cba48",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1024x600_g5_713_CD/",
+     "folder": "1024x600_g5_713_CD",
+     "names": [
+      "171G5_Sony557 Full",
+      "172G5_Sony557 Cust",
+      "173G5_CD Player Full",
+      "174G5_CD Player Cust",
+      "175G5_Emerson Full",
+      "176G5_Emerson Cust",
+      "177G5_Dunu Cust",
+      "178G5_Thinkya Cust",
+      "179G5_Shanling Cust",
+      "180G5_Syitren Cust",
+      "260G5_CD Black",
+      "261G5_CD HOTT",
+      "262G5_Jadis",
+      "262G5_02_Jadis",
+      "263G5_Emerson MS3",
+      "263G5_02_Emerson MS3"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1024/600/previews/1024x600_g5_713_CD.png",
+   "thumb": "catalog/thumbs/1024x600_g5_713_CD.jpg"
+  },
+  {
+   "name": "1280x400_Aluminium_frame_01",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_Aluminium_frame_01.zip",
+   "bytes": 1014090,
+   "sha256": "8c700340a06adac0ba31ad1ea36e99d4a131fb5f0c8cae56a9c47a3ef185d131",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_Aluminium_frame_01/",
+     "folder": "1280x400_Aluminium_frame_01",
+     "names": [
+      "Aluminium_frame"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_Aluminium_frame_01.png",
+   "thumb": "catalog/thumbs/1280x400_Aluminium_frame_01.jpg"
+  },
+  {
+   "name": "1280x400_Aluminium_green_02",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_Aluminium_green_02.zip",
+   "bytes": 959876,
+   "sha256": "82499a4c6fce6de7d9412bd90f19d9d995cc58941a083a8a42f371f42fe45cb3",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_Aluminium_green_02/",
+     "folder": "1280x400_Aluminium_green_02",
+     "names": [
+      "Aluminium_frame_green"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_Aluminium_green_02.png",
+   "thumb": "catalog/thumbs/1280x400_Aluminium_green_02.jpg"
+  },
+  {
+   "name": "1280x400_Aluminium_orange_03",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_Aluminium_orange_03.zip",
+   "bytes": 962768,
+   "sha256": "3cf796cf53feb0c8cc6b9dd8cbfd3628b6bec0b9f39391ebe7906ae58e29b7ef",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_Aluminium_orange_03/",
+     "folder": "1280x400_Aluminium_orange_03",
+     "names": [
+      "Aluminium_frame_orange"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_Aluminium_orange_03.png",
+   "thumb": "catalog/thumbs/1280x400_Aluminium_orange_03.jpg"
+  },
+  {
+   "name": "1280x400_MomentumMxV",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_MomentumMxV.zip",
+   "bytes": 952708,
+   "sha256": "945bc17c23e4d9cc8fea4c39b2d79148528c9a962466e49a39fa755bd5003e79",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_MomentumMxV/",
+     "folder": "1280x400_MomentumMxV",
+     "names": [
+      "Dan-Dagostino-MomentumMxV"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_MomentumMxV.png",
+   "thumb": "catalog/thumbs/1280x400_MomentumMxV.jpg"
+  },
+  {
+   "name": "1280x400_PMN_LedStrypes",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_PMN_LedStrypes.zip",
+   "bytes": 339702,
+   "sha256": "38e9c0990cde1c1a022b9a3448e2dced56cefab68ef79081abb9cb9e2fe107f4",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_PMN_LedStrypes/",
+     "folder": "1280x400_PMN_LedStrypes",
+     "names": [
+      "01PMN_Led Strypes (With Meters-Calibrated)",
+      "02PMN_Led Strypes (With Meters-Calibrated-Metadata Rotation)",
+      "03PMN_Led Strypes (With Meters-Calibrated-Metadata)"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_PMN_LedStrypes.png",
+   "thumb": "catalog/thumbs/1280x400_PMN_LedStrypes.jpg"
+  },
+  {
+   "name": "1280x400_TA_symphonica_01",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_TA_symphonica_01.zip",
+   "bytes": 641773,
+   "sha256": "b6d1cc8a43603352188232764ac6401750da3bb12aa37ff16b9b9fb4db54e4be",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_TA_symphonica_01/",
+     "folder": "1280x400_TA_symphonica_01",
+     "names": [
+      "TA_Symphonica"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_TA_symphonica_01.png",
+   "thumb": "catalog/thumbs/1280x400_TA_symphonica_01.jpg"
+  },
+  {
+   "name": "1280x400_black_blue_square",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_black_blue_square.zip",
+   "bytes": 440116,
+   "sha256": "4945f28776ef07a049e25031f931d81ec8ea01471ea12986a42bddb8d7da139d",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_black_blue_square/",
+     "folder": "1280x400_black_blue_square",
+     "names": [
+      "black-blue-square"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_black_blue_square.png",
+   "thumb": "catalog/thumbs/1280x400_black_blue_square.jpg"
+  },
+  {
+   "name": "1280x400_black_white_arrow_bottom",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_black_white_arrow_bottom.zip",
+   "bytes": 267112,
+   "sha256": "420d49d01ca9ab379bca05022616733561b53e4c4df66f4ac77171129d8f77cc",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_black_white_arrow_bottom/",
+     "folder": "1280x400_black_white_arrow_bottom",
+     "names": [
+      "black-white-arrow-bottom"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_black_white_arrow_bottom.png",
+   "thumb": "catalog/thumbs/1280x400_black_white_arrow_bottom.jpg"
+  },
+  {
+   "name": "1280x400_black_white_arrow_top",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_black_white_arrow_top.zip",
+   "bytes": 195969,
+   "sha256": "4f01981faab82546e828320951544d477106e988a67fc6ea85ccac6e631a8cec",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_black_white_arrow_top/",
+     "folder": "1280x400_black_white_arrow_top",
+     "names": [
+      "black-white-arrow-top"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_black_white_arrow_top.png",
+   "thumb": "catalog/thumbs/1280x400_black_white_arrow_top.jpg"
+  },
+  {
+   "name": "1280x400_bo_beosound9000",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_bo_beosound9000.zip",
+   "bytes": 1406126,
+   "sha256": "e6be33f74e5c9a562e8ea91dd2649ccb3def7b0fb132fc42e4a2859657fb1d6b",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_bo_beosound9000/",
+     "folder": "1280x400_bo_beosound9000",
+     "names": [
+      "bo_beosound9000"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_bo_beosound9000.png",
+   "thumb": "catalog/thumbs/1280x400_bo_beosound9000.jpg"
+  },
+  {
+   "name": "1280x400_cyrus_40_st",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_cyrus_40_st.zip",
+   "bytes": 260847,
+   "sha256": "300630e411b0826491ec8596840efd554e5390f59418942c5add1d9182b65621",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_cyrus_40_st/",
+     "folder": "1280x400_cyrus_40_st",
+     "names": [
+      "Cyrus_40_st"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_cyrus_40_st.png",
+   "thumb": "catalog/thumbs/1280x400_cyrus_40_st.jpg"
+  },
+  {
+   "name": "1280x400_dan_dagostimo_mlife",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_dan_dagostimo_mlife.zip",
+   "bytes": 1055951,
+   "sha256": "0c9f4a2c7f98d6ea41baaa12ab5fb086ebae30cfa24fe4ed5df8fb420c3b7846",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_dan_dagostimo_mlife/",
+     "folder": "1280x400_dan_dagostimo_mlife",
+     "names": [
+      "dan_dagostimo_mlife"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_dan_dagostimo_mlife.png",
+   "thumb": "catalog/thumbs/1280x400_dan_dagostimo_mlife.jpg"
+  },
+  {
+   "name": "1280x400_esoteric-grandioso-t1",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_esoteric-grandioso-t1.zip",
+   "bytes": 789881,
+   "sha256": "ea4ba13fd1efceea9ab34d4b49efcf392340e906ddeb22c49ceae24c2a0876e1",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_esoteric-grandioso-t1/",
+     "folder": "1280x400_esoteric-grandioso-t1",
+     "names": [
+      "esoteric-grandioso-t1"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_esoteric-grandioso-t1.png",
+   "thumb": "catalog/thumbs/1280x400_esoteric-grandioso-t1.jpg"
+  },
+  {
+   "name": "1280x400_g5_201_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_g5_201_meters.zip",
+   "bytes": 11564836,
+   "sha256": "64076c64da52f637bc6ab1572301cda3513dd6406f595083b96cc4b7723173df",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_g5_201_meters/",
+     "folder": "1280x400_g5_201_meters",
+     "names": [
+      "01G5_Naim",
+      "02G5_Naim 2",
+      "03G5_McIntosh",
+      "04G5_Accuphase",
+      "05G5_Luxman",
+      "06G5_Technics TX30",
+      "07G5_Technics_silver",
+      "08G5_Technics_Black",
+      "09G5_Advence",
+      "10G5_Advance2",
+      "11G5_Adv_X220",
+      "12G5_Sony TA-N77",
+      "13G5_Onkyo 5570",
+      "14G5_Krell KAS",
+      "15G5_T+A 3000HV",
+      "16G5_Turnable Black B",
+      "17G5_TurnOld",
+      "18G5_Turnable Black",
+      "19G5_Turnable Green",
+      "20G5_Turnable Blue"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_g5_201_meters.png",
+   "thumb": "catalog/thumbs/1280x400_g5_201_meters.jpg"
+  },
+  {
+   "name": "1280x400_g5_202_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_g5_202_meters.zip",
+   "bytes": 14807248,
+   "sha256": "71531d1f2f161cfe707a09268cdbde22234352dca79339ede29c707e526a0cd0",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_g5_202_meters/",
+     "folder": "1280x400_g5_202_meters",
+     "names": [
+      "21G5_Audio Research",
+      "22G5_BlackBlur",
+      "23G5_BlueSea_Black",
+      "24G5_Bocatech",
+      "25G5_Classe",
+      "26G5_Dagostino",
+      "27G5_Kenwood Rev",
+      "28G5_Kenwood Single",
+      "29G5_Klanghelm",
+      "30G5_Caltec",
+      "31G5_Alvin",
+      "32G5_Magnetcord",
+      "33G5_NAD C3050",
+      "34G5_Onvi",
+      "35G5_Onvi centre",
+      "36G5_Old Braun",
+      "37G5_PeppyP Bang",
+      "38G5_WestonHouse",
+      "39G5_Weston",
+      "40G5_Retro"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_g5_202_meters.png",
+   "thumb": "catalog/thumbs/1280x400_g5_202_meters.jpg"
+  },
+  {
+   "name": "1280x400_g5_203_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_g5_203_meters.zip",
+   "bytes": 11911343,
+   "sha256": "f504e490d92909ab5063e3cfada7a4cc893b3679e4029119a5fbf516d5c513c9",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_g5_203_meters/",
+     "folder": "1280x400_g5_203_meters",
+     "names": [
+      "41G5_Abrahamsen",
+      "42G5_Casette Full",
+      "43G5_Cayin",
+      "44G5_CD Cover",
+      "45G5_SACD Cover",
+      "46G5_Disco",
+      "47G5_Dorrough Vertical",
+      "48G5_Dorrough crooked",
+      "49G5_Dorrought horizon",
+      "50G5_Led Strips",
+      "51G5_Loudspeaker IN",
+      "52G5_MarantzCD",
+      "53G5_Sansui",
+      "54G5_Unison Research",
+      "55G5_Rose3 Line",
+      "56G5_Rose IN",
+      "57G5_Rose OUT",
+      "58G5_TechnicsLed",
+      "59G5_Winamp",
+      "60G5_Eher"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_g5_203_meters.png",
+   "thumb": "catalog/thumbs/1280x400_g5_203_meters.jpg"
+  },
+  {
+   "name": "1280x400_g5_204_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_g5_204_meters.zip",
+   "bytes": 11931034,
+   "sha256": "2b77297449ae8675159302aa81d345b1ec140b8786a882e39fb42b49bd6ab9e4",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_g5_204_meters/",
+     "folder": "1280x400_g5_204_meters",
+     "names": [
+      "61G5_Old Accuphase Only",
+      "62G5_Caltec Blue",
+      "63G5_Caltec Red",
+      "64G5_Berlant Only",
+      "65G5_BlackBlur only meters",
+      "66G5_Dark Spotify Only",
+      "67G5_Denon Only",
+      "68G5_Deviation Only",
+      "69G5_DF202 Only meters",
+      "70G5_Gemonti ONLY meters",
+      "71G5_Hartman Only",
+      "72G5_Hitachi7500 ONLY meters",
+      "73G5_Hitachi7500 Purple",
+      "74G5_Kenwood Rev only meters",
+      "75G5_Line Magnetic",
+      "76G5_NAD M10 only",
+      "77G5_Namson Only meters",
+      "78G5_Philmore Only",
+      "79G5_Teletronix Only",
+      "80G5_VU Peak Only"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_g5_204_meters.png",
+   "thumb": "catalog/thumbs/1280x400_g5_204_meters.jpg"
+  },
+  {
+   "name": "1280x400_g5_205_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_g5_205_meters.zip",
+   "bytes": 9122309,
+   "sha256": "350d863f864f5df6993eb3facd11ad093fab1e9f5dc370f81cd95c126086a962",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_g5_205_meters/",
+     "folder": "1280x400_g5_205_meters",
+     "names": [
+      "81G5_SG Only meters",
+      "82G5_Weston ONLY meters",
+      "83G5_Realistic",
+      "84G5_Rudeer Only",
+      "85G5_R55 Only",
+      "86G5_Round 180",
+      "87G5_Yamaha S3000 Only",
+      "88G5_WestonHouse Only",
+      "89G5_OnkyoM508",
+      "90G5_Yamaha MX2000",
+      "91G5_Teac",
+      "92G5_SG",
+      "93G5_BOSS Orange",
+      "94G5_Tascam",
+      "95G5_LED Out ONLY",
+      "96G5_Bose Rev",
+      "97G5_Sharp",
+      "98G5_TCD Deck"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_g5_205_meters.png",
+   "thumb": "catalog/thumbs/1280x400_g5_205_meters.jpg"
+  },
+  {
+   "name": "1280x400_mcintosh_mx100",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_mcintosh_mx100.zip",
+   "bytes": 545036,
+   "sha256": "66dd5d52420f60a9416997b43c0ee06178f58a642d4d1a2d8684c9c744830f89",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_mcintosh_mx100/",
+     "folder": "1280x400_mcintosh_mx100",
+     "names": [
+      "mcintosh_mx100"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_mcintosh_mx100.png",
+   "thumb": "catalog/thumbs/1280x400_mcintosh_mx100.jpg"
+  },
+  {
+   "name": "1280x400_nad_6100",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_nad_6100.zip",
+   "bytes": 1154419,
+   "sha256": "6c319a21b399d6bb20400c4fcac9f216ff1100966db47f08545890f5a717b764",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_nad_6100/",
+     "folder": "1280x400_nad_6100",
+     "names": [
+      "nad-6100"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_nad_6100.png",
+   "thumb": "catalog/thumbs/1280x400_nad_6100.jpg"
+  },
+  {
+   "name": "1280x400_nad_6325",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_nad_6325.zip",
+   "bytes": 713442,
+   "sha256": "e9147f2ce0cf440bc424c302482cc0cf80484da9efd6296bffee93278eeeeace",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_nad_6325/",
+     "folder": "1280x400_nad_6325",
+     "names": [
+      "nad-6325"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_nad_6325.png",
+   "thumb": "catalog/thumbs/1280x400_nad_6325.jpg"
+  },
+  {
+   "name": "1280x400_nad_d3045",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_nad_d3045.zip",
+   "bytes": 411884,
+   "sha256": "b5537be1f308cfcb33772091028e4db3ba8a2cea06bcd80249b70b0b1011b55b",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_nad_d3045/",
+     "folder": "1280x400_nad_d3045",
+     "names": [
+      "nad-d3045"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_nad_d3045.png",
+   "thumb": "catalog/thumbs/1280x400_nad_d3045.jpg"
+  },
+  {
+   "name": "1280x400_nad_m10_1",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_nad_m10_1.zip",
+   "bytes": 402030,
+   "sha256": "10610c60da4cca630ca04e1fe7bc66a623339ed70717f8201b566f11f550b4bd",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_nad_m10_1/",
+     "folder": "1280x400_nad_m10_1",
+     "names": [
+      "nad-m10-1"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_nad_m10_1.png",
+   "thumb": "catalog/thumbs/1280x400_nad_m10_1.jpg"
+  },
+  {
+   "name": "1280x400_nad_m10_2",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_nad_m10_2.zip",
+   "bytes": 408881,
+   "sha256": "54357752e7f0959be54d3949f66cc7ecbcd52e3be77a7a0a7e5402c03f90084e",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_nad_m10_2/",
+     "folder": "1280x400_nad_m10_2",
+     "names": [
+      "nad-m10-2"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_nad_m10_2.png",
+   "thumb": "catalog/thumbs/1280x400_nad_m10_2.jpg"
+  },
+  {
+   "name": "1280x400_nad_m10_3",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_nad_m10_3.zip",
+   "bytes": 301711,
+   "sha256": "0649b628abf76488286614166b76536d2ce05334db0e2901a92e9502b25e31ab",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_nad_m10_3/",
+     "folder": "1280x400_nad_m10_3",
+     "names": [
+      "nad-m10-3"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_nad_m10_3.png",
+   "thumb": "catalog/thumbs/1280x400_nad_m10_3.jpg"
+  },
+  {
+   "name": "1280x400_nad_m33_1",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_nad_m33_1.zip",
+   "bytes": 368366,
+   "sha256": "2db7b2e92f375c7a517cc3d92245cc42b1beef10c3bb6d0fcc455bc7757b03e3",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_nad_m33_1/",
+     "folder": "1280x400_nad_m33_1",
+     "names": [
+      "nad-m33-1"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_nad_m33_1.png",
+   "thumb": "catalog/thumbs/1280x400_nad_m33_1.jpg"
+  },
+  {
+   "name": "1280x400_rose rs150",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_rose rs150.zip",
+   "bytes": 208919,
+   "sha256": "e2f8c64766631b4d98f35e18bea1616387cb24a57b340399c7fcd13b1084514c",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_rose rs150/",
+     "folder": "1280x400_rose rs150",
+     "names": [
+      "rose-rs150"
+     ]
+    }
+   ],
+   "preview": null,
+   "thumb": null
+  },
+  {
+   "name": "1280x400_rose_rs150",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_rose_rs150.zip",
+   "bytes": 208919,
+   "sha256": "de8ab8e77da03b19453ba3eeadd0b182a4bcd6d41ce4343a41e4119a453274d7",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_rose_rs150/",
+     "folder": "1280x400_rose_rs150",
+     "names": [
+      "rose-rs150"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_rose_rs150.png",
+   "thumb": "catalog/thumbs/1280x400_rose_rs150.jpg"
+  },
+  {
+   "name": "1280x400_rose_rs250",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_rose_rs250.zip",
+   "bytes": 651495,
+   "sha256": "bace0ac22a6457ca7c7ea70e2d0f08569542372efbda79bb01c440aa3cfed7a5",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_rose_rs250/",
+     "folder": "1280x400_rose_rs250",
+     "names": [
+      "rose-rs250"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_rose_rs250.png",
+   "thumb": "catalog/thumbs/1280x400_rose_rs250.jpg"
+  },
+  {
+   "name": "1280x400_technics_SUR1000",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_technics_SUR1000.zip",
+   "bytes": 1419222,
+   "sha256": "ec2a3d76b6e2d7f2a166fb5052d29f82d0b9a56c6d2edbd071bacfa2b0b952f8",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_technics_SUR1000/",
+     "folder": "1280x400_technics_SUR1000",
+     "names": [
+      "technics"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_technics_SUR1000.png",
+   "thumb": "catalog/thumbs/1280x400_technics_SUR1000.jpg"
+  },
+  {
+   "name": "1280x400_volumio1",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 400,
+   "zip": "template_peppy/1280/400/1280x400_volumio1.zip",
+   "bytes": 391578,
+   "sha256": "0ca95ec62038c3c6be319436c6d79f21434d42b6d1a821658d287ed12f9f485a",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_volumio1/",
+     "folder": "1280x400_volumio1",
+     "names": [
+      "volumio2"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/400/previews/1280x400_volumio1.png",
+   "thumb": "catalog/thumbs/1280x400_volumio1.jpg"
+  },
+  {
+   "name": "1280x720_PMN_LedStrypes",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_PMN_LedStrypes.zip",
+   "bytes": 3794995,
+   "sha256": "088dff08b8d2fa4aa51018c879f1b6a4d50103d75c7ade00d1d421fc83f6fca2",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "",
+     "folder": "1280x720_PMN_LedStrypes",
+     "names": [
+      "01PMN_Led Strypes (With Meters-Calibrated)",
+      "02PMN_Led Strypes (With Meters-Calibrated-Metadata Rotation) v1",
+      "03PMN_Led Strypes (With Meters-Calibrated-Metadata Rotation) v2",
+      "04PMN_Led Strypes (With Meters-Calibrated-Metadata) v1",
+      "05PMN_Led Strypes (With Meters-Calibrated-Metadata) v2"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_PMN_LedStrypes.png",
+   "thumb": "catalog/thumbs/1280x720_PMN_LedStrypes.jpg"
+  },
+  {
+   "name": "1280x720_Pioneer_PLX-500",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_Pioneer_PLX-500.zip",
+   "bytes": 2291638,
+   "sha256": "fcbf9a9676454192306c37a0fb4a512cd1d9f00661a18ab7c7a2be909107a937",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_Pioneer_PLX-500/",
+     "folder": "1280x720_Pioneer_PLX-500",
+     "names": [
+      "Pioneer PLX-500"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_Pioneer_PLX-500.png",
+   "thumb": "catalog/thumbs/1280x720_Pioneer_PLX-500.jpg"
+  },
+  {
+   "name": "1280x720_Pioneer_PLX-500L",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_Pioneer_PLX-500L.zip",
+   "bytes": 1909529,
+   "sha256": "1c0dd89b35a388d66cef781d959fee6c788d671549aef35f99c9c5bb1803f526",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_Pioneer_PLX-500L/",
+     "folder": "1280x720_Pioneer_PLX-500L",
+     "names": [
+      "Pioneer PLX-500 Lite"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_Pioneer_PLX-500L.png",
+   "thumb": "catalog/thumbs/1280x720_Pioneer_PLX-500L.jpg"
+  },
+  {
+   "name": "1280x720_custom_01",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_custom_01.zip",
+   "bytes": 781351,
+   "sha256": "96af200e1378bc63fa41799ecf43ff6b888ab60a613293a18e8087b3f3b1fbed",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_custom_01/",
+     "folder": "1280x720_custom_01",
+     "names": [
+      "vertical-turntable-blue"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_custom_01.png",
+   "thumb": "catalog/thumbs/1280x720_custom_01.jpg"
+  },
+  {
+   "name": "1280x720_custom_02",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_custom_02.zip",
+   "bytes": 1595670,
+   "sha256": "066a078bf4155692dbd9eee5f15b0128d251db20a3b6c7f465213db2549e9baa",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_custom_02/",
+     "folder": "1280x720_custom_02",
+     "names": [
+      "VTEBT-RecordPlayer"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_custom_02.png",
+   "thumb": "catalog/thumbs/1280x720_custom_02.jpg"
+  },
+  {
+   "name": "1280x720_custom_06",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_custom_06.zip",
+   "bytes": 1749187,
+   "sha256": "20d897878e49073e39632a49a05d7b2263e82ad1a9dc3d448bec60a87c6fb24f",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_custom_06/",
+     "folder": "1280x720_custom_06",
+     "names": [
+      "RecordPlayer"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_custom_06.png",
+   "thumb": "catalog/thumbs/1280x720_custom_06.jpg"
+  },
+  {
+   "name": "1280x720_g5_444_rotate",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_g5_444_rotate.zip",
+   "bytes": 2232589,
+   "sha256": "8228334ce34714500cb74d98b8dae27026e0b03a8aa2b09db2858fbb91e9c0cc",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_g5_444_rotate/",
+     "folder": "1280x720_g5_444_rotate",
+     "names": [
+      "18G5_Streamer CD"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_g5_444_rotate.png",
+   "thumb": "catalog/thumbs/1280x720_g5_444_rotate.jpg"
+  },
+  {
+   "name": "1280x720_g5_701_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_g5_701_meters.zip",
+   "bytes": 15151935,
+   "sha256": "e4209d959d6678c4554ca2b7cc9c1cb2086a75b9b8bbde2b66ef108d5e2b0f1f",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_g5_701_meters/",
+     "folder": "1280x720_g5_701_meters",
+     "names": [
+      "01G5_McIntosh",
+      "02G5_McIntosh Hybrid",
+      "03G5_McIntosh Monoblock",
+      "04G5_McIntosh Tube",
+      "05G5_Accuphase",
+      "06G5_Accuphase Monoblock",
+      "07G5_Marantz Silver",
+      "08G5_Marantz Black",
+      "09G5_Technics1600_Silver",
+      "10G5_Technics1600_Black",
+      "11G5_Technics1600_Black-Silver",
+      "12G5_Audio Research",
+      "13G5_Kenwood Reverse",
+      "14G5_Kenwood Ver",
+      "15G5_Naim green",
+      "16G5_Naim2",
+      "17G5_Naim Reverse",
+      "18G5_Advanced X220",
+      "19G5_Advanced X220EVO",
+      "20G5_Advanced Combi"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_g5_701_meters.png",
+   "thumb": "catalog/thumbs/1280x720_g5_701_meters.jpg"
+  },
+  {
+   "name": "1280x720_g5_702_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_g5_702_meters.zip",
+   "bytes": 16444345,
+   "sha256": "0ea81413f12cf9f565f0ea2a3900b5200d2a82b057f81a82b781d1451f4edbb7",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_g5_702_meters/",
+     "folder": "1280x720_g5_702_meters",
+     "names": [
+      "21G5_Akai Reverse",
+      "22G5_Hitachi HMA7500 Black",
+      "23G5_Hitachi HCA7500 Silver",
+      "24G5_Luxman Gold",
+      "25G5_Leben",
+      "26G5_NAD",
+      "27G5_NAD C3050HD",
+      "28G5_T+A",
+      "29G5_VU Single Yellow",
+      "30G5_VU Single Blue",
+      "31G5_Wadax",
+      "32G5_ClasseM",
+      "33G5_Klanghelm",
+      "34G5_TURN Vinyl Orange",
+      "35G5_TURN Vinyl Green",
+      "36G5_TURN Vinyl Green2",
+      "37G5_TURN Vinyl Silver",
+      "38G5_TURN Vinyl Black",
+      "39G5_TURN Vinyl Blue",
+      "40G5_TAPE"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_g5_702_meters.png",
+   "thumb": "catalog/thumbs/1280x720_g5_702_meters.jpg"
+  },
+  {
+   "name": "1280x720_g5_703_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_g5_703_meters.zip",
+   "bytes": 14502924,
+   "sha256": "730709930d0d310c4e40ec0e922cac74816ad43f273581aa8fa4f09d2860fe0b",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_g5_703_meters/",
+     "folder": "1280x720_g5_703_meters",
+     "names": [
+      "41G5_Sansui",
+      "42G5_Sansui 2V",
+      "43G5_Dorrough",
+      "44G5_Dorrough border",
+      "45G5_Dorrough Vertical",
+      "46G5_MarantzCD",
+      "47G5_Violin",
+      "48G5_PioneerCT Deck",
+      "49G5_Pioneer M90",
+      "50G5_Sony",
+      "51G5_Abrahamsen",
+      "52G5_Yamaha M85",
+      "53G5_Yamaha DJ",
+      "54G5_Vincent",
+      "55G5_SKS12 Vertical",
+      "56G5_Free",
+      "57G5_Teac Cassette",
+      "58G5_Burmaster",
+      "59G5_Fire Rock",
+      "60G5_HelixOne"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_g5_703_meters.png",
+   "thumb": "catalog/thumbs/1280x720_g5_703_meters.jpg"
+  },
+  {
+   "name": "1280x720_g5_704_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_g5_704_meters.zip",
+   "bytes": 18808918,
+   "sha256": "f163689c7ae9ff69ede4582bb8494c57c06e0269d7a4c953b247f352b5cd5a36",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_g5_704_meters/",
+     "folder": "1280x720_g5_704_meters",
+     "names": [
+      "61G5_Berlant",
+      "62G5_BlueSea_White",
+      "63G5_BlueSea_Black",
+      "64G5_BMC",
+      "65G5_Brianworks",
+      "66G5_DAgostini",
+      "67G5_Dark Spotify",
+      "68G5_Boombox",
+      "69G5_Hartman",
+      "70G5_MarkLev",
+      "71G5_Vertical blue",
+      "72G5_Horizontal blue",
+      "73G5_Yellowkidney",
+      "74G5_Triplett",
+      "75G5_OLD Meter",
+      "76G5_Old2 braun",
+      "77G5_Rehringer",
+      "78G5_Round yellow",
+      "79G5_J37 Tape",
+      "80G5_Simens"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_g5_704_meters.png",
+   "thumb": "catalog/thumbs/1280x720_g5_704_meters.jpg"
+  },
+  {
+   "name": "1280x720_g5_705_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_g5_705_meters.zip",
+   "bytes": 19496103,
+   "sha256": "259b8ad7a862dcafbca63275d5e1f74e500aacb4faaedb2158c12a7d0f44c1c9",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_g5_705_meters/",
+     "folder": "1280x720_g5_705_meters",
+     "names": [
+      "81G5_Struder Tape",
+      "82G5_Unison Research",
+      "83G5_Jericho",
+      "84G5_Radio Tann",
+      "85G5_Gryphon",
+      "86G5_Onkyo M508",
+      "87G5_Sound90",
+      "88G5_Sony TAN77",
+      "89G5_Rotel",
+      "90G5_Vert_Kidney",
+      "91G5_BlackBlur",
+      "92G5_BlackBlur Big-Bang",
+      "93G5_BlackBlur LED",
+      "94G5_MNN8",
+      "95G5_NeonLight",
+      "96G5_NIxI Pipe",
+      "97G5_Optonica",
+      "98G5_Pioneer Deck",
+      "99G5_Merc",
+      "100G5_McIntosh Hybrid"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_g5_705_meters.png",
+   "thumb": "catalog/thumbs/1280x720_g5_705_meters.jpg"
+  },
+  {
+   "name": "1280x720_g5_710_Turntables",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_g5_710_Turntables.zip",
+   "bytes": 31913568,
+   "sha256": "e134e35c0f13ffa62d19f476ffe6ee90de185ae63128830f73f34a23e34c913e",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_g5_710_Turntables/",
+     "folder": "1280x720_g5_710_Turntables",
+     "names": [
+      "141G5_01_Vertere Turn",
+      "141G5_02_Vertere Turn",
+      "141G5_03_Vertere Turn",
+      "142G5_01_Pioneer Gold",
+      "142G5_02_Pioneer Gold",
+      "142G5_03_Pioneer Gold",
+      "143G5_TURN Vinyl Black",
+      "144G5_01_Naim Turntable",
+      "144G5_02_Naim Turntable",
+      "144G5_03_Naim Turntable",
+      "145G5_01_McIntosh MTI100",
+      "145G5_02_McIntosh MTI100",
+      "145G5_03_McIntosh MTI100",
+      "146G5_01_Denon DP62",
+      "146G5_02_Denon DP62",
+      "146G5_03_Denon DP62",
+      "147G5_01_Denon DP400",
+      "147G5_02_Denon DP400",
+      "147G5_03_Denon DP400",
+      "148G5_01_Reloop RL7000",
+      "148G5_02_Reloop RL7000",
+      "148G5_03_Reloop RL7000",
+      "149G5_01_Thorens",
+      "149G5_02_Thorens",
+      "149G5_03_Thorens",
+      "150G5_02_AMG Turntable",
+      "150G5_03_AMG Turntable",
+      "151G5_01_Technics Silver",
+      "151G5_02_Technics Silver",
+      "151G5_03_Technics Silver",
+      "190G5_03_Grandioso",
+      "191G5_01_Crosley Turntable",
+      "191G5_02_Crosley Turntable",
+      "191G5_03_Crosley Turntable",
+      "192G5_01_Korg Handy",
+      "192G5_02_Korg Handy",
+      "192G5_03_Korg Handy",
+      "193G5_01_TechDas",
+      "193G5_02_TechDas",
+      "193G5_03_TechDas",
+      "194G5_02_PioneerNew",
+      "194G5_03_PioneerNew",
+      "195G5_01_Gramovox",
+      "195G5_02_Gramovox",
+      "195G5_03_Gramovox",
+      "196G5_01_SME60",
+      "196G5_02_SME60",
+      "196G5_03_SME60"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_g5_710_Turntables.png",
+   "thumb": "catalog/thumbs/1280x720_g5_710_Turntables.jpg"
+  },
+  {
+   "name": "1280x720_g5_711_Tape_Recorder",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_g5_711_Tape_Recorder.zip",
+   "bytes": 32025049,
+   "sha256": "9c0d0161efd3d1886d29f2d185d06f4ec11b45cecc323a2bfc95a10dd10a52fc",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_g5_711_Tape_Recorder/",
+     "folder": "1280x720_g5_711_Tape_Recorder",
+     "names": [
+      "151G5_Akai77 black",
+      "152G5_Akai77_silver",
+      "153G5_Studer A810",
+      "154G5_PioneerRT707_silver",
+      "155G5_Antelope Reel",
+      "156G5_Otari Reel",
+      "157G5_Revox B77",
+      "158G5_Tascam Rec",
+      "159G5_Technics Rec",
+      "159G5_Metaxas Rec",
+      "210G5_Sony TC730",
+      "211G5_Akai GX635",
+      "212G5_TapeAK",
+      "213G5_Fostex Rec",
+      "214G5_TapeAMP",
+      "215G5_Koncert M3401",
+      "216G5_Akai PRO1000",
+      "217G5_MION24",
+      "218G5_Teac X2000",
+      "219G5_Tandberg OLD"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_g5_711_Tape_Recorder.png",
+   "thumb": "catalog/thumbs/1280x720_g5_711_Tape_Recorder.jpg"
+  },
+  {
+   "name": "1280x720_g5_712_Cassette",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_g5_712_Cassette.zip",
+   "bytes": 21568388,
+   "sha256": "8e2d79fce2eb55cfea8628dc0c466226181495b7d3939b1923b7afcf2a85f798",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_g5_712_Cassette/",
+     "folder": "1280x720_g5_712_Cassette",
+     "names": [
+      "161G5_Pioneer Cassette",
+      "162G5_TDK cassette",
+      "163G5_TEAC cassette",
+      "164G5_Maxell Cassette",
+      "165G5_BASF Free",
+      "166G5_Cassette_Circular",
+      "167G5_Cassette_Linear",
+      "168G5_Philips Cassette",
+      "169G5_Denon DR650",
+      "170G5_SonyK770 cassette",
+      "240G5_MION24C",
+      "241G5_Kenwood cassette",
+      "242G5_Sharp",
+      "243G5_Sansui Cassette",
+      "244G5_Pioneer CT_F1250"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_g5_712_Cassette.png",
+   "thumb": "catalog/thumbs/1280x720_g5_712_Cassette.jpg"
+  },
+  {
+   "name": "1280x720_g5_713_CD",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_g5_713_CD.zip",
+   "bytes": 18344341,
+   "sha256": "199b3b0711a5cc3dedf6878156683c702875349a2b059c4781e833210fd2e3af",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_g5_713_CD/",
+     "folder": "1280x720_g5_713_CD",
+     "names": [
+      "171G5_Sony557 Full",
+      "172G5_Sony557 Cust",
+      "173G5_CD Player Full",
+      "174G5_CD Player Cust",
+      "175G5_Emerson Full",
+      "176G5_Emerson Cust",
+      "177G5_Dunu Cust",
+      "178G5_Thinkya Cust",
+      "179G5_Shanling Cust",
+      "180G5_Syitren Cust",
+      "260G5_CD Black",
+      "261G5_CD HOTT",
+      "262G5_Jadis",
+      "262G5_02_Jadis",
+      "263G5_Emerson MS3",
+      "263G5_02_Emerson MS3"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_g5_713_CD.png",
+   "thumb": "catalog/thumbs/1280x720_g5_713_CD.jpg"
+  },
+  {
+   "name": "1280x720_g5_FanarTurntable",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_g5_FanarTurntable.zip",
+   "bytes": 11121049,
+   "sha256": "266a91afc46804c2a12d0d8a6011ccab4eafb676d158e9403963135aa7aee5a5",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_g5_FanarTurntable/",
+     "folder": "1280x720_g5_FanarTurntable",
+     "names": [
+      "350G5_Denon DP62 Fanart",
+      "351G5_Denon DP400 Fanart",
+      "352G5_Pioneer Gold Fanart",
+      "353G5_Technics Silver Fanart",
+      "354G5_Thorens Fanart",
+      "355G5_Grandioso Fanart",
+      "356G5_Vertere Fanart",
+      "357G5_McIntosh MTI100 Fanart",
+      "358G5_Naim Turn Fanart",
+      "359G5_Turn Black_Fanart"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_g5_FanarTurntable.png",
+   "thumb": "catalog/thumbs/1280x720_g5_FanarTurntable.jpg"
+  },
+  {
+   "name": "1280x720_g5_FanartCD",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 720,
+   "zip": "template_peppy/1280/720/1280x720_g5_FanartCD.zip",
+   "bytes": 8847256,
+   "sha256": "2a99aa173cdbe426bc94f40bc36e516200031c75dfd12e28116d6c6992626b96",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_g5_FanartCD/",
+     "folder": "1280x720_g5_FanartCD",
+     "names": [
+      "300G5_Shanling Fanart",
+      "301G5_Kenwood Fanart",
+      "302G5_McIntosh Fanart",
+      "303G5_Vertere Fanart",
+      "304G5_Kenwood Ver_Fanart",
+      "305G5_LG_Syitren Fanart",
+      "306G5_LG_Thinkya Fanart",
+      "307G5_FreeCD Fanart",
+      "308G5_ONLY Fanart",
+      "309G5_Mion_Fanart"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/720/previews/1280x720_g5_FanartCD.png",
+   "thumb": "catalog/thumbs/1280x720_g5_FanartCD.jpg"
+  },
+  {
+   "name": "1280x800_dagostino_pendulum",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 800,
+   "zip": "template_peppy/1280/800/1280x800_dagostino_pendulum.zip",
+   "bytes": 1641770,
+   "sha256": "6b11f000ba6027058fcaaf9402063efda49d07a3ab417fb32f7730dbb6d8ba79",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x800_dagostino_pendulum/",
+     "folder": "1280x800_dagostino_pendulum",
+     "names": [
+      "dan_dagostimo_mlife"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/800/previews/1280x800_dagostino_pendulum.png",
+   "thumb": "catalog/thumbs/1280x800_dagostino_pendulum.jpg"
+  },
+  {
+   "name": "1280x800_dan_dagostimo_momentum_c2",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 800,
+   "zip": "template_peppy/1280/800/1280x800_dan_dagostimo_momentum_c2.zip",
+   "bytes": 1690518,
+   "sha256": "250b67db3ea55604557d8522a1212ed9394837f7ed2f647005611d7afbc223a7",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x800_dan_dagostimo_momentum_c2/",
+     "folder": "1280x800_dan_dagostimo_momentum_c2",
+     "names": [
+      "dan-dagostino"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/800/previews/1280x800_dan_dagostimo_momentum_c2.png",
+   "thumb": "catalog/thumbs/1280x800_dan_dagostimo_momentum_c2.jpg"
+  },
+  {
+   "name": "1280x800_esoteric-grandioso-t1",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 800,
+   "zip": "template_peppy/1280/800/1280x800_esoteric-grandioso-t1.zip",
+   "bytes": 888306,
+   "sha256": "a838059cfa966f0192feffb9bf2de3c686850bfb772d992cc650d261c9feb9e9",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x800_esoteric-grandioso-t1/",
+     "folder": "1280x800_esoteric-grandioso-t1",
+     "names": [
+      "esoteric-grandioso-t1"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/800/previews/1280x800_esoteric-grandioso-t1.png",
+   "thumb": "catalog/thumbs/1280x800_esoteric-grandioso-t1.jpg"
+  },
+  {
+   "name": "1280x800_g5_420_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 800,
+   "zip": "template_peppy/1280/800/1280x800_g5_420_meters.zip",
+   "bytes": 19587554,
+   "sha256": "547b6f7082d6c5a6013c5660f81c91464f9456e229496c293bb898f3acd6fefe",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x800_g5_420_meters/1280x800_g5_420_0120/",
+     "folder": "1280x800_g5_420_0120",
+     "names": [
+      "01G5_Accuphase",
+      "02G5_Accuphase monoblock",
+      "03G5_Berlant",
+      "04G5_Berlant Purple",
+      "05G5_Audio Research",
+      "06G5_McIntosh",
+      "07G5_McIntosh monoblock",
+      "08G5_McIntosh Hybrid",
+      "09G5_McIntosh Tube",
+      "10G5_Kenwood Ver",
+      "11G5_Kenwood Rev",
+      "12G5_VU Single Yellow",
+      "13G5_NAD C3050 Purple",
+      "14G5_NAD C3050",
+      "15G5_Naim green",
+      "16G5_Naim 2",
+      "17G5_Naim Rev",
+      "18G5_Sansui",
+      "19G5_Sansui 2V",
+      "20G5_Brianworks"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/800/previews/1280x800_g5_420_meters.png",
+   "thumb": "catalog/thumbs/1280x800_g5_420_meters.jpg"
+  },
+  {
+   "name": "1280x800_g5_421_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 800,
+   "zip": "template_peppy/1280/800/1280x800_g5_421_meters.zip",
+   "bytes": 22471573,
+   "sha256": "95f897493fd7dcb0d41d7655d6a790e5f5cb4be0ad73b6385973ab87a7806abc",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x800_g5_421_2140/",
+     "folder": "1280x800_g5_421_2140",
+     "names": [
+      "21G5_BlackBlur",
+      "22G5_Dark Spotify",
+      "23G5_Hitachi HMA7500 Black",
+      "24G5_Hitachi HCA7500 Silver",
+      "25G5_Marantz Silver",
+      "26G5_Marantz Black",
+      "27G5_MarantzCD",
+      "28G5_Technisc_Black",
+      "29G5_Technisc_Silver",
+      "30G5_Round yellow",
+      "31G5_Rehringer",
+      "32G5_Akai Reverse",
+      "33G5_ClasseM",
+      "34G5_BMC",
+      "35G5_Hartman",
+      "36G5_Klanghelm",
+      "37G5_TURN Vinyl Green",
+      "38G5_TURN Vinyl Green 2",
+      "39G5_TURN Vinyl Silver",
+      "40G5_TURN Vinyl Black"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/800/previews/1280x800_g5_421_meters.png",
+   "thumb": "catalog/thumbs/1280x800_g5_421_meters.jpg"
+  },
+  {
+   "name": "1280x800_g5_422_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 800,
+   "zip": "template_peppy/1280/800/1280x800_g5_422_meters.zip",
+   "bytes": 19080313,
+   "sha256": "f45f80dff0ccbee43aa61c00e16485015ee2a6bba2178e005b1ebc3c1b5c3c11",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x800_g5_422_4160/",
+     "folder": "1280x800_g5_422_4160",
+     "names": [
+      "41G5_Yellowkidney",
+      "42G5_OLD Meter",
+      "43G5_Old2 braun",
+      "44G5_T+A",
+      "45G5_Triplett",
+      "46G5_Leben",
+      "47G5_Luxman Gold",
+      "48G5_Vertical blue",
+      "49G5_MarkLev",
+      "50G5_Teac Cassette",
+      "51G5_Optonica",
+      "52G5_PioneerCT",
+      "53G5_Abrahamsen",
+      "54G5_Dorrough",
+      "55G5_Dorrough Vertical",
+      "56G5_Advence",
+      "57G5_Unison Research",
+      "58G5_TAPE orange",
+      "59G5_Yamaha M85",
+      "60G5_Sound90"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/800/previews/1280x800_g5_422_meters.png",
+   "thumb": "catalog/thumbs/1280x800_g5_422_meters.jpg"
+  },
+  {
+   "name": "1280x800_g5_423_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 800,
+   "zip": "template_peppy/1280/800/1280x800_g5_423_meters.zip",
+   "bytes": 11772574,
+   "sha256": "9248ceac0334c6fcaa2896e84d70fd850b039fa2fb0eefbb3146e83620827ee6",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x800_g5_423_6180/",
+     "folder": "1280x800_g5_423_6180",
+     "names": [
+      "61G5_Burmaster",
+      "62G5_Violin",
+      "63G5_Struder",
+      "64G5_J37 Tape",
+      "65G5_HelixOne",
+      "66G5_DAgostini",
+      "67G5_Reher Tube",
+      "68G5_Boombox",
+      "69G5_Nixi Pipe",
+      "70G5_Nixi Spectrum"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/800/previews/1280x800_g5_423_meters.png",
+   "thumb": "catalog/thumbs/1280x800_g5_423_meters.jpg"
+  },
+  {
+   "name": "1280x800_naim_set",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 800,
+   "zip": "template_peppy/1280/800/1280x800_naim_set.zip",
+   "bytes": 1315237,
+   "sha256": "788459affdfd8143d82b366e51665825ba3408fd2bd24af7b00dae6c61401415",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x800_naim_set/",
+     "folder": "1280x800_naim_set",
+     "names": [
+      "Naim_Set"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/800/previews/1280x800_naim_set.png",
+   "thumb": "catalog/thumbs/1280x800_naim_set.jpg"
+  },
+  {
+   "name": "1280x800_t1800_pack7",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 800,
+   "zip": "template_peppy/1280/800/1280x800_t1800_pack7.zip",
+   "bytes": 4478810,
+   "sha256": "d3874b563a44406ece770ab1278cb785b92c787f46e1d0ef122ef515173cb8ec",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x800_t1800_pack7/",
+     "folder": "1280x800_t1800_pack7",
+     "names": [
+      "t1800_tubes",
+      "t1800_Fisher",
+      "t1800_Tascam",
+      "t1800_TubeHeadPhone",
+      "t1800_Sansui9090",
+      "t1800_ReelTape",
+      "t1800_StarWars"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/800/previews/1280x800_t1800_pack7.png",
+   "thumb": "catalog/thumbs/1280x800_t1800_pack7.jpg"
+  },
+  {
+   "name": "1280x800_vertical_blue",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 800,
+   "zip": "template_peppy/1280/800/1280x800_vertical_blue.zip",
+   "bytes": 861976,
+   "sha256": "4f99e6737e416d21e0158c0263c5bad4c676af78c0f183859db8d28da46cc0e7",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x800_vertical_blue/",
+     "folder": "1280x800_vertical_blue",
+     "names": [
+      "vertical-turntable-blue"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/800/previews/1280x800_vertical_blue.png",
+   "thumb": "catalog/thumbs/1280x800_vertical_blue.jpg"
+  },
+  {
+   "name": "1280x800_volumio-HW",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1280,
+   "height": 800,
+   "zip": "template_peppy/1280/800/1280x800_volumio-HW.zip",
+   "bytes": 1382845,
+   "sha256": "6b0d8922e05502c4a75a1d997b5613ffb9e52eeffe133a13421310d031cd937f",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x800_volumio-HW/",
+     "folder": "1280x800_volumio-HW",
+     "names": [
+      "Volumio"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1280/800/previews/1280x800_volumio-HW.png",
+   "thumb": "catalog/thumbs/1280x800_volumio-HW.jpg"
+  },
+  {
+   "name": "1366x768_g5_701_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1366,
+   "height": 768,
+   "zip": "template_peppy/1366/768/1366x768_g5_701_meters.zip",
+   "bytes": 17330202,
+   "sha256": "9aa42dc7a72f0b17a1c8b41eb97bc9f35c11f3af3e25854f2220dea8d1fc48bc",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1366x768_g5_701_meters/",
+     "folder": "1366x768_g5_701_meters",
+     "names": [
+      "01G5_McIntosh",
+      "02G5_McIntosh Hybrid",
+      "03G5_McIntosh Monoblock",
+      "04G5_McIntosh Tube",
+      "05G5_Accuphase",
+      "06G5_Accuphase Monoblock",
+      "07G5_Marantz Silver",
+      "08G5_Marantz Black",
+      "09G5_Technics1600_Silver",
+      "10G5_Technics1600_Black",
+      "11G5_Technics1600_Black-Silver",
+      "12G5_Audio Research",
+      "13G5_Kenwood Reverse",
+      "14G5_Kenwood Ver",
+      "15G5_Naim green",
+      "16G5_Naim2",
+      "17G5_Naim Reverse",
+      "18G5_Advanced X220",
+      "19G5_Advanced X220EVO",
+      "20G5_Advanced Combi"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1366/768/previews/1366x768_g5_701_meters.png",
+   "thumb": "catalog/thumbs/1366x768_g5_701_meters.jpg"
+  },
+  {
+   "name": "1366x768_g5_702_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1366,
+   "height": 768,
+   "zip": "template_peppy/1366/768/1366x768_g5_702_meters.zip",
+   "bytes": 18776720,
+   "sha256": "3a1ed5df55cd92ddd68e60958efe60ee59838bcdffd187ce2e919e8230d55df0",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1366x768_g5_702_meters/",
+     "folder": "1366x768_g5_702_meters",
+     "names": [
+      "21G5_Akai Reverse",
+      "22G5_Hitachi HMA7500 Black",
+      "23G5_Hitachi HCA7500 Silver",
+      "24G5_Luxman Gold",
+      "25G5_Leben",
+      "26G5_NAD",
+      "27G5_NAD C3050HD",
+      "28G5_T+A",
+      "29G5_VU Single Yellow",
+      "30G5_VU Single Blue",
+      "31G5_Wadax",
+      "32G5_ClasseM",
+      "33G5_Klanghelm",
+      "34G5_TURN Vinyl Orange",
+      "35G5_TURN Vinyl Green",
+      "36G5_TURN Vinyl Green2",
+      "37G5_TURN Vinyl Silver",
+      "38G5_TURN Vinyl Black",
+      "39G5_TURN Vinyl Blue",
+      "40G5_TAPE"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1366/768/previews/1366x768_g5_702_meters.png",
+   "thumb": "catalog/thumbs/1366x768_g5_702_meters.jpg"
+  },
+  {
+   "name": "1366x768_g5_703_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1366,
+   "height": 768,
+   "zip": "template_peppy/1366/768/1366x768_g5_703_meters.zip",
+   "bytes": 16777724,
+   "sha256": "cc5083350eafbbdfbd9ab39d569fc63a9494ee1344b595e18492422fc762554f",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1366x768_g5_703_meters/",
+     "folder": "1366x768_g5_703_meters",
+     "names": [
+      "41G5_Sansui",
+      "42G5_Sansui 2V",
+      "43G5_Dorrough",
+      "44G5_Dorrough border",
+      "45G5_Dorrough Vertical",
+      "46G5_MarantzCD",
+      "47G5_Violin",
+      "48G5_PioneerCT Deck",
+      "49G5_Pioneer M90",
+      "50G5_Sony",
+      "51G5_Abrahamsen",
+      "52G5_Yamaha M85",
+      "53G5_Yamaha DJ",
+      "54G5_Vincent",
+      "55G5_SKS12 Vertical",
+      "56G5_Free",
+      "57G5_Teac Cassette",
+      "58G5_Burmaster",
+      "59G5_Fire Rock",
+      "60G5_HelixOne"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1366/768/previews/1366x768_g5_703_meters.png",
+   "thumb": "catalog/thumbs/1366x768_g5_703_meters.jpg"
+  },
+  {
+   "name": "1366x768_g5_704_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1366,
+   "height": 768,
+   "zip": "template_peppy/1366/768/1366x768_g5_704_meters.zip",
+   "bytes": 21698188,
+   "sha256": "df04a2d6e39f8786c3200ad2de1a6e86207c5b198028e8dae4d1c432471e3392",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1366x768_g5_704_meters/",
+     "folder": "1366x768_g5_704_meters",
+     "names": [
+      "61G5_Berlant",
+      "62G5_BlueSea_White",
+      "63G5_BlueSea_Black",
+      "64G5_BMC",
+      "65G5_Brianworks",
+      "66G5_DAgostini",
+      "67G5_Dark Spotify",
+      "68G5_Boombox",
+      "69G5_Hartman",
+      "70G5_MarkLev",
+      "71G5_Vertical blue",
+      "72G5_Horizontal blue",
+      "73G5_Yellowkidney",
+      "74G5_Triplett",
+      "75G5_OLD Meter",
+      "76G5_Old2 braun",
+      "77G5_Rehringer",
+      "78G5_Round yellow",
+      "79G5_J37 Tape",
+      "80G5_Simens"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1366/768/previews/1366x768_g5_704_meters.png",
+   "thumb": "catalog/thumbs/1366x768_g5_704_meters.jpg"
+  },
+  {
+   "name": "1366x768_g5_705_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1366,
+   "height": 768,
+   "zip": "template_peppy/1366/768/1366x768_g5_705_meters.zip",
+   "bytes": 22007716,
+   "sha256": "5f91191d692a31db8cb5cf5d3e713ba4c20903ef418f72ff66d1588e020488f1",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1366x768_g5_705_meters/",
+     "folder": "1366x768_g5_705_meters",
+     "names": [
+      "81G5_Struder Tape",
+      "82G5_Unison Research",
+      "83G5_Jericho",
+      "84G5_Radio Tann",
+      "85G5_Gryphon",
+      "86G5_Onkyo M508",
+      "87G5_Sound90",
+      "88G5_Sony TAN77",
+      "89G5_Rotel",
+      "90G5_Vert_Kidney",
+      "91G5_BlackBlur",
+      "92G5_BlackBlur Big-Bang",
+      "93G5_BlackBlur LED",
+      "94G5_MNN8",
+      "95G5_NeonLight",
+      "96G5_NIxI Pipe",
+      "97G5_Optonica",
+      "98G5_Pioneer Deck",
+      "99G5_Merc",
+      "100G5_McIntosh Hybrid"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1366/768/previews/1366x768_g5_705_meters.png",
+   "thumb": "catalog/thumbs/1366x768_g5_705_meters.jpg"
+  },
+  {
+   "name": "1366x768_g5_710_Turntables",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1366,
+   "height": 768,
+   "zip": "template_peppy/1366/768/1366x768_g5_710_Turntables.zip",
+   "bytes": 36266040,
+   "sha256": "d70da7e7aa51b44fc8fafd3f2bf6163c3c06f199cfafb46b687661438a325bdd",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1366x768_g5_710_Turntables/",
+     "folder": "1366x768_g5_710_Turntables",
+     "names": [
+      "141G5_02_Vertere Turn",
+      "141G5_03_Vertere Turn",
+      "142G5_02_Pioneer Gold",
+      "142G5_03_Pioneer Gold",
+      "143G5_TURN Vinyl Black",
+      "144G5_01_Naim Turntable",
+      "144G5_02_Naim Turntable",
+      "144G5_03_Naim Turntable",
+      "145G5_02_McIntosh MTI100",
+      "145G5_03_McIntosh MTI100",
+      "146G5_02_Denon DP62",
+      "146G5_03_Denon DP62",
+      "147G5_02_Denon DP400",
+      "147G5_03_Denon DP400",
+      "148G5_02_Reloop RL7000",
+      "148G5_03_Reloop RL7000",
+      "149G5_02_Thorens",
+      "149G5_03_Thorens",
+      "150G5_02_AMG Turntable",
+      "150G5_03_AMG Turntable",
+      "151G5_02_Technics Silver",
+      "151G5_03_Technics Silver",
+      "190G5_03_Grandioso",
+      "191G5_02_Crosley Turntable",
+      "191G5_03_Crosley Turntable",
+      "192G5_02_Korg Handy",
+      "192G5_03_Korg Handy",
+      "193G5_02_TechDas",
+      "193G5_03_TechDas",
+      "194G5_02_PioneerNew",
+      "194G5_03_PioneerNew",
+      "195G5_02_Gramovox",
+      "195G5_03_Gramovox",
+      "196G5_02_SME60",
+      "196G5_03_SME60"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1366/768/previews/1366x768_g5_710_Turntables.png",
+   "thumb": "catalog/thumbs/1366x768_g5_710_Turntables.jpg"
+  },
+  {
+   "name": "1366x768_g5_711_Tape_Recorder",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1366,
+   "height": 768,
+   "zip": "template_peppy/1366/768/1366x768_g5_711_Tape_Recorder.zip",
+   "bytes": 35054708,
+   "sha256": "e94640223e6e0092845919dc51bf52427e43b16b2fd0f6965ffb588e319af72a",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1366x768_g5_711_Tape_Recorder/",
+     "folder": "1366x768_g5_711_Tape_Recorder",
+     "names": [
+      "151G5_Akai77 black",
+      "152G5_Akai77_silver",
+      "153G5_Studer A810",
+      "154G5_PioneerRT707_silver",
+      "155G5_Antelope Reel",
+      "156G5_Otari Reel",
+      "157G5_Revox B77",
+      "158G5_Tascam Rec",
+      "159G5_Technics Rec",
+      "159G5_Metaxas Rec",
+      "210G5_Sony TC730",
+      "211G5_Akai GX635",
+      "212G5_TapeAK",
+      "213G5_Fostex Rec",
+      "214G5_TapeAMP",
+      "215G5_Koncert M3401",
+      "216G5_Akai PRO1000",
+      "217G5_MION24",
+      "218G5_Teac X2000",
+      "219G5_Tandberg OLD"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1366/768/previews/1366x768_g5_711_Tape_Recorder.png",
+   "thumb": "catalog/thumbs/1366x768_g5_711_Tape_Recorder.jpg"
+  },
+  {
+   "name": "1366x768_g5_712_Cassette",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1366,
+   "height": 768,
+   "zip": "template_peppy/1366/768/1366x768_g5_712_Cassette.zip",
+   "bytes": 20756897,
+   "sha256": "6fa8e029ab167c006e90b610fecdc291725b34db3c2d9837cddd8ff1d41fd2f2",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1366x768_g5_712_Cassette/",
+     "folder": "1366x768_g5_712_Cassette",
+     "names": [
+      "161G5_Pioneer Cassette",
+      "162G5_TDK cassette",
+      "163G5_TEAC cassette",
+      "164G5_Maxell Cassette",
+      "165G5_BASF Free",
+      "166G5_Cassette_Circular",
+      "167G5_Cassette_Linear",
+      "168G5_Philips Cassette",
+      "169G5_Denon DR650",
+      "170G5_SonyK770 cassette",
+      "240G5_MION24C",
+      "241G5_Kenwood cassette",
+      "242G5_Sharp",
+      "243G5_Sansui Cassette",
+      "244G5_Pioneer CT_F1250"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1366/768/previews/1366x768_g5_712_Cassette.png",
+   "thumb": "catalog/thumbs/1366x768_g5_712_Cassette.jpg"
+  },
+  {
+   "name": "1366x768_g5_713_CD",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1366,
+   "height": 768,
+   "zip": "template_peppy/1366/768/1366x768_g5_713_CD.zip",
+   "bytes": 20678669,
+   "sha256": "84a379b243646a25b5fdaaf3371e7361f8d6c2e69e27ddd955b996d5e5dd8600",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1366x768_g5_713_CD/",
+     "folder": "1366x768_g5_713_CD",
+     "names": [
+      "171G5_Sony557 Full",
+      "172G5_Sony557 Cust",
+      "173G5_CD Player Full",
+      "174G5_CD Player Cust",
+      "175G5_Emerson Full",
+      "176G5_Emerson Cust",
+      "177G5_Dunu Cust",
+      "178G5_Thinkya Cust",
+      "179G5_Shanling Cust",
+      "180G5_Syitren Cust",
+      "260G5_CD Black",
+      "261G5_CD HOTT",
+      "262G5_Jadis",
+      "262G5_02_Jadis",
+      "263G5_Emerson MS3",
+      "263G5_02_Emerson MS3"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1366/768/previews/1366x768_g5_713_CD.png",
+   "thumb": "catalog/thumbs/1366x768_g5_713_CD.jpg"
+  },
+  {
+   "name": "1480x320_g5_501_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1480,
+   "height": 320,
+   "zip": "template_peppy/1480/320/1480x320_g5_501_meters.zip",
+   "bytes": 11116045,
+   "sha256": "56d8dd281e0bb7f1350b5902a0ab3afeebb33be694b660b0fb7580ea8a591bea",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1480x320_g5_501_meters/",
+     "folder": "1480x320_g5_501_meters",
+     "names": [
+      "01G5_Accuphase",
+      "02G5_Accuphase Black",
+      "03G5_Advance X220",
+      "04G5_Rose Single Line",
+      "05G5_Audio Research",
+      "06G5_Kenwood Rev",
+      "07G5_Kenwood Single",
+      "08G5_Klanghelm",
+      "09G5_Klangheim Mojo",
+      "10G5_Krell KAS",
+      "11G5_Line Magnetic",
+      "12G5_Luxman",
+      "13G5_McIntosh",
+      "14G5_McIntosh RED",
+      "15G5_McIntosh Mono",
+      "16G5_Naim",
+      "17G5_Technics",
+      "18G5_Technics Black",
+      "19G5_T+A 3000HV",
+      "20G5_Turntable Black"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1480/320/previews/1480x320_g5_501_meters.png",
+   "thumb": "catalog/thumbs/1480x320_g5_501_meters.jpg"
+  },
+  {
+   "name": "1480x320_g5_502_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1480,
+   "height": 320,
+   "zip": "template_peppy/1480/320/1480x320_g5_502_meters.zip",
+   "bytes": 12673894,
+   "sha256": "8d1fb95c74ae6b8fec9a444bdc04a32c075ab2e1c5c3abd3c1baa229c2b63029",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1480x320_g5_502_meters/",
+     "folder": "1480x320_g5_502_meters",
+     "names": [
+      "21G5_BlackBlur Vertical",
+      "22G5_BlackBlur",
+      "23G5_BOSS Red",
+      "24G5_BOSS Orange",
+      "25G5_BOSS green",
+      "26G5_Caltec",
+      "27G5_Dark Spotify",
+      "28G5_Magnetcord",
+      "29G5_PioneerCT LED",
+      "30G5_Rehringer",
+      "31G5_Sansui",
+      "32G5_Sansui Vertical",
+      "33G5_Sony TA-N77",
+      "34G5_Yamaha MX2000",
+      "35G5_Gemonti",
+      "36G5_Dorrought",
+      "37G5_Eversolo",
+      "38G5_Modern VU",
+      "39G5_Marantz CD",
+      "40G5_Brianworks"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1480/320/previews/1480x320_g5_502_meters.png",
+   "thumb": "catalog/thumbs/1480x320_g5_502_meters.jpg"
+  },
+  {
+   "name": "1480x320_g5_503_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1480,
+   "height": 320,
+   "zip": "template_peppy/1480/320/1480x320_g5_503_meters.zip",
+   "bytes": 7950889,
+   "sha256": "bb71277e388acbfc15d8239570d5c13c0551afc620e28965579f33adbdba70e7",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1480x320_g5_503_meters/",
+     "folder": "1480x320_g5_503_meters",
+     "names": [
+      "41G5_Lush Only",
+      "42G5_Sansui Green_ONLY meters",
+      "43G5_Technics Gold",
+      "44G5_Dorrought only meters",
+      "45G5_Eher only meters",
+      "46G5_Free only",
+      "47G5_Gemonti only meters",
+      "48G5_Mountain only meters",
+      "49G5_Deviation Only",
+      "50G5_Caltec only meters",
+      "51G5_CaltecRED only meters",
+      "52G5_PeakLevel only",
+      "53G5_Signal only meters",
+      "54G5_Tonnica",
+      "55G5_Marshall",
+      "56G5_Nixie Spectrum",
+      "57G5_SG ONLY meters",
+      "58G5_Denon only meters",
+      "59G5_Yamaha Only",
+      "60G5_Teletronix Only"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1480/320/previews/1480x320_g5_503_meters.png",
+   "thumb": "catalog/thumbs/1480x320_g5_503_meters.jpg"
+  },
+  {
+   "name": "1480x320_g5_504_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1480,
+   "height": 320,
+   "zip": "template_peppy/1480/320/1480x320_g5_504_meters.zip",
+   "bytes": 11431426,
+   "sha256": "59389349f5441de0c35ed616311bb55fa84742e4cde7abc93db58a413a540c13",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1480x320_g5_504_meters/",
+     "folder": "1480x320_g5_504_meters",
+     "names": [
+      "61G5_AdvanceX220_ONLY meters",
+      "62G5_Rose OUT",
+      "63G5_Rose IN",
+      "64G5_Alvin only meters",
+      "65G5_LED Out ONLY",
+      "66G5_FM Stereo Only",
+      "67G5_Rudeer Only",
+      "68G5_Tascam Only",
+      "69G5_NAD C3050",
+      "70G5_NAD",
+      "71G5_NAD M10 only",
+      "72G5_Old Braun",
+      "73G5_Namson Only",
+      "74G5_Sharp",
+      "75G5_Hitachi7500 Only",
+      "76G5_Hartman Only",
+      "77G5_Dagostino",
+      "78G5_R55 Only",
+      "79G5_Accuphase Old Only",
+      "80G5_Bocatech"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1480/320/previews/1480x320_g5_504_meters.png",
+   "thumb": "catalog/thumbs/1480x320_g5_504_meters.jpg"
+  },
+  {
+   "name": "1480x320_g5_910_turntables",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1480,
+   "height": 320,
+   "zip": "template_peppy/1480/320/1480x320_g5_910_turntables.zip",
+   "bytes": 8115852,
+   "sha256": "40001714b40d07e927789a8f3c3f790c567ea2cfa5825fdbcb408288af133658",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1480x320_g5_910_turntables/",
+     "folder": "1480x320_g5_910_turntables",
+     "names": [
+      "101G5_Pioneer Gold",
+      "102G5_Denon DP62",
+      "103G5_Thorens",
+      "104G5_TURNTABLE Black",
+      "105G5_McIntosh MTI100",
+      "106G5_Crosley Turntable",
+      "107G5_Gramovox",
+      "108G5_SME60",
+      "109G5_Vertere Turn",
+      "110G5_TechDas",
+      "111G5_Pioneer Gold2",
+      "112G5_Techinics Turn"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1480/320/previews/1480x320_g5_910_turntables.png",
+   "thumb": "catalog/thumbs/1480x320_g5_910_turntables.jpg"
+  },
+  {
+   "name": "1480x320_g5_911_Tape_Recorder",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1480,
+   "height": 320,
+   "zip": "template_peppy/1480/320/1480x320_g5_911_Tape_Recorder.zip",
+   "bytes": 8195787,
+   "sha256": "e67557a91bc93fe0fe5dd0a325771fcdcf42dbf3406f47df62fcd91596e1b906",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1480x320_g5_911_Tape_Recorder/",
+     "folder": "1480x320_g5_911_Tape_Recorder",
+     "names": [
+      "151G5_Ampex Reel",
+      "152G5_Otari Reel",
+      "153G5_TDK Reel",
+      "154G5_Akai 77",
+      "155G5_Akai77_silver",
+      "156G5_TapeAK",
+      "157G5_Fostex Rec",
+      "158G5_Revox B77",
+      "159G5_MION24",
+      "160G5_Tascam Reel",
+      "161G5_Free TDK"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1480/320/previews/1480x320_g5_911_Tape_Recorder.png",
+   "thumb": "catalog/thumbs/1480x320_g5_911_Tape_Recorder.jpg"
+  },
+  {
+   "name": "1920x1080_g5_701_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 1080,
+   "zip": "template_peppy/1920/1080/1920x1080_g5_701_meters.zip",
+   "bytes": 34704517,
+   "sha256": "df7e468065d8289fb654305c36fd0fbf6c7ea284cc7310a990ec56627a8284ce",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_g5_701_0020/",
+     "folder": "1920x1080_g5_701_0020",
+     "names": [
+      "01G5_McIntosh",
+      "02G5_McIntosh Hybrid",
+      "03G5_McIntosh Monoblock",
+      "04G5_McIntosh Tube",
+      "05G5_Accuphase",
+      "06G5_Accuphase Monoblock",
+      "07G5_Marantz Silver",
+      "08G5_Marantz Black",
+      "09G5_Technics1600_Silver",
+      "10G5_Technics1600_Black",
+      "11G5_Technics1600_Black-Silver",
+      "12G5_Audio Research",
+      "13G5_Kenwood Reverse",
+      "14G5_Kenwood Ver",
+      "15G5_Naim green",
+      "16G5_Naim2",
+      "17G5_Naim Reverse",
+      "18G5_Advanced X220",
+      "19G5_Advanced X220EVO",
+      "20G5_Advanced Combi"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/1080/previews/1920x1080_g5_701_meters.png",
+   "thumb": "catalog/thumbs/1920x1080_g5_701_meters.jpg"
+  },
+  {
+   "name": "1920x1080_g5_702_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 1080,
+   "zip": "template_peppy/1920/1080/1920x1080_g5_702_meters.zip",
+   "bytes": 37050536,
+   "sha256": "6f122c614a9cb8f66c0ae52307e13027aa6731f2068bc85db4d42d23888a0eca",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_g5_702_2140/",
+     "folder": "1920x1080_g5_702_2140",
+     "names": [
+      "21G5_Akai Reverse",
+      "22G5_Hitachi HMA7500 Black",
+      "23G5_Hitachi HCA7500 Silver",
+      "24G5_Luxman Gold",
+      "25G5_Leben",
+      "26G5_NAD",
+      "27G5_NAD C3050HD",
+      "28G5_T+A",
+      "29G5_VU Single Yellow",
+      "30G5_VU Single Blue",
+      "31G5_Wadax",
+      "32G5_ClasseM",
+      "33G5_Klanghelm",
+      "34G5_TURN Vinyl Orange",
+      "35G5_TURN Vinyl Green",
+      "36G5_TURN Vinyl Green2",
+      "37G5_TURN Vinyl Silver",
+      "38G5_TURN Vinyl Black",
+      "39G5_TURN Vinyl Blue",
+      "40G5_TAPE"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/1080/previews/1920x1080_g5_702_meters.png",
+   "thumb": "catalog/thumbs/1920x1080_g5_702_meters.jpg"
+  },
+  {
+   "name": "1920x1080_g5_703_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 1080,
+   "zip": "template_peppy/1920/1080/1920x1080_g5_703_meters.zip",
+   "bytes": 31234260,
+   "sha256": "ed13b7de6c949efaea8f95507432f1187cde751773c7b4f2583ea6e18b61f384",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_g5_703_4160/",
+     "folder": "1920x1080_g5_703_4160",
+     "names": [
+      "41G5_Sansui",
+      "42G5_Sansui 2V",
+      "43G5_Dorrough",
+      "44G5_Dorrough border",
+      "45G5_Dorrough Vertical",
+      "46G5_MarantzCD",
+      "47G5_Violin",
+      "48G5_PioneerCT Deck",
+      "49G5_Pioneer M90",
+      "50G5_Sony",
+      "51G5_Abrahamsen",
+      "52G5_Yamaha M85",
+      "53G5_Yamaha DJ",
+      "54G5_Vincent",
+      "55G5_SKS12 Vertical",
+      "56G5_Free",
+      "57G5_Teac Cassette",
+      "58G5_Burmaster",
+      "59G5_Fire Rock",
+      "60G5_HelixOne"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/1080/previews/1920x1080_g5_703_meters.png",
+   "thumb": "catalog/thumbs/1920x1080_g5_703_meters.jpg"
+  },
+  {
+   "name": "1920x1080_g5_704_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 1080,
+   "zip": "template_peppy/1920/1080/1920x1080_g5_704_meters.zip",
+   "bytes": 40023839,
+   "sha256": "665445a0457d73d9a6e2821ca7d731b64ca64917713627eb7fdaa44ef08c8174",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_g5_704_6180/",
+     "folder": "1920x1080_g5_704_6180",
+     "names": [
+      "61G5_Berlant",
+      "62G5_BlueSea_White",
+      "63G5_BlueSea_Black",
+      "64G5_BMC",
+      "65G5_Brianworks",
+      "66G5_DAgostini",
+      "67G5_Dark Spotify",
+      "68G5_Boombox",
+      "69G5_Hartman",
+      "70G5_MarkLev",
+      "71G5_Vertical blue",
+      "72G5_Horizontal blue",
+      "73G5_Yellowkidney",
+      "74G5_Triplett",
+      "75G5_OLD Meter",
+      "76G5_Old2 braun",
+      "77G5_Rehringer",
+      "78G5_Round yellow",
+      "79G5_J37 Tape",
+      "80G5_Simens"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/1080/previews/1920x1080_g5_704_meters.png",
+   "thumb": "catalog/thumbs/1920x1080_g5_704_meters.jpg"
+  },
+  {
+   "name": "1920x1080_g5_705_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 1080,
+   "zip": "template_peppy/1920/1080/1920x1080_g5_705_meters.zip",
+   "bytes": 44516057,
+   "sha256": "8f5a9c5c0f22e2d48f9a402e83ad9bf8807490b945a22f9110687b19e1f71957",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_g5_705_8199/",
+     "folder": "1920x1080_g5_705_8199",
+     "names": [
+      "81G5_Struder Tape",
+      "82G5_Unison Research",
+      "83G5_Jericho",
+      "84G5_Radio Tann",
+      "85G5_Gryphon",
+      "86G5_Onkyo M508",
+      "87G5_Sound90",
+      "88G5_Sony TAN77",
+      "89G5_Rotel",
+      "90G5_Vert_Kidney",
+      "91G5_BlackBlur",
+      "92G5_BlackBlur Big-Bang",
+      "93G5_BlackBlur LED",
+      "94G5_MNN8",
+      "95G5_NeonLight",
+      "96G5_NIxI Pipe",
+      "97G5_Optonica",
+      "98G5_Pioneer Deck",
+      "99G5_Merc",
+      "100G5_McIntosh Hybrid"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/1080/previews/1920x1080_g5_705_meters.png",
+   "thumb": "catalog/thumbs/1920x1080_g5_705_meters.jpg"
+  },
+  {
+   "name": "1920x1080_g5_710_Turntables",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 1080,
+   "zip": "template_peppy/1920/1080/1920x1080_g5_710_Turntables.zip",
+   "bytes": 60560951,
+   "sha256": "f937bdca31a83a5364d5922f7cef7936aec5552a0f10cefcf6d3cd60bff9ce35",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_g5_710_Turntables/",
+     "folder": "1920x1080_g5_710_Turntables",
+     "names": [
+      "141G5_01_Vertere Turn",
+      "141G5_02_Vertere Turn",
+      "141G5_03_Vertere Turn",
+      "142G5_01_Pioneer Gold",
+      "142G5_02_Pioneer Gold",
+      "142G5_03_Pioneer Gold",
+      "143G5_TURN Vinyl Black",
+      "144G5_01_Naim Turntable",
+      "144G5_02_Naim Turntable",
+      "144G5_03_Naim Turntable",
+      "145G5_01_McIntosh MTI100",
+      "145G5_02_McIntosh MTI100",
+      "145G5_03_McIntosh MTI100",
+      "146G5_01_Denon DP62",
+      "146G5_02_Denon DP62",
+      "146G5_03_Denon DP62",
+      "147G5_01_Denon DP400",
+      "147G5_02_Denon DP400",
+      "147G5_03_Denon DP400",
+      "148G5_01_Reloop RL7000",
+      "148G5_02_Reloop RL7000",
+      "148G5_03_Reloop RL7000",
+      "149G5_01_Thorens",
+      "149G5_02_Thorens",
+      "149G5_03_Thorens",
+      "150G5_02_AMG Turntable",
+      "150G5_03_AMG Turntable",
+      "151G5_01_Technics Silver",
+      "151G5_02_Technics Silver",
+      "151G5_03_Technics Silver",
+      "190G5_03_Grandioso",
+      "191G5_01_Crosley Turntable",
+      "191G5_02_Crosley Turntable",
+      "191G5_03_Crosley Turntable",
+      "192G5_01_Korg Handy",
+      "192G5_02_Korg Handy",
+      "192G5_03_Korg Handy",
+      "193G5_01_TechDas",
+      "193G5_02_TechDas",
+      "193G5_03_TechDas",
+      "194G5_02_PioneerNew",
+      "194G5_03_PioneerNew",
+      "195G5_01_Gramovox",
+      "195G5_02_Gramovox",
+      "195G5_03_Gramovox",
+      "196G5_01_SME60",
+      "196G5_02_SME60",
+      "196G5_03_SME60"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/1080/previews/1920x1080_g5_710_Turntables.png",
+   "thumb": "catalog/thumbs/1920x1080_g5_710_Turntables.jpg"
+  },
+  {
+   "name": "1920x1080_g5_711_Tape_Recorder",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 1080,
+   "zip": "template_peppy/1920/1080/1920x1080_g5_711_Tape_Recorder.zip",
+   "bytes": 51410150,
+   "sha256": "cc190c5d95da69c6faf2a4ea2cb733759b9decae70a38232c3d275ac583d0a9e",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_g5_711_Tape_Recorder/",
+     "folder": "1920x1080_g5_711_Tape_Recorder",
+     "names": [
+      "151G5_Akai77 black",
+      "152G5_Akai77_silver",
+      "153G5_Studer A810",
+      "154G5_PioneerRT707_silver",
+      "155G5_Antelope Reel",
+      "156G5_Otari Reel",
+      "157G5_Revox B77",
+      "158G5_Tascam Rec",
+      "159G5_Technics Rec",
+      "159G5_Metaxas Rec",
+      "210G5_Sony TC730",
+      "211G5_Akai GX635",
+      "212G5_TapeAK",
+      "213G5_Fostex Rec",
+      "214G5_TapeAMP",
+      "215G5_Koncert M3401",
+      "216G5_Akai PRO1000",
+      "217G5_MION24",
+      "218G5_Teac X2000",
+      "219G5_Tandberg OLD"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/1080/previews/1920x1080_g5_711_Tape_Recorder.png",
+   "thumb": "catalog/thumbs/1920x1080_g5_711_Tape_Recorder.jpg"
+  },
+  {
+   "name": "1920x1080_g5_712_Cassette",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 1080,
+   "zip": "template_peppy/1920/1080/1920x1080_g5_712_Cassette.zip",
+   "bytes": 36036655,
+   "sha256": "f7cef13270e40e417167054ea7fd5d8ef4f3552a89ae5f97c8850d7c004cbb21",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_g5_712_Cassette/",
+     "folder": "1920x1080_g5_712_Cassette",
+     "names": [
+      "161G5_Pioneer Cassette",
+      "162G5_TDK cassette",
+      "163G5_TEAC cassette",
+      "164G5_Maxell Cassette",
+      "165G5_BASF Free",
+      "166G5_Cassette_Circular",
+      "167G5_Cassette_Linear",
+      "168G5_Philips Cassette",
+      "169G5_Denon DR650",
+      "170G5_SonyK770 cassette",
+      "240G5_MION24C",
+      "241G5_Kenwood cassette",
+      "242G5_Sharp",
+      "243G5_Sansui Cassette",
+      "244G5_Pioneer CT_F1250"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/1080/previews/1920x1080_g5_712_Cassette.png",
+   "thumb": "catalog/thumbs/1920x1080_g5_712_Cassette.jpg"
+  },
+  {
+   "name": "1920x1080_g5_713_CD",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 1080,
+   "zip": "template_peppy/1920/1080/1920x1080_g5_713_CD.zip",
+   "bytes": 32467267,
+   "sha256": "52d66ad75a8a3b3806b44cceaf7d77ca71e95a2ffa1893fa21072806d8d384a2",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_g5_713_CD/",
+     "folder": "1920x1080_g5_713_CD",
+     "names": [
+      "171G5_Sony557 Full",
+      "172G5_Sony557 Cust",
+      "173G5_CD Player Full",
+      "174G5_CD Player Cust",
+      "175G5_Emerson Full",
+      "176G5_Emerson Cust",
+      "177G5_Dunu Cust",
+      "178G5_Thinkya Cust",
+      "179G5_Shanling Cust",
+      "180G5_Syitren Cust",
+      "260G5_CD Black",
+      "261G5_CD HOTT",
+      "262G5_Jadis",
+      "262G5_02_Jadis",
+      "263G5_Emerson MS3",
+      "263G5_02_Emerson MS3"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/1080/previews/1920x1080_g5_713_CD.png",
+   "thumb": "catalog/thumbs/1920x1080_g5_713_CD.jpg"
+  },
+  {
+   "name": "1920x1080_g5_FanarTurntable",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 1080,
+   "zip": "template_peppy/1920/1080/1920x1080_g5_FanarTurntable.zip",
+   "bytes": 25239426,
+   "sha256": "cea156be27397a6eded60187288704ee2b8c9803cfe250ecd23751f8a9705fc9",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_g5_FanarTurntable/",
+     "folder": "1920x1080_g5_FanarTurntable",
+     "names": [
+      "350G5_Denon DP62 Fanart",
+      "351G5_Denon DP400 Fanart",
+      "352G5_Pioneer Gold Fanart",
+      "353G5_Technics Silver Fanart",
+      "354G5_Thorens Fanart",
+      "355G5_Grandioso Fanart",
+      "356G5_Vertere Fanart",
+      "357G5_McIntosh MTI100 Fanart",
+      "358G5_Naim Turn Fanart",
+      "359G5_Turn Black_Fanart",
+      "360G5_Turn Big Fanart",
+      "361G5_Turn Big Fanart"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/1080/previews/1920x1080_g5_FanarTurntable.png",
+   "thumb": "catalog/thumbs/1920x1080_g5_FanarTurntable.jpg"
+  },
+  {
+   "name": "1920x1080_g5_FanartCD",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 1080,
+   "zip": "template_peppy/1920/1080/1920x1080_g5_FanartCD.zip",
+   "bytes": 20894094,
+   "sha256": "4cb8156a5a1424946020948bcea92d5d098b8131a7d5be6b462463a3382a87de",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_g5_FanartCD/",
+     "folder": "1920x1080_g5_FanartCD",
+     "names": [
+      "300G5_Shanling Fanart",
+      "301G5_Kenwood Fanart",
+      "302G5_McIntosh Fanart",
+      "303G5_Vertere Fanart",
+      "304G5_Kenwood Ver_Fanart",
+      "305G5_LG_Syitren Fanart",
+      "306G5_LG_Thinkya Fanart",
+      "307G5_FreeCD Fanart",
+      "308G5_ONLY Fanart",
+      "309G5_Mion_Fanart",
+      "310G5_CD Big Fanart",
+      "311G5_CD2 Big Fanart"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/1080/previews/1920x1080_g5_FanartCD.png",
+   "thumb": "catalog/thumbs/1920x1080_g5_FanartCD.jpg"
+  },
+  {
+   "name": "1920x1080_g5_FanartCass",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 1080,
+   "zip": "template_peppy/1920/1080/1920x1080_g5_FanartCass.zip",
+   "bytes": 26915153,
+   "sha256": "9ead1383b874a0ff89a16d97fdc20a6fbadb2875aa8cb8f34b3e237de06c37cc",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_g5_FanartCass/",
+     "folder": "1920x1080_g5_FanartCass",
+     "names": [
+      "370G5_Cassette_Lin Fanart",
+      "371G5_TEAC cass Fanart",
+      "372G5_Maxell Cass Fanart",
+      "373G5_BASF Free Fanart",
+      "374G5_Denon Cass Fanart",
+      "375G5_SonyK770 cass Fanart",
+      "376G5_MION24C Fanart",
+      "377G5_Kenwood cass Fanart",
+      "378G5_Sharp Cass Fanart",
+      "379G5_Sansui Cass Fanart",
+      "380G5_TDK Big Fanart",
+      "381G5_Maxell Big Fanart"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/1080/previews/1920x1080_g5_FanartCass.png",
+   "thumb": "catalog/thumbs/1920x1080_g5_FanartCass.jpg"
+  },
+  {
+   "name": "1920x1080_g5_FanartTape",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 1080,
+   "zip": "template_peppy/1920/1080/1920x1080_g5_FanartTape.zip",
+   "bytes": 45342001,
+   "sha256": "823b0a0d31312b9f1a292665cc2cd2121b770163eb95d6397f3eecc48930522b",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_g5_FanartTape/",
+     "folder": "1920x1080_g5_FanartTape",
+     "names": [
+      "400G5_Akai77 black",
+      "401G5_Akai77_silver",
+      "402G5_Studer A810",
+      "403G5_PioneerRT707_silver",
+      "404G5_Antelope Reel",
+      "405G5_Otari Reel",
+      "406G5_Revox B77",
+      "407G5_Tascam Rec",
+      "408G5_Technics Rec",
+      "409G5_Metaxas Rec",
+      "410G5_Sony TC730",
+      "411G5_Akai GX635",
+      "412G5_TapeAK",
+      "413G5_Koncert M3401",
+      "414G5_MION24",
+      "415G5_Teac X2000"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/1080/previews/1920x1080_g5_FanartTape.png",
+   "thumb": "catalog/thumbs/1920x1080_g5_FanartTape.jpg"
+  },
+  {
+   "name": "1920x1080_g5_RADIO",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 1080,
+   "zip": "template_peppy/1920/1080/1920x1080_g5_RADIO.zip",
+   "bytes": 35115055,
+   "sha256": "5207d6694e50540162c33c1f31420c7ee360f5c6374e9fed804e4f1c610dafa3",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_g5_RADIO/",
+     "folder": "1920x1080_g5_RADIO",
+     "names": [
+      "500G5_Meier",
+      "501G5_McIntosh FM",
+      "502G5_Retro",
+      "503G5_Albrecht",
+      "504G5_Marantz FM",
+      "505G5_Technisat",
+      "506G5_Audizio FM",
+      "507G5_Teufel",
+      "508G5_Hyundai",
+      "509G5_Technisat Silver",
+      "510G5_Blaupunkt FM",
+      "511G5_Pure DAB",
+      "512G5_Imperial YT",
+      "513G5_Roadstar",
+      "514G5_Auna FM",
+      "515G5_Denver"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/1080/previews/1920x1080_g5_RADIO.png",
+   "thumb": "catalog/thumbs/1920x1080_g5_RADIO.jpg"
+  },
+  {
+   "name": "1920x1080_reel_tape",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 1080,
+   "zip": "template_peppy/1920/1080/1920x1080_reel_tape.zip",
+   "bytes": 4035216,
+   "sha256": "fb47699b03be044fbc5949119ce8d20cd578e59415e1b94209f2958e93285015",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_reel_tape/",
+     "folder": "1920x1080_reel_tape",
+     "names": [
+      "1920x1080_ReelTape"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/1080/previews/1920x1080_reel_tape.png",
+   "thumb": "catalog/thumbs/1920x1080_reel_tape.jpg"
+  },
+  {
+   "name": "1920x440_Aluminium_01",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 440,
+   "zip": "template_peppy/1920/440/1920x440_Aluminium_01.zip",
+   "bytes": 1268775,
+   "sha256": "c6aba131cbb3835a4711c404c1afd4e72dd1784c65144cf4e6f41c2929bb6b62",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "",
+     "folder": "1920x440_Aluminium_01",
+     "names": [
+      "Aluminium_01"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/440/previews/1920x440_Aluminium_01.png",
+   "thumb": "catalog/thumbs/1920x440_Aluminium_01.jpg"
+  },
+  {
+   "name": "1920x440_Aureon",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 440,
+   "zip": "template_peppy/1920/440/1920x440_Aureon.zip",
+   "bytes": 484523,
+   "sha256": "28cb7c4340f869cd0deb91143b0d27715a89113a77dd4729bf0a54816a905e61",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "",
+     "folder": "1920x440_Aureon",
+     "names": [
+      "Aureon"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/440/previews/1920x440_Aureon.png",
+   "thumb": "catalog/thumbs/1920x440_Aureon.jpg"
+  },
+  {
+   "name": "1920x440_Carbon_Black",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 440,
+   "zip": "template_peppy/1920/440/1920x440_Carbon_Black.zip",
+   "bytes": 1309589,
+   "sha256": "9ff270f91418409a7e9be788f1107cfb5be14306834acf9e1a8e73f21b7187bc",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "",
+     "folder": "1920x440_Carbon_Black",
+     "names": [
+      "Carbon_Black"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/440/previews/1920x440_Carbon_Black.png",
+   "thumb": "catalog/thumbs/1920x440_Carbon_Black.jpg"
+  },
+  {
+   "name": "1920x440_Matrix_TS1",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 440,
+   "zip": "template_peppy/1920/440/1920x440_Matrix_TS1.zip",
+   "bytes": 423733,
+   "sha256": "06e7fd21ed75aefc98351c815f0805b6d94a3f5000688aedd560d09916d01088",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x440_Matrix_TS1/",
+     "folder": "1920x440_Matrix_TS1",
+     "names": [
+      "Matrix_TS1"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/440/previews/1920x440_Matrix_TS1.png",
+   "thumb": "catalog/thumbs/1920x440_Matrix_TS1.jpg"
+  },
+  {
+   "name": "1920x440_Rega_Planar_8",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 440,
+   "zip": "template_peppy/1920/440/1920x440_Rega_Planar_8.zip",
+   "bytes": 1788285,
+   "sha256": "f50558479ffef9e346529dad5b874240580b914d7e764525ac77295f82751ce8",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "",
+     "folder": "1920x440_Rega_Planar_8",
+     "names": [
+      "Rega_Planar_8"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/440/previews/1920x440_Rega_Planar_8.png",
+   "thumb": "catalog/thumbs/1920x440_Rega_Planar_8.jpg"
+  },
+  {
+   "name": "1920x440_Rose_RS451",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 440,
+   "zip": "template_peppy/1920/440/1920x440_Rose_RS451.zip",
+   "bytes": 571803,
+   "sha256": "e750d347f35d9466e72d721c7a333bc31778591b24d13060b5f55edfe0cfbee0",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x440_Rose_RS451/",
+     "folder": "1920x440_Rose_RS451",
+     "names": [
+      "Rose_RS451"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/440/previews/1920x440_Rose_RS451.png",
+   "thumb": "catalog/thumbs/1920x440_Rose_RS451.jpg"
+  },
+  {
+   "name": "1920x480_30g5_810",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 480,
+   "zip": "template_peppy/1920/480/1920x480_30g5_810.zip",
+   "bytes": 30355458,
+   "sha256": "99de099ce686931061a553ae61d2f85ca46407d3f0938a6381a999e2e2e397e1",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x480_g5_810/",
+     "folder": "1920x480_g5_810",
+     "names": [
+      "01G5_Naim",
+      "02G5_McIntosh C12000",
+      "03G5_Accuphase E8000 Led",
+      "04G5_Brianworks",
+      "05G5_Advanced X220",
+      "06G5_Old Meter",
+      "07G5_NAD C3050",
+      "08G5_Hitachi HMA7500",
+      "09G5_Kenwood Rev",
+      "10G5_Accuphase Rev",
+      "11G5_Accuphase",
+      "12G5_Luxman",
+      "13G5_BlackBlur",
+      "14G5_Turntable Black",
+      "15G5_Sansui Vertical",
+      "16G5_Sansui Horizontal",
+      "17G5_Sleepy",
+      "18G5_Dorrough",
+      "19G5_Kruger&Matz",
+      "20G5_Dagostino",
+      "21G5_Technics Silver",
+      "22G5_Technics Black",
+      "23G5_Technics Gold",
+      "24G5_Marantz CD",
+      "25G5_Led Strips",
+      "26G5_Casette Full",
+      "27G5_Saba",
+      "28G5_Furex",
+      "29G5_Loudspeaker_OUT",
+      "30G5_Eher"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/480/previews/1920x480_30g5_810.png",
+   "thumb": "catalog/thumbs/1920x480_30g5_810.jpg"
+  },
+  {
+   "name": "1920x480_g5_811_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 480,
+   "zip": "template_peppy/1920/480/1920x480_g5_811_meters.zip",
+   "bytes": 11361223,
+   "sha256": "49880826ea073a10e06aaa01bc04ef394018880dbc053970e2a35c349055759c",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x480_g5_811_meters/",
+     "folder": "1920x480_g5_811_meters",
+     "names": [
+      "101G5_Turntable Black",
+      "102G5_Ampex Reel",
+      "103G5_Pioneer Gold",
+      "104G5_CD Player Full",
+      "105G5_Yamaha Cassette",
+      "106G5_Otari Reel",
+      "107G5_TDK Reel",
+      "108G5_Akai 77",
+      "109G5_Cassette_Linear"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/480/previews/1920x480_g5_811_meters.png",
+   "thumb": "catalog/thumbs/1920x480_g5_811_meters.jpg"
+  },
+  {
+   "name": "1920x480_g5_820_basic",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 480,
+   "zip": "template_peppy/1920/480/1920x480_g5_820_basic.zip",
+   "bytes": 5611425,
+   "sha256": "2397fc3f1c84fc028777495dcb67687105382318d338234ad6cc2321469209bf",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x480_g5_820_basic/",
+     "folder": "1920x480_g5_820_basic",
+     "names": [
+      "31G5_NAD only meters",
+      "32G5_Nakamichi only meters",
+      "33G5_DF202 Only meters",
+      "34G5_T+A",
+      "35G5_Luxman ONLY",
+      "36G5_Namson Only",
+      "37G5_Angstrom only",
+      "38G5_Caltecc ony meters"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/480/previews/1920x480_g5_820_basic.png",
+   "thumb": "catalog/thumbs/1920x480_g5_820_basic.jpg"
+  },
+  {
+   "name": "1920x515_g5_901_mbasic",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 515,
+   "zip": "template_peppy/1920/515/1920x515_g5_901_mbasic.zip",
+   "bytes": 21202506,
+   "sha256": "d01c3ebb8fb6214f80f81e36b7c66aec51cb8b2edd56e2ef7c6c88117cca9ae2",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x515_g5_901_mbasic/",
+     "folder": "1920x515_g5_901_mbasic",
+     "names": [
+      "01G5_BlackBlur ONLY",
+      "02G5_Naim ONLY",
+      "03G5_Sansui Ver ONLY",
+      "04G5_Luxman ONLY",
+      "05G5_Angstrom only",
+      "06G5_NAD only meters",
+      "07G5_Audio Research Only",
+      "08G5_Hitachi7500 ONLY",
+      "09G5_Kenwood Rev ONLY",
+      "10G5_Dark Spot Only",
+      "11G5_DF202 Only",
+      "12G5_Tonnica ONLY",
+      "13G5_Eher ONLY",
+      "14G5_Weston ONLY",
+      "15G5_SG ONLY",
+      "16G5_Gemonti ONLY",
+      "17G5_Philmore Only",
+      "18G5_Namson Only",
+      "19G5_Nakamichi only",
+      "20G5_AKAI Rev"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/515/previews/1920x515_g5_901_mbasic.png",
+   "thumb": "catalog/thumbs/1920x515_g5_901_mbasic.jpg"
+  },
+  {
+   "name": "1920x515_g5_902_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 515,
+   "zip": "template_peppy/1920/515/1920x515_g5_902_meters.zip",
+   "bytes": 20765827,
+   "sha256": "791d895b191134bf83abe51e195757bb850f4cd2120d787f3b10d8d172cacf3c",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x515_g5_902_meters/",
+     "folder": "1920x515_g5_902_meters",
+     "names": [
+      "21G5_Accuphase",
+      "22G5_Accuphase E8000 Led",
+      "23G5_Accuphase E380",
+      "24G5_Accuphase Rev",
+      "25G5_Advanced EVO",
+      "26G5_Advanced X220",
+      "27G5_Brianworks",
+      "28G5_Hitachi HMA7500",
+      "29G5_Kenwood Rev",
+      "30G5_McIntosh Hybrid",
+      "31G5_McIntosh C12000",
+      "32G5_McIntosh Rev",
+      "33G5_Naim Rev",
+      "34G5_Naim",
+      "35G5_Krell",
+      "36G5_Krell KAS",
+      "37G5_Klanghelm",
+      "38G5_Klangheim Mojo",
+      "39G5_TURNTABLE Black",
+      "40G5_Line Magnetic"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/515/previews/1920x515_g5_902_meters.png",
+   "thumb": "catalog/thumbs/1920x515_g5_902_meters.jpg"
+  },
+  {
+   "name": "1920x515_g5_903_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 515,
+   "zip": "template_peppy/1920/515/1920x515_g5_903_meters.zip",
+   "bytes": 15394962,
+   "sha256": "23ef2edbbe5527b2d1b3ecdd4312ef6b95a036da6b10c9210e1588514bf1d122",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x515_g5_903_meters/",
+     "folder": "1920x515_g5_903_meters",
+     "names": [
+      "41G5_Electrocompanient",
+      "42G5_Casette Full",
+      "43G5_Cayin",
+      "44G5_Dorrough Border Braun",
+      "45G5_Dorrough Vertical",
+      "46G5_Eversolo",
+      "47G5_Led Strips",
+      "48G5_Marantz CD",
+      "49G5_Marshall",
+      "50G5_Modern",
+      "51G5_Mytek",
+      "52G5_PioneerCT LED",
+      "53G5_Radmor 5412",
+      "54G5_Rose IN",
+      "55G5_Rose OUT",
+      "56G5_Rose3 Line",
+      "57G5_Sansui Horizontal",
+      "58G5_Sansui Vertical",
+      "59G5_Teac Cassette",
+      "60G5_Telefunken Line"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/515/previews/1920x515_g5_903_meters.png",
+   "thumb": "catalog/thumbs/1920x515_g5_903_meters.jpg"
+  },
+  {
+   "name": "1920x515_g5_904_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 515,
+   "zip": "template_peppy/1920/515/1920x515_g5_904_meters.zip",
+   "bytes": 22490325,
+   "sha256": "42878d8e3b09a02d00faf2043c8c5203ecd8083826bff490c6508cf2598a5ebe",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x515_g5_904_meters/",
+     "folder": "1920x515_g5_904_meters",
+     "names": [
+      "61G5_Alvin",
+      "62G5_Angstrom Black",
+      "63G5_Audio Research 160S",
+      "64G5_BlackBlur",
+      "65G5_EAM",
+      "66G5_Kruger&Matz Rev",
+      "67G5_Leben",
+      "68G5_Luxman",
+      "69G5_Magnetcord",
+      "70G5_NAD M10",
+      "71G5_NAD C3050",
+      "72G5_Namson",
+      "73G5_T+A 3100HV Silver",
+      "74G5_T+A 3000HV",
+      "75G5_Technics Black",
+      "76G5_Technics Silver",
+      "77G5_Technics Gold",
+      "78G5_Simens",
+      "79G5_Sleepy",
+      "80G5_Weston"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/515/previews/1920x515_g5_904_meters.png",
+   "thumb": "catalog/thumbs/1920x515_g5_904_meters.jpg"
+  },
+  {
+   "name": "1920x515_g5_905_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 515,
+   "zip": "template_peppy/1920/515/1920x515_g5_905_meters.zip",
+   "bytes": 21309190,
+   "sha256": "1cd2b147ad02ef234fd9bfdc723efe2ded6b2b37f5f5d6e484ae9330598c84b1",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x515_g5_905_meters/",
+     "folder": "1920x515_g5_905_meters",
+     "names": [
+      "81G5_Sony TAN777",
+      "82G5_Sony Cassette",
+      "83G5_Old Meter",
+      "84G5_Tonnica",
+      "85G5_Kenwood Deck",
+      "86G5_Vintage Line",
+      "87G5_Onkyo 5570",
+      "88G5_Mono Blue",
+      "89G5_Mono Green",
+      "90G5_Radmor Rev",
+      "91G5_Eher",
+      "92G5_Nixie 1",
+      "93G5_Nixie 2",
+      "94G5_Sound90",
+      "95G5_SG",
+      "96G5_Gemonti",
+      "97G5_Philmore",
+      "98G5_VU Single",
+      "99G5_Sound90 BIG"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/515/previews/1920x515_g5_905_meters.png",
+   "thumb": "catalog/thumbs/1920x515_g5_905_meters.jpg"
+  },
+  {
+   "name": "1920x515_g5_910_turntables",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 515,
+   "zip": "template_peppy/1920/515/1920x515_g5_910_turntables.zip",
+   "bytes": 17767999,
+   "sha256": "aeeefdead899f62bcf24253de9c04d0183da6f714aeb0103b68e888e1b4b855b",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x515_g5_910_turntables/",
+     "folder": "1920x515_g5_910_turntables",
+     "names": [
+      "101G5_02_Pioneer Gold",
+      "101G5_03_Pioneer Gold",
+      "102G5_Denon DP62",
+      "103G5_Denon DP400",
+      "104G5_Thorens",
+      "104G5_02_Thorens",
+      "105G5_TURNTABLE Black",
+      "106G5_McIntosh MTI100",
+      "106G5_02_McIntosh MTI100",
+      "107G5_Grandioso",
+      "108G5_Crosley Turntable",
+      "108G5_02_Crosley Turntable",
+      "109G5_Gramovox",
+      "110G5_SME60",
+      "110G5_02_SME60",
+      "111G5_Vertere Turn",
+      "111G5_02_Vertere Turn",
+      "112G5_TechDas"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/515/previews/1920x515_g5_910_turntables.png",
+   "thumb": "catalog/thumbs/1920x515_g5_910_turntables.jpg"
+  },
+  {
+   "name": "1920x515_g5_913_Cassette",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 515,
+   "zip": "template_peppy/1920/515/1920x515_g5_913_Cassette.zip",
+   "bytes": 12527862,
+   "sha256": "7fcc6de818c91b0f8951400b5c01bb05caeebf888d64a908d4ab57c180a51f1e",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x515_g5_913_Cassette/",
+     "folder": "1920x515_g5_913_Cassette",
+     "names": [
+      "130G5_Cassette_Linear",
+      "131G5_Cassette Pioneer",
+      "132G5_Fisher cassette",
+      "133G5_Yamaha",
+      "134G5_TEAC cassette",
+      "135G5_BASF Free",
+      "136G5_Sansui Cassette",
+      "137G5_TDK cassette",
+      "138G5_TEAC Full",
+      "139G5_Denon DR650"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/515/previews/1920x515_g5_913_Cassette.png",
+   "thumb": "catalog/thumbs/1920x515_g5_913_Cassette.jpg"
+  },
+  {
+   "name": "1920x515_g5_915_Tape_Recorder",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 515,
+   "zip": "template_peppy/1920/515/1920x515_g5_915_Tape_Recorder.zip",
+   "bytes": 14239886,
+   "sha256": "d6c04e2be32625f6000bf9e93cb573bb014b06d9409cbd322d872d61e0b431ea",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x515_g5_915_Tape_Recorder/",
+     "folder": "1920x515_g5_915_Tape_Recorder",
+     "names": [
+      "150G5_Studer A810",
+      "151G5_Ampex Reel",
+      "152G5_Otari Reel",
+      "153G5_TDK Reel",
+      "154G5_Akai 77",
+      "155G5_Akai77_silver",
+      "156G5_TapeAK",
+      "157G5_Fostex Rec",
+      "158G5_Revox B77",
+      "159G5_MION24"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/515/previews/1920x515_g5_915_Tape_Recorder.png",
+   "thumb": "catalog/thumbs/1920x515_g5_915_Tape_Recorder.jpg"
+  },
+  {
+   "name": "1920x515_g5_917_CD",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 515,
+   "zip": "template_peppy/1920/515/1920x515_g5_917_CD.zip",
+   "bytes": 13156178,
+   "sha256": "ed18ed64269420de5e40d0a67c9add6b50d5cd1b03518d0f2eeb98d2fc86af07",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x515_g5_917_CD/",
+     "folder": "1920x515_g5_917_CD",
+     "names": [
+      "190G5_CD Player Full",
+      "190G5_02_CD Player Full",
+      "191G5_DUNU",
+      "192G5_Shanling Cust",
+      "193G5_Syitren Cust",
+      "193G5_02_Syitren",
+      "194G5_Thinkya Cust",
+      "195G5_CD Black",
+      "195G5_02_CD Black",
+      "196G5_Emerson MS3"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/515/previews/1920x515_g5_917_CD.png",
+   "thumb": "catalog/thumbs/1920x515_g5_917_CD.jpg"
+  },
+  {
+   "name": "1920x515_g5_FanartCD",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 515,
+   "zip": "template_peppy/1920/515/1920x515_g5_FanartCD.zip",
+   "bytes": 10187714,
+   "sha256": "0010ef794d65e8cf77206e733a3e927266cbea18a47bab4d48ab10b5eb60eea7",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x515_g5_FanartCD/",
+     "folder": "1920x515_g5_FanartCD",
+     "names": [
+      "300G5_CD Fanart",
+      "301G5_Thinkya Fanart",
+      "302G5_NaimCD Fanart",
+      "303G5_DUNU Fanart",
+      "304G5_HOTT Fanart",
+      "305G5_TechDas Fanart",
+      "306G5_Denon DP400 Fanart",
+      "307G5_Turntable Fanart",
+      "308G5_SME60 Fanart",
+      "309G5_Akai PRO Fanart"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/515/previews/1920x515_g5_FanartCD.png",
+   "thumb": "catalog/thumbs/1920x515_g5_FanartCD.jpg"
+  },
+  {
+   "name": "1920x550_g5_901_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 550,
+   "zip": "template_peppy/1920/550/1920x550_g5_901_meters.zip",
+   "bytes": 12986510,
+   "sha256": "3923e6074f5cb999beec76de6594bcbf1c85b9fb0e729e0669d3530982aa83ba",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x550_g5_901_meters/",
+     "folder": "1920x550_g5_901_meters",
+     "names": [
+      "01G5_AKAI Rev",
+      "02G5_Casette Full",
+      "03G5_Hitachi HMA7500",
+      "04G5_Kenwood Rev",
+      "05G5_Kenwood Deck",
+      "06G5_McIntosh Hybrid",
+      "07G5_NAD C3050",
+      "08G5_Naim",
+      "09G5_Old Meter",
+      "10G5_Sansui Horizontal"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/550/previews/1920x550_g5_901_meters.png",
+   "thumb": "catalog/thumbs/1920x550_g5_901_meters.jpg"
+  },
+  {
+   "name": "1920x550_g5_902_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 550,
+   "zip": "template_peppy/1920/550/1920x550_g5_902_meters.zip",
+   "bytes": 9153496,
+   "sha256": "ec24e44a13402e8f4d0e5988a8f3fb4336f8cad2495dd30bddbb708a52f81e25",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x550_g5_902_meters/",
+     "folder": "1920x550_g5_902_meters",
+     "names": [
+      "100G5_Led Strips",
+      "101G5_Technics Black",
+      "102G5_Technics Silver",
+      "103G5_Technics Gold",
+      "104G5_Pioneer Gold",
+      "105G5_Ampex Reel",
+      "106G5_TDK Reel",
+      "107G5_Yamaha CD",
+      "108G5_Cassette_Linear"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/550/previews/1920x550_g5_902_meters.png",
+   "thumb": "catalog/thumbs/1920x550_g5_902_meters.jpg"
+  },
+  {
+   "name": "1920x550_g5_910_turntables",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 550,
+   "zip": "template_peppy/1920/550/1920x550_g5_910_turntables.zip",
+   "bytes": 15991592,
+   "sha256": "2866c7f78b4029509888eba1529967b79a56069d6f705fa3eec4bcda3eab32a6",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x550_g5_910_turntables/",
+     "folder": "1920x550_g5_910_turntables",
+     "names": [
+      "101G5_02_Pioneer Gold",
+      "101G5_03_Pioneer Gold",
+      "102G5_Denon DP62",
+      "103G5_Denon DP400",
+      "104G5_Thorens",
+      "104G5_02_Thorens",
+      "105G5_TURNTABLE Black",
+      "106G5_McIntosh MTI100",
+      "106G5_02_McIntosh MTI100",
+      "107G5_Grandioso",
+      "108G5_Crosley Turntable",
+      "108G5_02_Crosley Turntable",
+      "109G5_Gramovox",
+      "110G5_SME60",
+      "110G5_02_SME60",
+      "111G5_Vertere Turn",
+      "111G5_02_Vertere Turn",
+      "112G5_TechDas"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/550/previews/1920x550_g5_910_turntables.png",
+   "thumb": "catalog/thumbs/1920x550_g5_910_turntables.jpg"
+  },
+  {
+   "name": "1920x550_g5_913_Cassette",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 550,
+   "zip": "template_peppy/1920/550/1920x550_g5_913_Cassette.zip",
+   "bytes": 13034321,
+   "sha256": "a6b4969c415333e3cab0b1fd6c4ca37f76cffacaece51dd02331f833e7cd28f0",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x550_g5_913_Cassette/",
+     "folder": "1920x550_g5_913_Cassette",
+     "names": [
+      "130G5_Cassette_Linear",
+      "131G5_Cassette Pioneer",
+      "132G5_Fisher cassette",
+      "133G5_Yamaha",
+      "134G5_TEAC cassette",
+      "135G5_BASF Free",
+      "136G5_Sansui Cassette",
+      "137G5_TDK cassette",
+      "138G5_TEAC Full",
+      "139G5_Denon DR650"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/550/previews/1920x550_g5_913_Cassette.png",
+   "thumb": "catalog/thumbs/1920x550_g5_913_Cassette.jpg"
+  },
+  {
+   "name": "1920x550_g5_915_Tape_Recorder",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 550,
+   "zip": "template_peppy/1920/550/1920x550_g5_915_Tape_Recorder.zip",
+   "bytes": 14935166,
+   "sha256": "9c1c49299dfff04cec9b11645d39aa74644847f592e03f55fed8471ea7e3d666",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x550_g5_915_Tape_Recorder/",
+     "folder": "1920x550_g5_915_Tape_Recorder",
+     "names": [
+      "150G5_Studer A810",
+      "151G5_Ampex Reel",
+      "152G5_Otari Reel",
+      "153G5_TDK Reel",
+      "154G5_Akai 77",
+      "155G5_Akai77_silver",
+      "156G5_TapeAK",
+      "157G5_Fostex Rec",
+      "158G5_Revox B77",
+      "159G5_MION24"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/550/previews/1920x550_g5_915_Tape_Recorder.png",
+   "thumb": "catalog/thumbs/1920x550_g5_915_Tape_Recorder.jpg"
+  },
+  {
+   "name": "1920x550_g5_917_CD",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 550,
+   "zip": "template_peppy/1920/550/1920x550_g5_917_CD.zip",
+   "bytes": 11161139,
+   "sha256": "c6dce09f4d5fb4956123488b34ecadc9704b67e9f006643a88076df806e273cd",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x550_g5_917_CD/",
+     "folder": "1920x550_g5_917_CD",
+     "names": [
+      "190G5_CD Player Full",
+      "190G5_02_CD Player Full",
+      "191G5_DUNU",
+      "192G5_Shanling Cust",
+      "193G5_Syitren Cust",
+      "193G5_02_Syitren",
+      "194G5_Thinkya Cust",
+      "195G5_CD Black",
+      "195G5_02_CD Black",
+      "196G5_Emerson MS3"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/550/previews/1920x550_g5_917_CD.png",
+   "thumb": "catalog/thumbs/1920x550_g5_917_CD.jpg"
+  },
+  {
+   "name": "1920x550_g5_FanartCD",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 550,
+   "zip": "template_peppy/1920/550/1920x550_g5_FanartCD.zip",
+   "bytes": 11254068,
+   "sha256": "6687395be5f77ee7c2b3e8883adb8a1faa8ea7a47157404086f87f4be841aa83",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x550_g5_FanartCD/",
+     "folder": "1920x550_g5_FanartCD",
+     "names": [
+      "300G5_CD Fanart",
+      "301G5_Thinkya Fanart",
+      "302G5_NaimCD Fanart",
+      "303G5_DUNU Fanart",
+      "304G5_HOTT Fanart",
+      "305G5_TechDas Fanart",
+      "306G5_Denon DP400 Fanart",
+      "307G5_Turntable Fanart",
+      "308G5_SME60 Fanart",
+      "309G5_Akai PRO Fanart"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/550/previews/1920x550_g5_FanartCD.png",
+   "thumb": "catalog/thumbs/1920x550_g5_FanartCD.jpg"
+  },
+  {
+   "name": "1920x720_g5_701_meters",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 1920,
+   "height": 720,
+   "zip": "template_peppy/1920/720/1920x720_g5_701_meters.zip",
+   "bytes": 9950280,
+   "sha256": "00fc83852ab7480f660a11cca2479bf8ef9d8a346b87d8bdbf4dc4dc621b0f47",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x720_g5_701_meters/",
+     "folder": "1920x720_g5_701_meters",
+     "names": [
+      "01G5_Technics Gold",
+      "02G5_Kenwood Reverse",
+      "03G5_Naim green",
+      "04G5_Sansui 2V",
+      "05G5_McIntosh Hybrid",
+      "06G5_Otari Reel",
+      "07G5_TURNTABLE Black",
+      "08G5_Akai 77"
+     ]
+    }
+   ],
+   "preview": "template_peppy/1920/720/previews/1920x720_g5_701_meters.png",
+   "thumb": "catalog/thumbs/1920x720_g5_701_meters.jpg"
+  },
+  {
+   "name": "3840x2160_140g5_casette_780",
+   "category": "template_peppy",
+   "kind": "meter",
+   "width": 3840,
+   "height": 2160,
+   "zip": "template_peppy/3840/2160/3840x2160_140g5_casette_780.zip",
+   "bytes": 2610974,
+   "sha256": "eb68d0f7a0057937026ffbd1f0627ec92a06e538965976e99580d53163db14fd",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "3840x2160_140g5_casette_780/",
+     "folder": "3840x2160_140g5_casette_780",
+     "names": [
+      "140G5_Full_Cassette"
+     ]
+    }
+   ],
+   "preview": "template_peppy/3840/2160/previews/3840x2160_140g5_casette_780.png",
+   "thumb": "catalog/thumbs/3840x2160_140g5_casette_780.jpg"
+  },
+  {
+   "name": "800x480_as200-1custom_12",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 800,
+   "height": 480,
+   "zip": "templates_peppy_spectrum/0800/480/800x480_as200-1custom_12.zip",
+   "bytes": 1693062,
+   "sha256": "39299f0422b1c7ecfb2afb0a6d0d87a3049c3a12d4032f64c50196bb66908009",
+   "units": [
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "800x480_as200-1custom_12/templates_spectrum/800x480_as200-1custom_12/",
+     "folder": "800x480_as200-1custom_12",
+     "names": [
+      "as200-1"
+     ]
+    },
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_as200-1custom_12/templates/800x480_as200-1custom_12/",
+     "folder": "800x480_as200-1custom_12",
+     "names": [
+      "AudioResearch-S200-1"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/0800/480/previews/800x480_as200-1custom_12.png",
+   "thumb": "catalog/thumbs/800x480_as200-1custom_12.jpg"
+  },
+  {
+   "name": "800x480_as200custom_11",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 800,
+   "height": 480,
+   "zip": "templates_peppy_spectrum/0800/480/800x480_as200custom_11.zip",
+   "bytes": 1936575,
+   "sha256": "6d2b9f1349ba435b423e800bd6a7707523e4bb30159429f65efe93eec214d7e7",
+   "units": [
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "800x480_as200custom_11/templates_spectrum/800x480_as200custom_11/",
+     "folder": "800x480_as200custom_11",
+     "names": [
+      "ar-s200"
+     ]
+    },
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_as200custom_11/templates/800x480_as200custom_11/",
+     "folder": "800x480_as200custom_11",
+     "names": [
+      "AudioResearch-S200-2"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/0800/480/previews/800x480_as200custom_11.png",
+   "thumb": "catalog/thumbs/800x480_as200custom_11.jpg"
+  },
+  {
+   "name": "800x480_dan_dagostino_mlife",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 800,
+   "height": 480,
+   "zip": "templates_peppy_spectrum/0800/480/800x480_dan_dagostino_mlife.zip",
+   "bytes": 895140,
+   "sha256": "823a6486feb0c01b8e6d33813ac25ad56c601cb8d047dad8e378609e483acf91",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_dan_dagostino_mlife/templates/",
+     "folder": "800x480_dan_dagostino_mlife",
+     "names": [
+      "dan_dagostino_mlife"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "800x480_dan_dagostino_mlife/templates_spectrum/",
+     "folder": "800x480_dan_dagostino_mlife",
+     "names": [
+      "dan_dagostimo_mlife"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/0800/480/previews/800x480_dan_dagostino_mlife.png",
+   "thumb": "catalog/thumbs/800x480_dan_dagostino_mlife.jpg"
+  },
+  {
+   "name": "800x480_g5_1020_sm",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 800,
+   "height": 480,
+   "zip": "templates_peppy_spectrum/0800/480/800x480_g5_1020_sm.zip",
+   "bytes": 6095247,
+   "sha256": "1031b1fffa2a55c4f8619e35720b1804ed40080e8b328c551a284bbd38662ff3",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "800x480_g5_1020_sm/templates/800x480_g5_1020_sm/",
+     "folder": "800x480_g5_1020_sm",
+     "names": [
+      "101G5_475A Oscil S+M",
+      "102G5_Free S+M",
+      "103G5_Kenwood Spectrum",
+      "104G5_Kenwood Rev S+M",
+      "105G5_OldPipe Spectrum",
+      "106G5_Marschal Spectrum",
+      "107G5_Marantz S+M",
+      "108G5_Teletronix S+M",
+      "109G5_Corrector S+M",
+      "110G5_Sansui S+M"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "800x480_g5_1020_sm/templates_spectrum/800x480_g5_1020_sm/",
+     "folder": "800x480_g5_1020_sm",
+     "names": [
+      "475A",
+      "Free",
+      "Kenwoo",
+      "Kenwood Big",
+      "Opipe",
+      "Marschal",
+      "Marantz",
+      "Teletronix",
+      "Correc",
+      "Sansui"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/0800/480/previews/800x480_g5_1020_sm.png",
+   "thumb": "catalog/thumbs/800x480_g5_1020_sm.jpg"
+  },
+  {
+   "name": "1024x600_g5_110_ms",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1024,
+   "height": 600,
+   "zip": "templates_peppy_spectrum/1024/600/1024x600_g5_110_ms.zip",
+   "bytes": 9063771,
+   "sha256": "bd9c911b8d64595329cf0f72a161366d0f5840973d921c8608f110aa7c26e49a",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1024x600_g5_110_ms/templates/1024x600_g5_120_ms/",
+     "folder": "1024x600_g5_120_ms",
+     "names": [
+      "101G5_Free S+M",
+      "102G5_Kenwood Rev S+M",
+      "103G5_Kenwood Spectrum",
+      "104G5_Marschal Spectrum",
+      "105G5_Technics S+M",
+      "106G5_OldPipe Spectrum",
+      "107G5_475A Oscil S+M",
+      "108G5_PeppyP S+M",
+      "109G5_Nixie S+M",
+      "110G5_Old Spectrum S+M"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1024x600_g5_110_ms/templates_spectrum/1024x600_g5_120_ms/",
+     "folder": "1024x600_g5_120_ms",
+     "names": [
+      "Free",
+      "Kenwood Big",
+      "Kenwoo",
+      "Marschal",
+      "Technics",
+      "OPipe",
+      "475A",
+      "Peppy",
+      "Nixie",
+      "Old"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1024/600/previews/1024x600_g5_110_ms.png",
+   "thumb": "catalog/thumbs/1024x600_g5_110_ms.jpg"
+  },
+  {
+   "name": "1280x400_Aluminium_spec_blue_04",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1280,
+   "height": 400,
+   "zip": "templates_peppy_spectrum/1280/400/1280x400_Aluminium_spec_blue_04.zip",
+   "bytes": 1220027,
+   "sha256": "030d6d69e9e6f7fde485911d93f94e534e55700d1d7594bdbf97bad645018e4d",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_Aluminium_spec_blue_04/templates/1280x400_Aluminium_spec_blue_04/",
+     "folder": "1280x400_Aluminium_spec_blue_04",
+     "names": [
+      "Aluminium_frame_blue_spec"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1280x400_Aluminium_spec_blue_04/templates_spectrum/1280x400_Aluminium_spec_blue_04/",
+     "folder": "1280x400_Aluminium_spec_blue_04",
+     "names": [
+      "Aluminium_spec_blue"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1280/400/previews/1280x400_Aluminium_spec_blue_04.png",
+   "thumb": "catalog/thumbs/1280x400_Aluminium_spec_blue_04.jpg"
+  },
+  {
+   "name": "1280x400_Aluminium_spec_green_06",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1280,
+   "height": 400,
+   "zip": "templates_peppy_spectrum/1280/400/1280x400_Aluminium_spec_green_06.zip",
+   "bytes": 1146776,
+   "sha256": "d07f2b6528aeb55ec6b047bc67956d4340f14972eb67a2f85f27ea79b2b3988a",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_Aluminium_spec_green_06/templates/1280x400_Aluminium_spec_green_06/",
+     "folder": "1280x400_Aluminium_spec_green_06",
+     "names": [
+      "Aluminium_frame_green_spec"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1280x400_Aluminium_spec_green_06/templates_spectrum/1280x400_Aluminium_spec_green_06/",
+     "folder": "1280x400_Aluminium_spec_green_06",
+     "names": [
+      "Aluminium_spec_green"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1280/400/previews/1280x400_Aluminium_spec_green_06.png",
+   "thumb": "catalog/thumbs/1280x400_Aluminium_spec_green_06.jpg"
+  },
+  {
+   "name": "1280x400_Aluminium_spec_orange_05",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1280,
+   "height": 400,
+   "zip": "templates_peppy_spectrum/1280/400/1280x400_Aluminium_spec_orange_05.zip",
+   "bytes": 1146305,
+   "sha256": "1dec6899a641f5c461e77732f107eb69ac6c80889c8e839af3c3e631f6b08cc6",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_Aluminium_spec_orange_05/templates/1280x400_Aluminium_spec_orange_05/",
+     "folder": "1280x400_Aluminium_spec_orange_05",
+     "names": [
+      "Aluminium_frame_orange_spec"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1280x400_Aluminium_spec_orange_05/templates_spectrum/1280x400_Aluminium_spec_orange_05/",
+     "folder": "1280x400_Aluminium_spec_orange_05",
+     "names": [
+      "Aluminium_spec_orange"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1280/400/previews/1280x400_Aluminium_spec_orange_05.png",
+   "thumb": "catalog/thumbs/1280x400_Aluminium_spec_orange_05.jpg"
+  },
+  {
+   "name": "1280x400_g5_210_ms",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1280,
+   "height": 400,
+   "zip": "templates_peppy_spectrum/1280/400/1280x400_g5_210_ms.zip",
+   "bytes": 12942249,
+   "sha256": "57293a8b0152e53e1678be23852ab566b4bc7257074cf2106d9a40ea2a3efe4b",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x400_g5_210_ms/templates/1280x400_g5_210_ms/",
+     "folder": "1280x400_g5_210_ms",
+     "names": [
+      "101G5_Kenwood S+M",
+      "102G5_Naim S+M",
+      "103G5_CD Cover S+M",
+      "104G5_KeySlight S+M",
+      "105G5_Marschal S+M",
+      "106G5_Teletronix S+M",
+      "107G5_Rhode Spectrum",
+      "108G5_Kenwood Spectrum",
+      "109G5_Nixie Spectrum",
+      "110G5_Nixie2 Spectrum",
+      "111G5_PipeWood Spectrum",
+      "112G5_Osciloscope S+M",
+      "113G5_475A OscSpectrum",
+      "114G5_Pioneer S+M",
+      "115G5_Marantz S+M",
+      "116G5_Corrector Spectrum",
+      "117G5_ONKYO S+M",
+      "118G5_Advance S+M",
+      "119G5_PeppyP S+M",
+      "120G5_Sansui"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1280x400_g5_210_ms/templates_spectrum/1280x400_g5_210_ms/",
+     "folder": "1280x400_g5_210_ms",
+     "names": [
+      "Kenwood",
+      "Naim",
+      "CD Cover",
+      "KeyS",
+      "Marschal",
+      "Teletronix",
+      "Rhode",
+      "Kenwood2",
+      "Nixie",
+      "Nixie2",
+      "Pipe",
+      "Oscilo",
+      "475A",
+      "Pioneer",
+      "Marantz",
+      "Corrector",
+      "Onkyo",
+      "Advance",
+      "Peppy",
+      "Sansui"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1280/400/previews/1280x400_g5_210_ms.png",
+   "thumb": "catalog/thumbs/1280x400_g5_210_ms.jpg"
+  },
+  {
+   "name": "1280x720_g5_450_sm",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1280,
+   "height": 720,
+   "zip": "templates_peppy_spectrum/1280/720/1280x720_g5_450_sm.zip",
+   "bytes": 8599040,
+   "sha256": "bb0f4eddc0fdce7cf22237e1bfaa3f2fda75f03e9dcf528cb3dfbbaa18d5be94",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_g5_450_sm/templates/1280x720_g5_450_sm/",
+     "folder": "1280x720_g5_450_sm",
+     "names": [
+      "101G5_Lyngdorf S+M",
+      "102G5_Naim S+M",
+      "103G5_Teletronix S+M",
+      "104G5_Old Spectrum S+M",
+      "105G5_Marantz S+M",
+      "106G5_Kenwood Spectrum"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1280x720_g5_450_sm/templates_spectrum/1280x720_g5_450_sm/",
+     "folder": "1280x720_g5_450_sm",
+     "names": [
+      "Free",
+      "Naim",
+      "Marschal",
+      "Lyng",
+      "Kenwood Big",
+      "OPipe",
+      "Marantz",
+      "Kenwoo",
+      "475A",
+      "Peppy",
+      "Teletronix",
+      "KeyS",
+      "Old"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1280/720/previews/1280x720_g5_450_sm.png",
+   "thumb": "catalog/thumbs/1280x720_g5_450_sm.jpg"
+  },
+  {
+   "name": "1280x720_g5_451_ms",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1280,
+   "height": 720,
+   "zip": "templates_peppy_spectrum/1280/720/1280x720_g5_451_ms.zip",
+   "bytes": 4079253,
+   "sha256": "fec91753550399dd8ecb7bcc1bda0bb3bfeb9407f02130ee04a737ee0e023861",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x720_g5_451_ms/templates/1280x720_g5_451_ms/",
+     "folder": "1280x720_g5_451_ms",
+     "names": [
+      "107G5_Pioneer S+M"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1280x720_g5_451_ms/templates_spectrum/1280x720_g5_451_ms/",
+     "folder": "1280x720_g5_451_ms",
+     "names": [
+      "Pioneer"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1280/720/previews/1280x720_g5_451_ms.png",
+   "thumb": "catalog/thumbs/1280x720_g5_451_ms.jpg"
+  },
+  {
+   "name": "1280x800_g5_410_ms",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1280,
+   "height": 800,
+   "zip": "templates_peppy_spectrum/1280/800/1280x800_g5_410_ms.zip",
+   "bytes": 15593963,
+   "sha256": "1026e4d84e1014f27632a8945ff14c3b195a1d9773803c1d5cb3eb70dbcfa21a",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1280x800_g5_410_ms/templates/1280x800_g5_410_mspec/",
+     "folder": "1280x800_g5_410_mspec",
+     "names": [
+      "101G5_Free S+M",
+      "102G5_Naim S+M",
+      "103G5_Marschal Spectrum",
+      "104G5_Lyngdorf S+M",
+      "105G5_Kenwood Spectrum",
+      "106G5_OldPipe Spectrum",
+      "107G5_Marantz S+M",
+      "108G5_Kenwood Rev S+M",
+      "109G5_475A Oscil S+M",
+      "110G5_PeppyP S+M",
+      "111G5_Teletronix S+M",
+      "112G5_KeySlight S+M",
+      "113G5_Old Spectrum S+M"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1280x800_g5_410_ms/templates_spcetrum/1280x800_g5_410_mspec/",
+     "folder": "1280x800_g5_410_mspec",
+     "names": [
+      "Free",
+      "Naim",
+      "Marschal",
+      "Lyng",
+      "Kenwood Big",
+      "OPipe",
+      "Marantz",
+      "Kenwoo",
+      "475A",
+      "Peppy",
+      "Teletronix",
+      "KeyS",
+      "Old"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1280/800/previews/1280x800_g5_410_ms.png",
+   "thumb": "catalog/thumbs/1280x800_g5_410_ms.jpg"
+  },
+  {
+   "name": "1480x320_g5_520_ms",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1480,
+   "height": 320,
+   "zip": "templates_peppy_spectrum/1480/320/1480x320_g5_520_ms.zip",
+   "bytes": 13934128,
+   "sha256": "bc6839c0141e98672fda2aa6d9eb1f2ef42324f23f7561ca987b6c52f43a58c7",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1480x320_g5_520_ms/templates/1480x320_g5_520_ms/",
+     "folder": "1480x320_g5_520_ms",
+     "names": [
+      "101G5_MarschalSpectrum",
+      "102G5_Marschal S+M",
+      "103G5_CD Cover S+M",
+      "104G5_Nixie Spectrum",
+      "105G5_Kenwood Spectrum",
+      "106G5_Kenwood Rev S+M",
+      "107G5_McIntosh S+M",
+      "108G5_Technics S+M",
+      "109G5_Naim S+M",
+      "110G5_Deviation S+M",
+      "111G5_Free S+M",
+      "112G5_475A S+M",
+      "113G5_Osciloscope S+M",
+      "114G5_Pioneer S+M",
+      "115G5_Corrector Spectrum",
+      "116G5_RhodeSea_S+M",
+      "117G5_OldPipe S+M",
+      "118G5_VU Single S+M",
+      "119G5_Sony TA212 S+M",
+      "120G5_Akai S+M"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1480x320_g5_520_ms/templates_spectrum/1480x320_g5_520_ms/",
+     "folder": "1480x320_g5_520_ms",
+     "names": [
+      "Marschal1",
+      "Marschal2",
+      "CD Cover",
+      "Nixie",
+      "KenwoodS",
+      "KenwoodRev",
+      "McIntosh",
+      "Technics",
+      "NaimS",
+      "Deviation",
+      "Free",
+      "475A",
+      "Oscilos",
+      "Pioneer",
+      "Corrector",
+      "BlueSea",
+      "PipeOld",
+      "VU",
+      "Sony",
+      "AkaiSp"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1480/320/previews/1480x320_g5_520_ms.png",
+   "thumb": "catalog/thumbs/1480x320_g5_520_ms.jpg"
+  },
+  {
+   "name": "1480x320_g5_521_ms",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1480,
+   "height": 320,
+   "zip": "templates_peppy_spectrum/1480/320/1480x320_g5_521_ms.zip",
+   "bytes": 10686060,
+   "sha256": "1588ae4fb24728811cfceaf0dc57ffc6f243a9218d7b29e91cec3f4e98e771dd",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1480x320_g5_521_ms/templates/1480x320_g5_521_ms/",
+     "folder": "1480x320_g5_521_ms",
+     "names": [
+      "121G5_Sony_U909ES S+M",
+      "122G5_Ampex S+M",
+      "123G5_Accuphase DG68 S+M",
+      "124G5_Magnetocord S+M",
+      "125G5_Kenwood KA S+M",
+      "126G5_McIntosh S+M",
+      "127G5_CoctailAudio S+M",
+      "128G5_Sharp SA606 S+M",
+      "129G5_AudioRL S+M",
+      "130G5_Replika S+M",
+      "131G5_Emotiva S+M",
+      "132G5_Denon S+M",
+      "133G5_SPL S+M",
+      "134G5_Bose S+M",
+      "135G5_Hitachi8500 S+M",
+      "136G5_Sharp1000 S+M"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1480x320_g5_521_ms/templates_spectrum/1480x320_g5_521_ms/",
+     "folder": "1480x320_g5_521_ms",
+     "names": [
+      "SONY",
+      "Ampex",
+      "Accu",
+      "Magneto",
+      "KenKA",
+      "McIntosh",
+      "Coctail",
+      "SarpSA",
+      "AudioRL",
+      "Replika",
+      "Emotiva",
+      "Denon",
+      "SPL",
+      "Bose",
+      "Sharp1000",
+      "Hitachi"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1480/320/previews/1480x320_g5_521_ms.png",
+   "thumb": "catalog/thumbs/1480x320_g5_521_ms.jpg"
+  },
+  {
+   "name": "1920x1080_20g5",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1920,
+   "height": 1080,
+   "zip": "templates_peppy_spectrum/1920/1080/1920x1080_20g5.zip",
+   "bytes": 30696587,
+   "sha256": "a7facbe66f5c586e2ddee18a2040c07913345ff51fa7b9c8616a9b95533fe89f",
+   "units": [
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1920x1080_20g5/templates_spectrum/1920x1080_20G5_SM_720/",
+     "folder": "1920x1080_20G5_SM_720",
+     "names": [
+      "Free",
+      "Sansui",
+      "Kenwood",
+      "Naim",
+      "McIntosh",
+      "Lynx",
+      "Nixie",
+      "Nixi2",
+      "NadHD",
+      "Adven",
+      "Sony",
+      "Kenwood Big",
+      "M6100",
+      "Dorrought",
+      "Marschal",
+      "Neon",
+      "Marantz",
+      "Technics",
+      "SansuiTU",
+      "OPipe2"
+     ]
+    },
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_20g5/templates/1920x1080_20G5_SM_720/",
+     "folder": "1920x1080_20G5_SM_720",
+     "names": [
+      "101G5_Free S+M",
+      "102G5_Sansui S+M",
+      "103G5_Kenwood S+M",
+      "104G5_Naim S+M",
+      "105G5_McIntosh S+M",
+      "106G5_Lyngdorf S+M",
+      "107G5_Nixie S+M",
+      "108G5_NIxI2 S+M",
+      "109G5_NAD C3050HD S+M",
+      "110G5_Advanced X220 S+M",
+      "111G5_Sony TAN77 S+M",
+      "112G5_Kenwood Spectrum",
+      "113G5_M6100Gold Spectrum",
+      "114G5_Dorrought Spectrum",
+      "115G5_Neon Disco Spectrum",
+      "116G5_Marschal Spectrum",
+      "117G5_Marantz S+M",
+      "118G5_Technics S+M",
+      "119G5_Sansui TU S7",
+      "120G5_OldPipe Spectrum"
+     ]
+    }
+   ],
+   "preview": null,
+   "thumb": null
+  },
+  {
+   "name": "1920x1080_g5_721_ms",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1920,
+   "height": 1080,
+   "zip": "templates_peppy_spectrum/1920/1080/1920x1080_g5_721_ms.zip",
+   "bytes": 6282752,
+   "sha256": "4397101fee8a8db8e2e7f97a520ec374f159df334fcbe9dd3d80f66ccd6bf501",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x1080_g5_721_ms/templates/1920x1080_g5_721_ms/",
+     "folder": "1920x1080_g5_721_ms",
+     "names": [
+      "121G5_Pioneer S+M"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1920x1080_g5_721_ms/templates_spectrum/1920x1080_g5_721_ms/",
+     "folder": "1920x1080_g5_721_ms",
+     "names": [
+      "Pioneer"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1920/1080/previews/1920x1080_g5_721_ms.png",
+   "thumb": "catalog/thumbs/1920x1080_g5_721_ms.jpg"
+  },
+  {
+   "name": "1920x440_Aluminium_spectrum",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1920,
+   "height": 440,
+   "zip": "templates_peppy_spectrum/1920/440/1920x440_Aluminium_spectrum.zip",
+   "bytes": 2254185,
+   "sha256": "5136e2b2eeb76d92a54ebad9717f68dae623bd07571e9e4879e5228a2d02ca62",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x440_Aluminium_spectrum/templates/1920x440_Aluminium_spectrum/",
+     "folder": "1920x440_Aluminium_spectrum",
+     "names": [
+      "Aluminium_spectrum"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1920x440_Aluminium_spectrum/templates_spectrum/1920x440_Aluminium_spectrum/",
+     "folder": "1920x440_Aluminium_spectrum",
+     "names": [
+      "Aluminium_spectrum"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1920/440/previews/1920x440_Aluminium_spectrum.png",
+   "thumb": "catalog/thumbs/1920x440_Aluminium_spectrum.jpg"
+  },
+  {
+   "name": "1920x440_Black_Blue",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1920,
+   "height": 440,
+   "zip": "templates_peppy_spectrum/1920/440/1920x440_Black_Blue.zip",
+   "bytes": 1901694,
+   "sha256": "41bfac3c4711ac592e00bc12199afc63203f8b816746dccf1f2a48baf654dce7",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x440_Black_Blue/templates/",
+     "folder": "1920x440_Black_Blue",
+     "names": [
+      "Black_Blue_spectrum"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1920x440_Black_Blue/templates_spectrum/",
+     "folder": "1920x440_Black_Blue",
+     "names": [
+      "Black_Blue_spectrum"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1920/440/previews/1920x440_Black_Blue.png",
+   "thumb": "catalog/thumbs/1920x440_Black_Blue.jpg"
+  },
+  {
+   "name": "1920x440_Flow_Two",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1920,
+   "height": 440,
+   "zip": "templates_peppy_spectrum/1920/440/1920x440_Flow_Two.zip",
+   "bytes": 2281084,
+   "sha256": "494b78eae99b9bc66ebfcab39dc1cc4136b91b39f89e2aa5d1a14458c9955a1f",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x440_Flow_Two/templates/1920x440_Flow_Two/",
+     "folder": "1920x440_Flow_Two",
+     "names": [
+      "Flow_Two"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1920x440_Flow_Two/templates_spectrum/1920x440_Flow_Two/",
+     "folder": "1920x440_Flow_Two",
+     "names": [
+      "Flow_Two"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1920/440/previews/1920x440_Flow_Two.png",
+   "thumb": "catalog/thumbs/1920x440_Flow_Two.jpg"
+  },
+  {
+   "name": "1920x440_Naim_NSS-333",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1920,
+   "height": 440,
+   "zip": "templates_peppy_spectrum/1920/440/1920x440_Naim_NSS-333.zip",
+   "bytes": 775687,
+   "sha256": "fced43f69de0863c7184e2fe709cd0c68efb12f8a8c106aed0c41df3a19f94f0",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x440_Naim_NSS-333/templates/1920x440_Naim_NSS-333/",
+     "folder": "1920x440_Naim_NSS-333",
+     "names": [
+      "Naim_NSS-333"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1920x440_Naim_NSS-333/templates_spectrum/1920x440_Naim_NSS-333/",
+     "folder": "1920x440_Naim_NSS-333",
+     "names": [
+      "Naim_NSS-333"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1920/440/previews/1920x440_Naim_NSS-333.png",
+   "thumb": "catalog/thumbs/1920x440_Naim_NSS-333.jpg"
+  },
+  {
+   "name": "1920x440_Titanium_Black",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1920,
+   "height": 440,
+   "zip": "templates_peppy_spectrum/1920/440/1920x440_Titanium_Black.zip",
+   "bytes": 2109950,
+   "sha256": "e24f3ba0dc053ddfcbdd884a4476bf2c07523ac5e12973bb5d91afe1807c5401",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x440_Titanium_Black/templates/1920x440_Titanium_Black/",
+     "folder": "1920x440_Titanium_Black",
+     "names": [
+      "Titanium_Black"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1920x440_Titanium_Black/templates_spectrum/1920x440_Titanium_Black/",
+     "folder": "1920x440_Titanium_Black",
+     "names": [
+      "Titanium_Black"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1920/440/previews/1920x440_Titanium_Black.png",
+   "thumb": "catalog/thumbs/1920x440_Titanium_Black.jpg"
+  },
+  {
+   "name": "1920x440_black-anodized",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1920,
+   "height": 440,
+   "zip": "templates_peppy_spectrum/1920/440/1920x440_black-anodized.zip",
+   "bytes": 1715006,
+   "sha256": "b41c3895c3ced93ed8fbab1fc38761a0aad1cd7bfccfeb259d66d7c6831c15c9",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x440_black-anodized/templates/1920x440_black-anodized/",
+     "folder": "1920x440_black-anodized",
+     "names": [
+      "Black-Anodized"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1920x440_black-anodized/templates_spectrum/1920x440_black-anodized/",
+     "folder": "1920x440_black-anodized",
+     "names": [
+      "Black-Anodized"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1920/440/previews/1920x440_black-anodized.png",
+   "thumb": "catalog/thumbs/1920x440_black-anodized.jpg"
+  },
+  {
+   "name": "1920x480_g5_850_sm",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1920,
+   "height": 480,
+   "zip": "templates_peppy_spectrum/1920/480/1920x480_g5_850_sm.zip",
+   "bytes": 7562480,
+   "sha256": "16ed193d250fb1792ffe99a5ed1e870ddbb4bac28523d6e556a66b8e6f63b0a7",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x480_g5_850_sm/templates/1920x480_g5_850_sm/",
+     "folder": "1920x480_g5_850_sm",
+     "names": [
+      "40G5_Kenwood Spectrum",
+      "41G5_OldPipe S+M",
+      "42G5_Accuphase DG68 S+M",
+      "43G5_Marschal Spectrum",
+      "44G5_Caltecc_S+M",
+      "45G5_Free S+M"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1920x480_g5_850_sm/templates_spectrum/1920x480_g5_850_sm/",
+     "folder": "1920x480_g5_850_sm",
+     "names": [
+      "Accu",
+      "PipeOld",
+      "KenwoodS",
+      "Free",
+      "Marshal",
+      "Altec",
+      "Saba",
+      "Techn",
+      "Yamaha"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1920/480/previews/1920x480_g5_850_sm.png",
+   "thumb": "catalog/thumbs/1920x480_g5_850_sm.jpg"
+  },
+  {
+   "name": "1920x515_g5_920_sm",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1920,
+   "height": 515,
+   "zip": "templates_peppy_spectrum/1920/515/1920x515_g5_920_sm.zip",
+   "bytes": 24438053,
+   "sha256": "9d5ec3fd2d5ebcfb3a22a4b7790dfd392b00d817c8a10e476cfa0ed9a6b8f516",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "templates/1920x515_g5_920_sm/",
+     "folder": "1920x515_g5_920_sm",
+     "names": [
+      "101G5_Free S+M",
+      "102G5_OldPipe S+M",
+      "103G5_Kenwood Rev S+M",
+      "104G5_Kenwood Spectrum",
+      "105G5_Marschal S+M",
+      "106G5_NAD C3050 S+M",
+      "107G5_Turntable S+M",
+      "108G5_Sansui S+M",
+      "109G5_Corrector Spectrum",
+      "110G5_Dagostino S+M",
+      "111G5_Sony_U909ES S+M",
+      "112G5_Accuphase DG68 S+M",
+      "113G5_Magnetocord S+M",
+      "114G5_Namson S+M",
+      "115G5_T+A 3000HV S+M",
+      "116G5_Naim S+M",
+      "117G5_CoctailAudio S+M",
+      "118G5_McIntosh S+M",
+      "119G5_RhodeSea_S+M",
+      "120G5_Caltecc_S+M",
+      "121G5_Accu_A46_S+M"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "templates_spectrum/1920x515_g5_920_sm/",
+     "folder": "1920x515_g5_920_sm",
+     "names": [
+      "Free",
+      "PipeOld",
+      "KenwRev",
+      "KenwoodS",
+      "MarschalSM",
+      "NADSM",
+      "Turn",
+      "Sansui",
+      "Corrector",
+      "Dagostino",
+      "SONY",
+      "Accu",
+      "Magneto",
+      "Namson",
+      "T+A",
+      "Naim",
+      "Coctail",
+      "McIntosh",
+      "BlueSea",
+      "Caltecc",
+      "Accu46"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1920/515/previews/1920x515_g5_920_sm.png",
+   "thumb": "catalog/thumbs/1920x515_g5_920_sm.jpg"
+  },
+  {
+   "name": "1920x550_g5_925_sm",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 1920,
+   "height": 550,
+   "zip": "templates_peppy_spectrum/1920/550/1920x550_g5_925_sm.zip",
+   "bytes": 9472771,
+   "sha256": "8d9fa4748143469c023ea8338a0120e921eb45adcb2dbdb0f9a97aaa4813b307",
+   "units": [
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "1920x550_g5_925_sm/templates/1920x550_g5_925_sm/",
+     "folder": "1920x550_g5_925_sm",
+     "names": [
+      "121G5_Free S+M",
+      "122G5_OldPipe S+M",
+      "123G5_Kenwood Spectrum",
+      "124G5_Sansui S+M",
+      "125G5_Sony_U909ES S+M",
+      "126G5_T+A 3000HV S+M",
+      "127G5_Naim S+M",
+      "128G5_CoctailAudio S+M",
+      "129G5_McIntosh S+M"
+     ]
+    },
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1920x550_g5_925_sm/templates_spectrum/1920x550_g5_925_sm/",
+     "folder": "1920x550_g5_925_sm",
+     "names": [
+      "Free",
+      "PipeOld",
+      "KenwoodS",
+      "Sansui",
+      "SONY",
+      "T+A",
+      "Naim",
+      "Coctail",
+      "McIntosh"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/1920/550/previews/1920x550_g5_925_sm.png",
+   "thumb": "catalog/thumbs/1920x550_g5_925_sm.jpg"
+  },
+  {
+   "name": "3840x2160_g5_sm_760",
+   "category": "templates_peppy_spectrum",
+   "kind": "meter+spectrum",
+   "width": 3840,
+   "height": 2160,
+   "zip": "templates_peppy_spectrum/3840/2160/3840x2160_g5_sm_760.zip",
+   "bytes": 95575091,
+   "sha256": "8713089f1fd709ee0f7acdec4a26162a7ed4c7f7b9b2254efef363b06deb9012",
+   "units": [
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "3840x2160_g5_SM_760/templates_spectrum/3840x2160_Gelo5_SpecandMet_760/",
+     "folder": "3840x2160_Gelo5_SpecandMet_760",
+     "names": [
+      "Gold",
+      "Free",
+      "Sansui",
+      "Kenwood",
+      "Naim",
+      "Lynx",
+      "NadHD",
+      "Sony",
+      "Marantz",
+      "Technics"
+     ]
+    },
+    {
+     "kind": "meter",
+     "install": "templates",
+     "from": "3840x2160_g5_SM_760/templates/3840x2160_Gelo5_SpecandMet_760/",
+     "folder": "3840x2160_Gelo5_SpecandMet_760",
+     "names": [
+      "101G5_Free S+M",
+      "102G5_Sansui S+M",
+      "103G5_Sansui HOR",
+      "104G5_Sansui VERT",
+      "105G5_Kenwood S+M",
+      "106G5_Kenwood Ver",
+      "107G5_Naim S+M",
+      "108G5_Technics Gold",
+      "109G5_Technics S+M",
+      "110G5_Lyngdorf S+M",
+      "111G5_NAD C3050HD S+M",
+      "112G5_Sony TAN77 S+M",
+      "113G5_Marantz S+M",
+      "114G5_McIntosh Hybrid",
+      "115G5_Accuphase",
+      "116G5_T+A",
+      "117G5_Hitachi HMA7500 Black",
+      "118G5_Rehringer",
+      "119G5_Old2 braun",
+      "120G5_TURN Vinyl Black"
+     ]
+    }
+   ],
+   "preview": "templates_peppy_spectrum/3840/2160/previews/3840x2160_g5_sm_760.png",
+   "thumb": "catalog/thumbs/3840x2160_g5_sm_760.jpg"
+  },
+  {
+   "name": "1920x480_gradients_kcaudio",
+   "category": "templates_spectrum",
+   "kind": "spectrum",
+   "width": 1920,
+   "height": 480,
+   "zip": "templates_spectrum/1920/480/1920x480_gradients_kcaudio.zip",
+   "bytes": 158560,
+   "sha256": "49cfdbb11b8402171a5a20be82b675da6e88e3e0b50ade3ddacd615d29909286",
+   "units": [
+    {
+     "kind": "spectrum",
+     "install": "templates_spectrum",
+     "from": "1920x480_gradients_kcaudio/",
+     "folder": "1920x480_gradients_kcaudio",
+     "names": [
+      "kcaudio_1920_green_blue",
+      "kcaudio_1920_purple_pink",
+      "kcaudio_1920_sunset",
+      "kcaudio_1920_cyan_magenta",
+      "kcaudio_1920_teal_lime",
+      "kcaudio_1920_red_gold",
+      "kcaudio_1920_night_sky",
+      "kcaudio_1920_neon_violet",
+      "kcaudio_1920_mint_sunset",
+      "kcaudio_1920_coral_aqua",
+      "kcaudio_1920_rainbow",
+      "kcaudio_1920_rainbow_reverse"
+     ]
+    }
+   ],
+   "preview": null,
+   "thumb": null
+  }
+ ]
+}

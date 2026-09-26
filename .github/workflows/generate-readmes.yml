@@ -6,6 +6,7 @@ on:
       - 'template_peppy/**'
       - 'templates_peppy_spectrum/**'
       - 'templates_spectrum/**'
+      - 'scripts/**'
   workflow_dispatch:
 
 permissions:
@@ -25,7 +26,12 @@ jobs:
         run: |
           chmod +x ./scripts/generate-readmes.sh
           ./scripts/generate-readmes.sh
-          
+
+      - name: Generate the catalog index and thumbnails
+        run: |
+          sudo apt-get update && sudo apt-get install -y --no-install-recommends imagemagick
+          python3 ./scripts/generate-index.py
+
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
